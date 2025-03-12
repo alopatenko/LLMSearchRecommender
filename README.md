@@ -103,6 +103,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Scaling the Instagram Explore Recommendations Systems, [Meta 08 2023](https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/)
 ## Verticals
 ### Product Search
+- Enhancing Relevance of Embedding-based Retrieval at Walmart, Oct 2024, [CIKM 2024](https://dl.acm.org/doi/abs/10.1145/3627673.3680047)
 - Web-Scale Semantic Product Search with Large Language Models, May 2023, [KDDM 2023](https://link.springer.com/chapter/10.1007/978-3-031-33380-4_6)
 - Overview of the TREC 2023 Product Product Search Track, [TREC 2023](https://arxiv.org/abs/2311.07861)
 ### Location Aware (Maps, real estate, local. travel)
