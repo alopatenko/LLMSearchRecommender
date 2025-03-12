@@ -101,6 +101,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## Blog posts, whitepapers
 - Query Expansion with LLMs: Searching Better by Saying More, Feb 2025, [Jina ai](https://jina.ai/news/query-expansion-with-llms-searching-better-by-saying-more/)
 - Scaling the Instagram Explore Recommendations Systems, [Meta 08 2023](https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/)
+- Evaluating search relevance part 2 - Phi-3 as relevance judge, a series of articles from ElasticSearch, practical experience on using Phi-3 llm family for relevance evaluation [elasticsearch](https://www.elastic.co/search-labs/blog/evaluating-search-relevance-part-2)
 ## Verticals
 ### Product Search
 - Enhancing Relevance of Embedding-based Retrieval at Walmart, Oct 2024, [CIKM 2024](https://dl.acm.org/doi/abs/10.1145/3627673.3680047)
