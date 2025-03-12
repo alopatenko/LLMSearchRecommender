@@ -57,6 +57,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## Ranking
 - Adaptive Neural Ranking Framework: Toward Maximized Business Goal for Cascade Ranking Systems, [WWW 2024](https://dl.acm.org/doi/10.1145/3589334.3645605)
 - RankTower: A Synergistic Framework for Enhancing Two-Tower Pre-Ranking Model, Jul 2024, [arxiv](https://arxiv.org/abs/2407.12385)
+## Query Understanding
 
 ## Embeddings
 ## Recommender Engines
