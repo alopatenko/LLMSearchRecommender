@@ -66,6 +66,8 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Text Is All You Need: Learning Language Representations for Sequential Recommendation, May 2023, [arxiv](https://arxiv.org/abs/2305.13731)
 - On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models, Sep 2022, [arxiv](https://arxiv.org/abs/2209.05310)
 - Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), Mar 2022, [arxiv](https://arxiv.org/abs/2203.13366)
+- Augmenting Netflix Search with In-Session Adapted Recommendations, [RecSys 2022](https://dl.acm.org/doi/abs/10.1145/3523227.3547407)
+
 
 
 ## Discovery
