@@ -2,10 +2,16 @@
 The goal of this repository is to survey and review generative AI and LLM-based methods for building large-scale search and recommender engines.
 see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation)
 ## Search Surveys
+- A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
 - A Survey of Model Architectures in Information Retrieval, Jan 2025, [arxiv](https://arxiv.org/abs/2502.14822)
 - A Survey of Conversational Search, Oct 2024, [arxiv](https://arxiv.org/abs/2410.15576v1)
 - From Matching to Generation: A Survey on Generative Information Retrieval, Apr 2024, [arxiv](https://arxiv.org/abs/2404.14851)
 - Large Language Models for Information Retrieval: A Survey, Aug 2023, [arxiv](https://arxiv.org/abs/2308.07107)
+## Recommender Engine Surveys
+- A Survey on LLM-powered Agents for Recommender Systems, Feb 2025, [arxiv](https://arxiv.org/abs/2502.10050)
+- How Can Recommender Systems Benefit from Large Language Models: A Survey, [ACM Transactions on Information Systems 2025](https://dl.acm.org/doi/abs/10.1145/3678004)
+- Recommender Systems in the Era of Large Language Models (LLMs), [TKDE Nov 2024  by subscription](https://ieeexplore.ieee.org/document/10506571)
+- Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond, Oct 2024, [arxiv](https://arxiv.org/abs/2410.19744)
 ## FreshLLM and similar architectures (LLM and large scale  search)
 - When Search Engine Services Meet Large Language Models: Visions and Challenges, Dec 2024, [IEEE](https://ieeexplore.ieee.org/abstract/document/10654534?)
 - FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation, Oct 2023. [arxiv](https://arxiv.org/abs/2310.03214)
@@ -26,6 +32,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation)
 ## RAG
 - Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG, Jan 2025, [arxiv](https://arxiv.org/abs/2501.09136)
 - RAFT: Adapting Language Model to Domain Specific RAG, Jul 2024, [open review](https://openreview.net/forum?id=rzQGHXNReU#discussion)
+- RAG-Star: Enhancing Deliberative Reasoning with Retrieval Augmented Verification and Refinement, Dec 2024, [arxiv](https://arxiv.org/abs/2412.12881)
 - RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation, Mar 2024, [arxiv](https://arxiv.org/abs/2404.00610)
 ## Embeddings
 ## Recommender Engines
@@ -35,7 +42,10 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation)
 - RouteLLM: Learning to Route LLMs with Preference Data, Jun 2024, [arxiv](https://arxiv.org/abs/2406.18665)
 - A Comprehensive Study of Knowledge Editing for Large Language Models, Jan 2024, [arxiv](https://arxiv.org/abs/2401.01286)
 - Zero-shot Document Retrieval with Hybrid Pseudo-document Retriever, [ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10889897)
-- RAG-Star: Enhancing Deliberative Reasoning with Retrieval Augmented Verification and Refinement, Dec 2024, [arxiv](https://arxiv.org/abs/2412.12881)
+- Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, Dec 2024, [ACM](https://dl.acm.org/doi/abs/10.1145/3708882)
+- Representation Learning with Large Language Models for Recommendation, [WWW 2024](https://dl.acm.org/doi/abs/10.1145/3589334.3645458)
+## Rankers
+- Large Language Models are Zero-Shot Rankers for Recommender Systems, Mar 2024, LLMRank, [Springer](https://link.springer.com/chapter/10.1007/978-3-031-56060-6_24)
 ## Industrial approaches
 - ZeroEntropy 🔎 - Advanced AI Search Over Complex Documents [launch doc](https://www.ycombinator.com/launches/MZf-zeroentropy-advanced-ai-search-over-complex-documents)
 ## Evaluation of Search engines
