@@ -12,6 +12,8 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - A Survey on LLM-powered Agents for Recommender Systems, Feb 2025, [arxiv](https://arxiv.org/abs/2502.10050)
 - How Can Recommender Systems Benefit from Large Language Models: A Survey, [ACM Transactions on Information Systems 2025](https://dl.acm.org/doi/abs/10.1145/3678004)
 - Recommender Systems in the Era of Large Language Models (LLMs), [TKDE Nov 2024  by subscription](https://ieeexplore.ieee.org/document/10506571)
+- A Survey of Generative Search and Recommendation in the Era of Large Language Models, Apr 2024, [arxiv](https://arxiv.org/abs/2404.16924)
+- A survey on large language models for recommendation, [WWW 2024 Springer](https://link.springer.com/article/10.1007/s11280-024-01291-2)
 - Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond, Oct 2024, [arxiv](https://arxiv.org/abs/2410.19744)
 ## Software, libraries, frameworks
 - [Nvidia Merlin](https://developer.nvidia.com/merlin) Recommender systems, including [Transformer4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
@@ -40,6 +42,21 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation, Mar 2024, [arxiv](https://arxiv.org/abs/2404.00610)
 ## Embeddings
 ## Recommender Engines
+- 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation, Jan 2025, [arxiv](https://arxiv.org/abs/2501.16450)
+- Representation Learning with Large Language Models for Recommendation, [WWW 2024]([WWW 2024](https://dl.acm.org/doi/abs/10.1145/3589334.3645458))
+- Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, May 2023, [arxiv](https://arxiv.org/abs/2305.07001)
+- Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, [RecSys 2024](https://dl.acm.org/doi/abs/10.1145/3640457.3688104)
+- Data-efficient Fine-tuning for LLM-based Recommendation, [SIGIR 2024](https://dl.acm.org/doi/abs/10.1145/3626772.3657807)
+- LLMRec: Large Language Models with Graph Augmentation for Recommendation, [WSDM 2024](https://dl.acm.org/doi/abs/10.1145/3616855.3635853)
+- DiffKG: Knowledge Graph Diffusion Model for Recommendation, [WSDM 2024](https://dl.acm.org/doi/abs/10.1145/3616855.3635850)
+- Bridging Language and Items for Retrieval and Recommendation, Mar 2024 [arxiv](https://arxiv.org/abs/2403.03952) BLAIR paper
+- Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations, Feb 2024, [arxiv](https://arxiv.org/abs/2402.17152)
+- Tapping the Potential of Large Language Models as Recommender Systems: A Comprehensive Framework and Empirical Analysis, Jan 2024 [arxiv]()
+- Text Is All You Need: Learning Language Representations for Sequential Recommendation, May 2023, [arxiv](https://arxiv.org/abs/2305.13731)
+- On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models, Sep 2022, [arxiv](https://arxiv.org/abs/2209.05310)
+- Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), Mar 2022, [arxiv](https://arxiv.org/abs/2203.13366)
+
+
 ## Discovery
 ## Useful methods (unclassified. TODO classify). methods used in search engines
 - Translational Generative Retrieval via Potential Query Generation, [ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10888918)
