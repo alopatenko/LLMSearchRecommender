@@ -14,6 +14,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - A Survey on LLM-powered Agents for Recommender Systems, Feb 2025, [arxiv](https://arxiv.org/abs/2502.10050)
 - How Can Recommender Systems Benefit from Large Language Models: A Survey, [ACM Transactions on Information Systems 2025](https://dl.acm.org/doi/abs/10.1145/3678004)
 - Recommender Systems in the Era of Large Language Models (LLMs), [TKDE Nov 2024  by subscription](https://ieeexplore.ieee.org/document/10506571)
+- A Comprehensive Survey on Retrieval Methods in Recommender Systems, Jul 2024, [arxiv](https://arxiv.org/abs/2407.21022)
 - A Survey of Generative Search and Recommendation in the Era of Large Language Models, Apr 2024, [arxiv](https://arxiv.org/abs/2404.16924)
 - A survey on large language models for recommendation, [WWW 2024 Springer](https://link.springer.com/article/10.1007/s11280-024-01291-2)
 - Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond, Oct 2024, [arxiv](https://arxiv.org/abs/2410.19744)
@@ -54,6 +55,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - On the Robustness of Generative Information Retrieval Models: An Out-of-Distribution Perspective, Jan 2025, [link](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/liu-2025-robustness.pdf)
 - How to Make Cross Encoder a Good Teacher for Efficient Image-Text Retrieval?, July 2024, [arxiv](https://arxiv.org/abs/2407.07479v1)
 ## Ranking
+- Adaptive Neural Ranking Framework: Toward Maximized Business Goal for Cascade Ranking Systems, [WWW 2024](https://dl.acm.org/doi/10.1145/3589334.3645605)
 - RankTower: A Synergistic Framework for Enhancing Two-Tower Pre-Ranking Model, Jul 2024, [arxiv](https://arxiv.org/abs/2407.12385)
 
 ## Embeddings
@@ -111,6 +113,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Real-time Personalization using Embeddings for Search Ranking at Airbnb, [KDD 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219885)
 ### Ads / advertisement
 - Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace, Feb 2025, DoorDash, [arxiv]( https://arxiv.org/abs/2502.10514)
+- Scaling Laws for Online Advertisement Retrieval, Nov 2024, [arxiv](https://arxiv.org/abs/2411.13322)
 ### Real estate
 - Beyond Relevance: A Demand Balancer Model for Rental Platforms with Single-Unit Inventory, [WSDM 2025](https://dl.acm.org/doi/abs/10.1145/3701551.3706126)
 
