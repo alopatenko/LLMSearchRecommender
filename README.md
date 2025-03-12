@@ -93,3 +93,17 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ### Product Search
 - Web-Scale Semantic Product Search with Large Language Models, May 2023, [KDDM 2023](https://link.springer.com/chapter/10.1007/978-3-031-33380-4_6)
 - Overview of the TREC 2023 Product Product Search Track, [TREC 2023](https://arxiv.org/abs/2311.07861)
+### Location Aware (Maps, real estate, local. travel)
+- Learning to Rank for Maps at Airbnb, [KDD 2024](https://dl.acm.org/doi/abs/10.1145/3637528.3671648)
+- Transforming Location Retrieval at Airbnb: A Journey from Heuristics to Reinforcement Learning, [CIKM 2024](https://dl.acm.org/doi/abs/10.1145/3627673.3680089)
+- Optimizing Airbnb Search Journey with Multi-task Learning [SIGKDD 2023](https://dl.acm.org/doi/abs/10.1145/3580305.3599881)
+- Learning To Rank Diversely At Airbnb, [CIKM 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3614692)
+- Improving Deep Learning for Airbnb Search, [KDD 2020](https://dl.acm.org/doi/abs/10.1145/3394486.3403333)
+- Real-time Personalization using Embeddings for Search Ranking at Airbnb, [KDD 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219885)
+### Ads / advertisement
+- Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace, Feb 2025, DoorDash, [arxiv]( https://arxiv.org/abs/2502.10514)
+### Real estate
+- Beyond Relevance: A Demand Balancer Model for Rental Platforms with Single-Unit Inventory, [WSDM 2025](https://dl.acm.org/doi/abs/10.1145/3701551.3706126)
+
+
+
