@@ -1,4 +1,6 @@
 # LLM and Search and Recommender Engines
+The goal of this repository is to survey and review generative AI and LLM-based methods for building large-scale search and recommender engines.
+see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation)
 ## Search Surveys
 - A Survey of Model Architectures in Information Retrieval, Jan 2025, [arxiv](https://arxiv.org/abs/2502.14822)
 - A Survey of Conversational Search, Oct 2024, [arxiv](https://arxiv.org/abs/2410.15576v1)
