@@ -33,6 +33,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 
 ## Multi modal
 - RAMQA: A Unified Framework for Retrieval-Augmented Multi-Modal Question Answering, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13297)
+- EA-VTR: Event-Aware Video-Text Retrieval, ECCV 2024, [ECCV 2024](https://link.springer.com/chapter/10.1007/978-3-031-72943-0_5)
 - ColPali: Efficient Document Retrieval with Vision Language Models, Jun 2024, [arxiv](https://arxiv.org/abs/2407.01449)
 ## Question Answering
 - CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering, Jan 2025, [arxiv](https://arxiv.org/abs/2501.03447)
@@ -49,12 +50,15 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## Retrieval
 - CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval, Jan 2025, [ACM](https://dl.acm.org/doi/abs/10.1145/3678880)
 - On the Robustness of Generative Information Retrieval Models: An Out-of-Distribution Perspective, Jan 2025, [link](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/liu-2025-robustness.pdf)
+- How to Make Cross Encoder a Good Teacher for Efficient Image-Text Retrieval?, July 2024, [arxiv](https://arxiv.org/abs/2407.07479v1)
 ## Ranking
+- RankTower: A Synergistic Framework for Enhancing Two-Tower Pre-Ranking Model, Jul 2024, [arxiv](https://arxiv.org/abs/2407.12385)
 
 ## Embeddings
 ## Recommender Engines
 - 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation, Jan 2025, [arxiv](https://arxiv.org/abs/2501.16450)
 - Representation Learning with Large Language Models for Recommendation, [WWW 2024]([WWW 2024](https://dl.acm.org/doi/abs/10.1145/3589334.3645458))
+- Improved Estimation of Ranks for Learning Item Recommenders with Negative Sampling, [Google CIKM 2024](https://research.google/pubs/improved-estimation-of-ranks-for-learning-item-recommenders-with-negative-sampling/)
 - Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, May 2023, [arxiv](https://arxiv.org/abs/2305.07001)
 - Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, [RecSys 2024](https://dl.acm.org/doi/abs/10.1145/3640457.3688104)
 - Data-efficient Fine-tuning for LLM-based Recommendation, [SIGIR 2024](https://dl.acm.org/doi/abs/10.1145/3626772.3657807)
@@ -67,6 +71,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models, Sep 2022, [arxiv](https://arxiv.org/abs/2209.05310)
 - Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), Mar 2022, [arxiv](https://arxiv.org/abs/2203.13366)
 - Augmenting Netflix Search with In-Session Adapted Recommendations, [RecSys 2022](https://dl.acm.org/doi/abs/10.1145/3523227.3547407)
+- Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations, [Google RecSys 2019](https://research.google/pubs/sampling-bias-corrected-neural-modeling-for-large-corpus-item-recommendations/)
 
 
 
@@ -89,6 +94,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Report on the 1st Workshop on Large Language Model for Evaluation in Information Retrieval (LLM4Eval 2024) at SIGIR 2024, [SIGIR](https://dl.acm.org/doi/abs/10.1145/3722449.3722461)
 ## Blog posts, whitepapers
 - Query Expansion with LLMs: Searching Better by Saying More, Feb 2025, [Jina ai](https://jina.ai/news/query-expansion-with-llms-searching-better-by-saying-more/)
+- Scaling the Instagram Explore Recommendations Systems, [Meta 08 2023](https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/)
 ## Verticals
 ### Product Search
 - Web-Scale Semantic Product Search with Large Language Models, May 2023, [KDDM 2023](https://link.springer.com/chapter/10.1007/978-3-031-33380-4_6)
