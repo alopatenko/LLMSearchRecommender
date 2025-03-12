@@ -17,6 +17,8 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - A Survey of Generative Search and Recommendation in the Era of Large Language Models, Apr 2024, [arxiv](https://arxiv.org/abs/2404.16924)
 - A survey on large language models for recommendation, [WWW 2024 Springer](https://link.springer.com/article/10.1007/s11280-024-01291-2)
 - Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond, Oct 2024, [arxiv](https://arxiv.org/abs/2410.19744)
+- Pre-train, Prompt, and Recommendation: A Comprehensive Survey of Language Modeling Paradigm Adaptations in Recommender Systems , Dec 2023, [MIT](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00619/118712)
+
 ## Software, libraries, frameworks
 - [Nvidia Merlin](https://developer.nvidia.com/merlin) Recommender systems, including [Transformer4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 - [OpenP5](https://github.com/agiresearch/OpenP5) [RecSys23 tutorial](https://llmrecsys.github.io/)
@@ -67,6 +69,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Bridging Language and Items for Retrieval and Recommendation, Mar 2024 [arxiv](https://arxiv.org/abs/2403.03952) BLAIR paper
 - Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations, Feb 2024, [arxiv](https://arxiv.org/abs/2402.17152)
 - Tapping the Potential of Large Language Models as Recommender Systems: A Comprehensive Framework and Empirical Analysis, Jan 2024 [arxiv]()
+- Leveraging Large Language Models for Sequential Recommendation, [RecSys 2023](https://dl.acm.org/doi/abs/10.1145/3604915.3610639)
 - Text Is All You Need: Learning Language Representations for Sequential Recommendation, May 2023, [arxiv](https://arxiv.org/abs/2305.13731)
 - On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models, Sep 2022, [arxiv](https://arxiv.org/abs/2209.05310)
 - Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), Mar 2022, [arxiv](https://arxiv.org/abs/2203.13366)
