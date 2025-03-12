@@ -25,6 +25,10 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## Multi Turn
 ## Query Clarification
 ## Personalization
+- Can Large Language Models Understand Preferences in Personalized Recommendation?, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13391v1)
+- Unified Embedding Based Personalized Retrieval in Etsy Search, Sep 2024, [arxiv](https://arxiv.org/abs/2306.04833)
+- IntentRec: Predicting User Session Intent with Hierarchical Multi-Task Learning, Jul 2024 Netflix, [arxiv](https://arxiv.org/abs/2408.05353)
+
 ## Multi modal
 - RAMQA: A Unified Framework for Retrieval-Augmented Multi-Modal Question Answering, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13297)
 - ColPali: Efficient Document Retrieval with Vision Language Models, Jun 2024, [arxiv](https://arxiv.org/abs/2407.01449)
