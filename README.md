@@ -1,6 +1,7 @@
 # LLM and Search and Recommender Engines
 The goal of this repository is to survey and review generative AI and LLM-based methods for building large-scale search and recommender engines.
-see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation)
+see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [repository](https://github.com/alopatenko/LLMSearchRecommender)
+
 ## Search Surveys
 - A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
 - A Survey of Model Architectures in Information Retrieval, Jan 2025, [arxiv](https://arxiv.org/abs/2502.14822)
@@ -12,6 +13,9 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation)
 - How Can Recommender Systems Benefit from Large Language Models: A Survey, [ACM Transactions on Information Systems 2025](https://dl.acm.org/doi/abs/10.1145/3678004)
 - Recommender Systems in the Era of Large Language Models (LLMs), [TKDE Nov 2024  by subscription](https://ieeexplore.ieee.org/document/10506571)
 - Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond, Oct 2024, [arxiv](https://arxiv.org/abs/2410.19744)
+## Software, libraries, frameworks
+- [Nvidia Merlin](https://developer.nvidia.com/merlin) Recommender systems
+- [OpenP5](https://github.com/agiresearch/OpenP5) [RecSys23 tutorial](https://llmrecsys.github.io/)
 ## FreshLLM and similar architectures (LLM and large scale  search)
 - When Search Engine Services Meet Large Language Models: Visions and Challenges, Dec 2024, [IEEE](https://ieeexplore.ieee.org/abstract/document/10654534?)
 - FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation, Oct 2023. [arxiv](https://arxiv.org/abs/2310.03214)
