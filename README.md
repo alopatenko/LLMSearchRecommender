@@ -1,7 +1,6 @@
 # LLM and Search and Recommender Engines
 The goal of this repository is to survey and review generative AI and LLM-based methods for building large-scale search and recommender engines.
 see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [repository](https://github.com/alopatenko/LLMSearchRecommender)
-
 ## Search Surveys
 - A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
 - Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions, Jan 2025, [IEEE](https://ieeexplore.ieee.org/abstract/document/10843094)
@@ -21,7 +20,6 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - A survey on large language models for recommendation, [WWW 2024 Springer](https://link.springer.com/article/10.1007/s11280-024-01291-2)
 - Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond, Oct 2024, [arxiv](https://arxiv.org/abs/2410.19744)
 - Pre-train, Prompt, and Recommendation: A Comprehensive Survey of Language Modeling Paradigm Adaptations in Recommender Systems , Dec 2023, [MIT](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00619/118712)
-
 ## Software, libraries, frameworks
 - [Nvidia Merlin](https://developer.nvidia.com/merlin) Recommender systems, including [Transformer4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 - [OpenP5](https://github.com/agiresearch/OpenP5) [RecSys23 tutorial](https://llmrecsys.github.io/)
@@ -37,7 +35,6 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Can Large Language Models Understand Preferences in Personalized Recommendation?, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13391v1)
 - Unified Embedding Based Personalized Retrieval in Etsy Search, Sep 2024, [arxiv](https://arxiv.org/abs/2306.04833)
 - IntentRec: Predicting User Session Intent with Hierarchical Multi-Task Learning, Jul 2024 Netflix, [arxiv](https://arxiv.org/abs/2408.05353)
-
 ## Multi modal
 - RAMQA: A Unified Framework for Retrieval-Augmented Multi-Modal Question Answering, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13297)
 - EA-VTR: Event-Aware Video-Text Retrieval, ECCV 2024, [ECCV 2024](https://link.springer.com/chapter/10.1007/978-3-031-72943-0_5)
@@ -78,6 +75,8 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Passage Re-ranking with BERT, 2019, [arxiv](https://arxiv.org/abs/1901.04085)
 ## Query Understanding
 - Large Language Model based Long-tail Query Rewriting in Taobao Search, [WWW 2024](https://dl.acm.org/doi/abs/10.1145/3589335.3648298)
+- Near-duplicate question detection, [WWW 2024](https://www.amazon.science/publications/near-duplicate-question-detection)
+- Hierarchical query classification in e-commerce search, [WWW 2024](https://www.amazon.science/publications/hierarchical-query-classification-in-e-commerce-search)
 - Query Understanding in the Age of Large Language Models, Jun 2023, [arxiv](https://arxiv.org/abs/2306.16004)
 ## Embeddings
 ## Recommender Engines
@@ -125,6 +124,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ### Product Search
 - Personalised outfit recommendation via history-aware transformers, Amazon Science, [WSDM 2025](https://www.amazon.science/publications/personalised-outfit-recommendation-via-history-aware-transformers)
 - Enhancing Relevance of Embedding-based Retrieval at Walmart, Oct 2024, [CIKM 2024](https://dl.acm.org/doi/abs/10.1145/3627673.3680047)
+- Hierarchical query classification in e-commerce search, [WWW 2024](https://www.amazon.science/publications/hierarchical-query-classification-in-e-commerce-search)
 - An interpretable ensemble of graph and language models for improving search relevance in e-commerce, [WWW 2024](https://www.amazon.science/publications/an-interpretable-ensemble-of-graph-and-language-models-for-improving-search-relevance-in-e-commerce)
 - Web-Scale Semantic Product Search with Large Language Models, May 2023, [KDDM 2023](https://link.springer.com/chapter/10.1007/978-3-031-33380-4_6)
 - Web-scale semantic product search with large language models, Amazon Science, [PAKDD 2023](https://www.amazon.science/publications/web-scale-semantic-product-search-with-large-language-models)
