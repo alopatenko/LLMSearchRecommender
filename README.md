@@ -12,6 +12,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Personalization](#personalization)
   - [Multi modal](#multi-modal)
   - [Question Answering](#question-answering)
+  - [Querying Structured Information](#querying-structured-information)
   - [RAG](#rag)
   - [Retrieval](#retrieval)
   - [Ranking for Search](#ranking-for-search)
@@ -98,6 +99,8 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - LLM-MedQA: Enhancing Medical Question Answering through Case Studies in Large Language Models, Jan 2025, [arxiv](https://arxiv.org/abs/2501.05464)
 - Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation, Jan 2025, [arxiv](https://arxiv.org/abs/2412.18537)
 - Assessing The Potential Of Mid-Sized Language Models For Clinical QA, apr 2024, [arxiv](https://arxiv.org/abs/2404.15894)
+## Querying Structured Information
+- Querying Databases with Function Calling, Jan 2025, [arxiv](https://arxiv.org/abs/2502.00032)
 ## RAG
 - Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG, Jan 2025, [arxiv](https://arxiv.org/abs/2501.09136)
 - RAFT: Adapting Language Model to Domain Specific RAG, Jul 2024, [open review](https://openreview.net/forum?id=rzQGHXNReU#discussion)
