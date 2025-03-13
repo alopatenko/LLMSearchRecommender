@@ -63,6 +63,7 @@ autocomplete/autosuggest and other search assistance tasks
 - How to Make Cross Encoder a Good Teacher for Efficient Image-Text Retrieval?, July 2024, [arxiv](https://arxiv.org/abs/2407.07479v1)
 ## Ranking for Search
 - Orbit: A framework for designing and evaluating multi-objective rankers, [ACM conf on intelligence user interfaces 2025](https://www.amazon.science/publications/orbit-a-framework-for-designing-and-evaluating-multi-objective-rankers)
+- Beyond Matryoshka: Revisiting Sparse Coding for Adaptive Representation, Mar 2025, [arxiv](https://arxiv.org/abs/2503.01776)
 - DISKCO: Disentangling knowledge from cross-encoder to bi-encoder, [WWW 2024](https://www.amazon.science/publications/diskco-disentangling-knowledge-from-cross-encoder-to-bi-encoder)
 - Adaptive Neural Ranking Framework: Toward Maximized Business Goal for Cascade Ranking Systems, [WWW 2024](https://dl.acm.org/doi/10.1145/3589334.3645605)
 - RankTower: A Synergistic Framework for Enhancing Two-Tower Pre-Ranking Model, Jul 2024, [arxiv](https://arxiv.org/abs/2407.12385)
@@ -83,9 +84,12 @@ autocomplete/autosuggest and other search assistance tasks
 - Near-duplicate question detection, [WWW 2024](https://www.amazon.science/publications/near-duplicate-question-detection)
 - Hierarchical query classification in e-commerce search, [WWW 2024](https://www.amazon.science/publications/hierarchical-query-classification-in-e-commerce-search)
 - Query Understanding in the Age of Large Language Models, Jun 2023, [arxiv](https://arxiv.org/abs/2306.16004)
-## Embeddings
+## Embedding models
+- Multilingual E5 Text Embeddings: A Technical Report, Feb 2024, [arxiv](https://arxiv.org/abs/2402.05672v1)
+- BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation, Feb 2024, [arxiv](https://arxiv.org/abs/2402.03216)
 ## Recommender Engines
 - 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation, Jan 2025, [arxiv](https://arxiv.org/abs/2501.16450)
+- Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations, Baidu, Mar 2025, [arxiv](https://arxiv.org/abs/2503.02453)
 - Personalised outfit recommendation via history-aware transformers, Amazon Science, [WSDM 2025](https://www.amazon.science/publications/personalised-outfit-recommendation-via-history-aware-transformers)
 - Representation Learning with Large Language Models for Recommendation, [WWW 2024]([WWW 2024](https://dl.acm.org/doi/abs/10.1145/3589334.3645458))
 - Improved Estimation of Ranks for Learning Item Recommenders with Negative Sampling, [Google CIKM 2024](https://research.google/pubs/improved-estimation-of-ranks-for-learning-item-recommenders-with-negative-sampling/)
@@ -96,6 +100,7 @@ autocomplete/autosuggest and other search assistance tasks
 - DiffKG: Knowledge Graph Diffusion Model for Recommendation, [WSDM 2024](https://dl.acm.org/doi/abs/10.1145/3616855.3635850)
 - Bridging Language and Items for Retrieval and Recommendation, Mar 2024 [arxiv](https://arxiv.org/abs/2403.03952) BLAIR paper
 - Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations, Feb 2024, [arxiv](https://arxiv.org/abs/2402.17152)
+- Trinity: Syncretizing Multi-/Long-tail/Long-term Interests All in One, BydeDance , Feb 2024, [arxiv](https://arxiv.org/abs/2402.02842)
 - Tapping the Potential of Large Language Models as Recommender Systems: A Comprehensive Framework and Empirical Analysis, Jan 2024 [arxiv]()
 - Leveraging Large Language Models for Sequential Recommendation, [RecSys 2023](https://dl.acm.org/doi/abs/10.1145/3604915.3610639)
 - Text Is All You Need: Learning Language Representations for Sequential Recommendation, May 2023, [arxiv](https://arxiv.org/abs/2305.13731)
