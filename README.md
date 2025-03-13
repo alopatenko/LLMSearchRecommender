@@ -57,6 +57,7 @@ autocomplete/autosuggest and other search assistance tasks
 - RAG-Star: Enhancing Deliberative Reasoning with Retrieval Augmented Verification and Refinement, Dec 2024, [arxiv](https://arxiv.org/abs/2412.12881)
 - RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation, Mar 2024, [arxiv](https://arxiv.org/abs/2404.00610)
 ## Retrieval
+- DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers, Meta, univ of Waterloo, Feb 2025, [arxiv](https://arxiv.org/abs/2502.18460)
 - CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval, Jan 2025, [ACM](https://dl.acm.org/doi/abs/10.1145/3678880)
 - On the Robustness of Generative Information Retrieval Models: An Out-of-Distribution Perspective, Jan 2025, [link](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/liu-2025-robustness.pdf)
 - How Does Generative Retrieval Scale to Millions of Passages?, Google Research, May 2023 [arxiv](https://arxiv.org/abs/2305.11841)
@@ -85,6 +86,7 @@ autocomplete/autosuggest and other search assistance tasks
 - Hierarchical query classification in e-commerce search, [WWW 2024](https://www.amazon.science/publications/hierarchical-query-classification-in-e-commerce-search)
 - Query Understanding in the Age of Large Language Models, Jun 2023, [arxiv](https://arxiv.org/abs/2306.16004)
 ## Embedding models
+- Granite Embedding Models (multi-lingual embedding models from IBM), Feb 2025 [arxiv](https://arxiv.org/abs/2502.20204)
 - Multilingual E5 Text Embeddings: A Technical Report, Feb 2024, [arxiv](https://arxiv.org/abs/2402.05672v1)
 - BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation, Feb 2024, [arxiv](https://arxiv.org/abs/2402.03216)
 ## Recommender Engines
