@@ -1,6 +1,37 @@
 # LLM and Search and Recommender Engines
 The goal of this repository is to survey and review generative AI and LLM-based methods for building large-scale search and recommender engines.
 see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [repository](https://github.com/alopatenko/LLMSearchRecommender)
+- [LLM and Search and Recommender Engines](#llm-and-search-and-recommender-engines)
+  - [Search Surveys](#search-surveys)
+  - [Recommender Engine Surveys](#recommender-engine-surveys)
+  - [Software, libraries, frameworks](#software-libraries-frameworks)
+  - [FreshLLM and similar architectures (LLM and large scale  search)](#freshllm-and-similar-architectures-llm-and-large-scale--search)
+  - [Conversational Search](#conversational-search)
+  - [Search Assistance](#search-assistance)
+  - [Multi Turn](#multi-turn)
+  - [Personalization](#personalization)
+  - [Multi modal](#multi-modal)
+  - [Question Answering](#question-answering)
+  - [RAG](#rag)
+  - [Retrieval](#retrieval)
+  - [Ranking for Search](#ranking-for-search)
+    - [Classical bi-encoder and cross encoder ranking,](#classical-bi-encoder-and-cross-encoder-ranking)
+  - [Query Understanding](#query-understanding)
+  - [Embedding models](#embedding-models)
+  - [Recommender Engines](#recommender-engines)
+  - [Discovery](#discovery)
+  - [Unclassified](#unclassified)
+  - [Recommender Rankers](#recommender-rankers)
+  - [Industrial approaches](#industrial-approaches)
+  - [Evaluation of Search engines](#evaluation-of-search-engines)
+  - [Blog posts, whitepapers](#blog-posts-whitepapers)
+  - [Verticals](#verticals)
+    - [Product Search](#product-search)
+    - [Location Aware (Maps, real estate, local. travel)](#location-aware-maps-real-estate-local-travel)
+    - [Ads / advertisement](#ads--advertisement)
+    - [Real estate](#real-estate)
+  - [Search Engine Optimization](#search-engine-optimization)
+
 ## Search Surveys
 - A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
 - Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions, Jan 2025, [IEEE](https://ieeexplore.ieee.org/abstract/document/10843094)
@@ -176,6 +207,7 @@ methods (unclassified. TODO classify). methods used in search engines
 - Beyond Relevance: A Demand Balancer Model for Rental Platforms with Single-Unit Inventory, [WSDM 2025](https://dl.acm.org/doi/abs/10.1145/3701551.3706126)
 ## Search Engine Optimization
 - Adversarial Search Engine Optimization for Large Language Models, Jul 2024, [arxiv](https://arxiv.org/abs/2406.18382)
+
 
 
 
