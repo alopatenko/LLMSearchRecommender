@@ -7,8 +7,10 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions, Jan 2025, [IEEE](https://ieeexplore.ieee.org/abstract/document/10843094)
 - A Survey of Model Architectures in Information Retrieval, Jan 2025, [arxiv](https://arxiv.org/abs/2502.14822)
 - A Survey of Conversational Search, Oct 2024, [arxiv](https://arxiv.org/abs/2410.15576v1)
+- Large language models for generative information extraction: a survey, 2024, [Front Comp Sci](https://link.springer.com/content/pdf/10.1007/s11704-024-40555-y.pdf)
 - From Matching to Generation: A Survey on Generative Information Retrieval, Apr 2024, [arxiv](https://arxiv.org/abs/2404.14851)
 - Dense Text Retrieval Based on Pretrained Language Models: A Survey, Feb 2024, [ACM](https://dl.acm.org/doi/abs/10.1145/3637870)
+- Retrieval-Augmented Generation for Large Language Models: A Survey, 2023, [simg](https://simg.baai.ac.cn/paperfile/25a43194-c74c-4cd3-b60f-0a1f27f8b8af.pdf)
 - Large Language Models for Information Retrieval: A Survey, Aug 2023, [arxiv](https://arxiv.org/abs/2308.07107)
 ## Recommender Engine Surveys
 - A Survey on LLM-powered Agents for Recommender Systems, Feb 2025, [arxiv](https://arxiv.org/abs/2502.10050)
@@ -27,6 +29,8 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - When Search Engine Services Meet Large Language Models: Visions and Challenges, Dec 2024, [IEEE](https://ieeexplore.ieee.org/abstract/document/10654534?)
 - FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation, Oct 2023. [arxiv](https://arxiv.org/abs/2310.03214)
 ## Conversational Search
+- A Survey of Conversational Search, Oct 2024, [arxiv](https://arxiv.org/abs/2410.15576v1)
+- Engineering Conversational Search Systems: A Review of Applications, Architectures, and Functional Components, Jul 2024, [arxiv](https://arxiv.org/abs/2407.00997)
 ## Multi Turn
 ## Query Clarification
 ## Personalization
@@ -53,12 +57,25 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## Retrieval
 - CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval, Jan 2025, [ACM](https://dl.acm.org/doi/abs/10.1145/3678880)
 - On the Robustness of Generative Information Retrieval Models: An Out-of-Distribution Perspective, Jan 2025, [link](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/liu-2025-robustness.pdf)
+- How Does Generative Retrieval Scale to Millions of Passages?, Google Research, May 2023 [arxiv](https://arxiv.org/abs/2305.11841)
 - How to Make Cross Encoder a Good Teacher for Efficient Image-Text Retrieval?, July 2024, [arxiv](https://arxiv.org/abs/2407.07479v1)
-## Ranking
+## Ranking for Search
 - Adaptive Neural Ranking Framework: Toward Maximized Business Goal for Cascade Ranking Systems, [WWW 2024](https://dl.acm.org/doi/10.1145/3589334.3645605)
 - RankTower: A Synergistic Framework for Enhancing Two-Tower Pre-Ranking Model, Jul 2024, [arxiv](https://arxiv.org/abs/2407.12385)
+- Fine-Tuning LLaMA for Multi-Stage Text Retrieval, [SIGIR 2024](https://dl.acm.org/doi/abs/10.1145/3626772.3657951)
+- RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!, [Dec 2023](https://arxiv.org/abs/2312.02724)
+### Classical bi-encoder and cross encoder ranking, bert based ranking
+- Rankt5: Fine-tuning t5 for text ranking with ranking losses, 2023, [SIGIR 2023](https://dl.acm.org/doi/abs/10.1145/3539618.3592047)
+- ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction, 2022, [arxiv](https://arxiv.org/abs/2112.01488)
+- Pretrained Transformers for Text Ranking: BERT and Beyond, 2021, [ACM](https://dl.acm.org/doi/abs/10.1145/3437963.3441667)
+- Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering, 2021, [arxiv](https://arxiv.org/abs/2007.01282)
+- ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT, 2020, [arxiv](https://arxiv.org/abs/2004.12832)
+- Dense Passage Retrieval for Open-Domain Question Answering, 2020, [arxiv](https://arxiv.org/abs/2004.04906)
+- Understanding the Behaviors of BERT in Ranking, 2019, [arxiv](https://arxiv.org/abs/1904.07531)
+- Passage Re-ranking with BERT, 2019, [arxiv](https://arxiv.org/abs/1901.04085)
 ## Query Understanding
-
+- Large Language Model based Long-tail Query Rewriting in Taobao Search, [WWW 2024](https://dl.acm.org/doi/abs/10.1145/3589335.3648298)
+- Query Understanding in the Age of Large Language Models, Jun 2023, [arxiv](https://arxiv.org/abs/2306.16004)
 ## Embeddings
 ## Recommender Engines
 - 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation, Jan 2025, [arxiv](https://arxiv.org/abs/2501.16450)
@@ -89,7 +106,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Zero-shot Document Retrieval with Hybrid Pseudo-document Retriever, [ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10889897)
 - Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, Dec 2024, [ACM](https://dl.acm.org/doi/abs/10.1145/3708882)
 - Representation Learning with Large Language Models for Recommendation, [WWW 2024](https://dl.acm.org/doi/abs/10.1145/3589334.3645458)
-## Rankers
+## Recommender Rankers
 - Large Language Models are Zero-Shot Rankers for Recommender Systems, Mar 2024, LLMRank, [Springer](https://link.springer.com/chapter/10.1007/978-3-031-56060-6_24)
 ## Industrial approaches
 - ZeroEntropy 🔎 - Advanced AI Search Over Complex Documents [launch doc](https://www.ycombinator.com/launches/MZf-zeroentropy-advanced-ai-search-over-complex-documents)
