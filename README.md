@@ -60,8 +60,11 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - How Does Generative Retrieval Scale to Millions of Passages?, Google Research, May 2023 [arxiv](https://arxiv.org/abs/2305.11841)
 - How to Make Cross Encoder a Good Teacher for Efficient Image-Text Retrieval?, July 2024, [arxiv](https://arxiv.org/abs/2407.07479v1)
 ## Ranking for Search
+- Orbit: A framework for designing and evaluating multi-objective rankers, [ACM conf on intelligence user interfaces 2025](https://www.amazon.science/publications/orbit-a-framework-for-designing-and-evaluating-multi-objective-rankers)
+- DISKCO: Disentangling knowledge from cross-encoder to bi-encoder, [WWW 2024](https://www.amazon.science/publications/diskco-disentangling-knowledge-from-cross-encoder-to-bi-encoder)
 - Adaptive Neural Ranking Framework: Toward Maximized Business Goal for Cascade Ranking Systems, [WWW 2024](https://dl.acm.org/doi/10.1145/3589334.3645605)
 - RankTower: A Synergistic Framework for Enhancing Two-Tower Pre-Ranking Model, Jul 2024, [arxiv](https://arxiv.org/abs/2407.12385)
+- Bi-CAT: Improving robustness of LLM-based text rankers to conditional distribution shifts, Amazon Science, [WWW 2024 workshop](https://www.amazon.science/publications/bi-cat-improving-robustness-of-llm-based-text-rankers-to-conditional-distribution-shifts)
 - Fine-Tuning LLaMA for Multi-Stage Text Retrieval, [SIGIR 2024](https://dl.acm.org/doi/abs/10.1145/3626772.3657951)
 - RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!, [Dec 2023](https://arxiv.org/abs/2312.02724)
 ### Classical bi-encoder and cross encoder ranking, bert based ranking
@@ -79,6 +82,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## Embeddings
 ## Recommender Engines
 - 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation, Jan 2025, [arxiv](https://arxiv.org/abs/2501.16450)
+- Personalised outfit recommendation via history-aware transformers, Amazon Science, [WSDM 2025](https://www.amazon.science/publications/personalised-outfit-recommendation-via-history-aware-transformers)
 - Representation Learning with Large Language Models for Recommendation, [WWW 2024]([WWW 2024](https://dl.acm.org/doi/abs/10.1145/3589334.3645458))
 - Improved Estimation of Ranks for Learning Item Recommenders with Negative Sampling, [Google CIKM 2024](https://research.google/pubs/improved-estimation-of-ranks-for-learning-item-recommenders-with-negative-sampling/)
 - Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, May 2023, [arxiv](https://arxiv.org/abs/2305.07001)
@@ -95,9 +99,6 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), Mar 2022, [arxiv](https://arxiv.org/abs/2203.13366)
 - Augmenting Netflix Search with In-Session Adapted Recommendations, [RecSys 2022](https://dl.acm.org/doi/abs/10.1145/3523227.3547407)
 - Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations, [Google RecSys 2019](https://research.google/pubs/sampling-bias-corrected-neural-modeling-for-large-corpus-item-recommendations/)
-
-
-
 ## Discovery
 ## Useful methods (unclassified. TODO classify). methods used in search engines
 - Translational Generative Retrieval via Potential Query Generation, [ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10888918)
@@ -122,8 +123,12 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Evaluating search relevance part 2 - Phi-3 as relevance judge, a series of articles from ElasticSearch, practical experience on using Phi-3 llm family for relevance evaluation [elasticsearch](https://www.elastic.co/search-labs/blog/evaluating-search-relevance-part-2)
 ## Verticals
 ### Product Search
+- Personalised outfit recommendation via history-aware transformers, Amazon Science, [WSDM 2025](https://www.amazon.science/publications/personalised-outfit-recommendation-via-history-aware-transformers)
 - Enhancing Relevance of Embedding-based Retrieval at Walmart, Oct 2024, [CIKM 2024](https://dl.acm.org/doi/abs/10.1145/3627673.3680047)
+- An interpretable ensemble of graph and language models for improving search relevance in e-commerce, [WWW 2024](https://www.amazon.science/publications/an-interpretable-ensemble-of-graph-and-language-models-for-improving-search-relevance-in-e-commerce)
 - Web-Scale Semantic Product Search with Large Language Models, May 2023, [KDDM 2023](https://link.springer.com/chapter/10.1007/978-3-031-33380-4_6)
+- Web-scale semantic product search with large language models, Amazon Science, [PAKDD 2023](https://www.amazon.science/publications/web-scale-semantic-product-search-with-large-language-models)
+- Behavior-driven query similarity prediction based on pre-trained language models for e-commerce search, Amazon Science, [SIGIR 2023 eCommerce workshop](https://www.amazon.science/publications/behavior-driven-query-similarity-prediction-based-on-pre-trained-language-models-for-e-commerce-search)
 - Overview of the TREC 2023 Product Product Search Track, [TREC 2023](https://arxiv.org/abs/2311.07861)
 ### Location Aware (Maps, real estate, local. travel)
 - Learning to Rank for Maps at Airbnb, [KDD 2024](https://dl.acm.org/doi/abs/10.1145/3637528.3671648)
