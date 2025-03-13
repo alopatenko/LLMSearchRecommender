@@ -29,6 +29,10 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## Conversational Search
 - A Survey of Conversational Search, Oct 2024, [arxiv](https://arxiv.org/abs/2410.15576v1)
 - Engineering Conversational Search Systems: A Review of Applications, Architectures, and Functional Components, Jul 2024, [arxiv](https://arxiv.org/abs/2407.00997)
+## Search Assistance
+autocomplete/autosuggest and other search assistance tasks
+- Evaluating auto-complete ranking for diversity and relevance, [ECIR 2025](https://www.amazon.science/publications/evaluating-auto-complete-ranking-for-diversity-and-relevance)
+- DiAL: Diversity aware listwise ranking for query auto-complete, [EMNLP 2024](https://www.amazon.science/publications/dial-diversity-aware-listwise-ranking-for-query-auto-complete)
 ## Multi Turn
 ## Query Clarification
 ## Personalization
