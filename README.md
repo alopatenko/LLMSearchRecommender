@@ -30,6 +30,9 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
     - [Location Aware (Maps, real estate, local. travel)](#location-aware-maps-real-estate-local-travel)
     - [Ads / advertisement](#ads--advertisement)
     - [Real estate](#real-estate)
+    - [Healthcare](#healthcare)
+    - [Finance](#finance)
+    - [Legal](#legal) 
   - [Search Engine Optimization](#search-engine-optimization)
 
 ## Search Surveys
@@ -205,6 +208,17 @@ methods (unclassified. TODO classify). methods used in search engines
 - Scaling Laws for Online Advertisement Retrieval, Nov 2024, [arxiv](https://arxiv.org/abs/2411.13322)
 ### Real estate
 - Beyond Relevance: A Demand Balancer Model for Rental Platforms with Single-Unit Inventory, [WSDM 2025](https://dl.acm.org/doi/abs/10.1145/3701551.3706126)
+### Healthcare
+- MedExpQA: Multilingual benchmarking of Large Language Models for Medical Question Answering, Sep 2024, [AI in Medicine](https://www.sciencedirect.com/science/article/pii/S0933365724001805)
+- Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries, [WWW 2024](https://dl.acm.org/doi/abs/10.1145/3589334.3645643)
+- JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional Question Answering Capability, Jun 2024, [arxiv](https://arxiv.org/abs/2402.17887)
+- BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains, Feb 2024, [arxiv](https://arxiv.org/abs/2402.10373)
+- DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation, Aug 2023, [arxiv](https://arxiv.org/abs/2308.14346)
+- Clinical Camel: An Open Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding, May 2023, [arxiv](https://arxiv.org/abs/2305.12031)
+- MedAlpaca -- An Open-Source Collection of Medical Conversational AI Models and Training Data, Apr 2023, [arxiv](https://arxiv.org/abs/2304.08247)
+### Finance
+### Legal
+- Conversational vs Traditional: Comparing Search Behavior and Outcome in Legal Case Retrieval, [SIGIR 21 short paper](https://dl.acm.org/doi/abs/10.1145/3404835.3463064)
 ## Search Engine Optimization
 - Adversarial Search Engine Optimization for Large Language Models, Jul 2024, [arxiv](https://arxiv.org/abs/2406.18382)
 
