@@ -29,6 +29,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## Conversational Search
 - A Survey of Conversational Search, Oct 2024, [arxiv](https://arxiv.org/abs/2410.15576v1)
 - Engineering Conversational Search Systems: A Review of Applications, Architectures, and Functional Components, Jul 2024, [arxiv](https://arxiv.org/abs/2407.00997)
+- CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models, Feb 2024, [arxiv](https://arxiv.org/abs/2402.06360)
 ## Search Assistance
 autocomplete/autosuggest and other search assistance tasks
 - Evaluating auto-complete ranking for diversity and relevance, [ECIR 2025](https://www.amazon.science/publications/evaluating-auto-complete-ranking-for-diversity-and-relevance)
@@ -133,6 +134,7 @@ autocomplete/autosuggest and other search assistance tasks
 - Web-Scale Semantic Product Search with Large Language Models, May 2023, [KDDM 2023](https://link.springer.com/chapter/10.1007/978-3-031-33380-4_6)
 - Web-scale semantic product search with large language models, Amazon Science, [PAKDD 2023](https://www.amazon.science/publications/web-scale-semantic-product-search-with-large-language-models)
 - Behavior-driven query similarity prediction based on pre-trained language models for e-commerce search, Amazon Science, [SIGIR 2023 eCommerce workshop](https://www.amazon.science/publications/behavior-driven-query-similarity-prediction-based-on-pre-trained-language-models-for-e-commerce-search)
+- Rethinking E-Commerce Search, Instacart, 2023, [arxiv](https://arxiv.org/abs/2312.03217)
 - Overview of the TREC 2023 Product Product Search Track, [TREC 2023](https://arxiv.org/abs/2311.07861)
 ### Location Aware (Maps, real estate, local. travel)
 - Learning to Rank for Maps at Airbnb, [KDD 2024](https://dl.acm.org/doi/abs/10.1145/3637528.3671648)
@@ -146,6 +148,9 @@ autocomplete/autosuggest and other search assistance tasks
 - Scaling Laws for Online Advertisement Retrieval, Nov 2024, [arxiv](https://arxiv.org/abs/2411.13322)
 ### Real estate
 - Beyond Relevance: A Demand Balancer Model for Rental Platforms with Single-Unit Inventory, [WSDM 2025](https://dl.acm.org/doi/abs/10.1145/3701551.3706126)
+## Search Engine Optimization
+- Adversarial Search Engine Optimization for Large Language Models, Jul 2024, [arxiv](https://arxiv.org/abs/2406.18382)
+
 
 
 
