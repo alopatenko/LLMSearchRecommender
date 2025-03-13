@@ -29,13 +29,21 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## Conversational Search
 - A Survey of Conversational Search, Oct 2024, [arxiv](https://arxiv.org/abs/2410.15576v1)
 - Engineering Conversational Search Systems: A Review of Applications, Architectures, and Functional Components, Jul 2024, [arxiv](https://arxiv.org/abs/2407.00997)
+- ChatRetriever: Adapting Large Language Models for Generalized and Robust Conversational Dense Retrieval, Apr 2024, [arxiv](https://arxiv.org/abs/2404.13556)
 - CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models, Feb 2024, [arxiv](https://arxiv.org/abs/2402.06360)
+- Generalizing Conversational Dense Retrieval via LLM-Cognition Data Augmentation, Feb 2024, [arxiv](https://arxiv.org/abs/2402.07092)
+- History-Aware Conversational Dense Retrieval, Jan 24, [arxiv](https://arxiv.org/abs/2401.16659)
+- Phrase Retrieval for Open-Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning, [arxiv Findings of ACL 2023](https://arxiv.org/abs/2306.04293)
+- Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retrieval, [SIGIR 2022](https://dl.acm.org/doi/abs/10.1145/3477495.3531961)
+- Open-Retrieval Conversational Question Answering, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401110)
 ## Search Assistance
-autocomplete/autosuggest and other search assistance tasks
+autocomplete/autosuggest and other search assistance tasks, search clarification and other techniques guiding users in search
 - Evaluating auto-complete ranking for diversity and relevance, [ECIR 2025](https://www.amazon.science/publications/evaluating-auto-complete-ranking-for-diversity-and-relevance)
 - DiAL: Diversity aware listwise ranking for query auto-complete, [EMNLP 2024](https://www.amazon.science/publications/dial-diversity-aware-listwise-ranking-for-query-auto-complete)
+- Towards Asking Clarification Questions for Information Seeking on Task-Oriented Dialogues, May 2023, [axiv](https://arxiv.org/abs/2305.13690)
+- Asking Clarification Questions to Handle Ambiguity in Open-Domain QA, May 2023, [arxiv](https://arxiv.org/abs/2305.13808)
+- Asking Clarifying Questions in Open-Domain Information-Seeking Conversations, [SIGIR 2019](https://dl.acm.org/doi/abs/10.1145/3331184.3331265)
 ## Multi Turn
-## Query Clarification
 ## Personalization
 - Can Large Language Models Understand Preferences in Personalized Recommendation?, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13391v1)
 - Unified Embedding Based Personalized Retrieval in Etsy Search, Sep 2024, [arxiv](https://arxiv.org/abs/2306.04833)
@@ -85,6 +93,11 @@ autocomplete/autosuggest and other search assistance tasks
 - Near-duplicate question detection, [WWW 2024](https://www.amazon.science/publications/near-duplicate-question-detection)
 - Hierarchical query classification in e-commerce search, [WWW 2024](https://www.amazon.science/publications/hierarchical-query-classification-in-e-commerce-search)
 - Query Understanding in the Age of Large Language Models, Jun 2023, [arxiv](https://arxiv.org/abs/2306.16004)
+- Decomposing Complex Queries for Tip-of-the-tongue Retrieval, May 2023, [arxiv](https://arxiv.org/abs/2305.15053)
+- ConvGQR: Generative Query Reformulation for Conversational Search, May 2023, [arxiv](https://arxiv.org/abs/2305.15645)
+- Query Rewriting in Retrieval-Augmented Large Language Models, [EMNLP 2023](https://aclanthology.org/2023.emnlp-main.322/)
+- Query2doc: Query Expansion with Large Language Models, Mar 2023, [arxiv](https://arxiv.org/abs/2303.07678)
+- Few-Shot Generative Conversational Query Rewriting, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401323)
 ## Embedding models
 - Granite Embedding Models (multi-lingual embedding models from IBM), Feb 2025 [arxiv](https://arxiv.org/abs/2502.20204)
 - Multilingual E5 Text Embeddings: A Technical Report, Feb 2024, [arxiv](https://arxiv.org/abs/2402.05672v1)
