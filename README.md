@@ -82,7 +82,8 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - Bi-CAT: Improving robustness of LLM-based text rankers to conditional distribution shifts, Amazon Science, [WWW 2024 workshop](https://www.amazon.science/publications/bi-cat-improving-robustness-of-llm-based-text-rankers-to-conditional-distribution-shifts)
 - Fine-Tuning LLaMA for Multi-Stage Text Retrieval, [SIGIR 2024](https://dl.acm.org/doi/abs/10.1145/3626772.3657951)
 - RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!, [Dec 2023](https://arxiv.org/abs/2312.02724)
-### Classical bi-encoder and cross encoder ranking, bert based ranking
+### Classical bi-encoder and cross encoder ranking, 
+bert based ranking, hybrid encoder based ranking
 - Rankt5: Fine-tuning t5 for text ranking with ranking losses, 2023, [SIGIR 2023](https://dl.acm.org/doi/abs/10.1145/3539618.3592047)
 - ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction, 2022, [arxiv](https://arxiv.org/abs/2112.01488)
 - Pretrained Transformers for Text Ranking: BERT and Beyond, 2021, [ACM](https://dl.acm.org/doi/abs/10.1145/3437963.3441667)
@@ -127,7 +128,8 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - Augmenting Netflix Search with In-Session Adapted Recommendations, [RecSys 2022](https://dl.acm.org/doi/abs/10.1145/3523227.3547407)
 - Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations, [Google RecSys 2019](https://research.google/pubs/sampling-bias-corrected-neural-modeling-for-large-corpus-item-recommendations/)
 ## Discovery
-## Useful methods (unclassified. TODO classify). methods used in search engines
+## Unclassified
+methods (unclassified. TODO classify). methods used in search engines
 - Translational Generative Retrieval via Potential Query Generation, [ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10888918)
 - RouteLLM: Learning to Route LLMs with Preference Data, Jun 2024, [arxiv](https://arxiv.org/abs/2406.18665)
 - A Comprehensive Study of Knowledge Editing for Large Language Models, Jan 2024, [arxiv](https://arxiv.org/abs/2401.01286)
