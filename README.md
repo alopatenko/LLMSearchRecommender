@@ -129,6 +129,7 @@ autocomplete/autosuggest and other search assistance tasks
 - Report on the 1st Workshop on Large Language Model for Evaluation in Information Retrieval (LLM4Eval 2024) at SIGIR 2024, [SIGIR](https://dl.acm.org/doi/abs/10.1145/3722449.3722461)
 ## Blog posts, whitepapers
 - Query Expansion with LLMs: Searching Better by Saying More, Feb 2025, [Jina ai](https://jina.ai/news/query-expansion-with-llms-searching-better-by-saying-more/)
+- Transformers in music recommendation, Google on how transformers are used for music recommendation at youtube, [google research blog](https://research.google/blog/transformers-in-music-recommendation/)
 - Scaling the Instagram Explore Recommendations Systems, [Meta 08 2023](https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/)
 - PDF Retrieval with Vision Language Models, about ColPali and using it for document search [from Vespa](https://blog.vespa.ai/retrieval-with-vision-language-models-colpali/)
 - Evaluating search relevance part 2 - Phi-3 as relevance judge, a series of articles from ElasticSearch, practical experience on using Phi-3 llm family for relevance evaluation [elasticsearch](https://www.elastic.co/search-labs/blog/evaluating-search-relevance-part-2)
