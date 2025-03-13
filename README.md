@@ -9,6 +9,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Conversational Search](#conversational-search)
   - [Search Assistance](#search-assistance)
   - [Multi Turn](#multi-turn)
+  - Search as [Task Solving](#task-solving)
   - [Personalization](#personalization)
   - [Multi modal](#multi-modal)
   - [Question Answering](#question-answering)
@@ -63,6 +64,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## FreshLLM and similar architectures (LLM and large scale  search)
 - When Search Engine Services Meet Large Language Models: Visions and Challenges, Dec 2024, [IEEE](https://ieeexplore.ieee.org/abstract/document/10654534?)
 - FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation, Oct 2023. [arxiv](https://arxiv.org/abs/2310.03214)
+- Gorilla: Large Language Model Connected with Massive APIs, May 2023, [arxiv](https://arxiv.org/abs/2305.15334)
 ## Conversational Search
 - A Survey of Conversational Search, Oct 2024, [arxiv](https://arxiv.org/abs/2410.15576v1)
 - Engineering Conversational Search Systems: A Review of Applications, Architectures, and Functional Components, Jul 2024, [arxiv](https://arxiv.org/abs/2407.00997)
@@ -84,6 +86,9 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - Asking Clarification Questions to Handle Ambiguity in Open-Domain QA, May 2023, [arxiv](https://arxiv.org/abs/2305.13808)
 - Asking Clarifying Questions in Open-Domain Information-Seeking Conversations, [SIGIR 2019](https://dl.acm.org/doi/abs/10.1145/3331184.3331265)
 ## Multi Turn
+## Task Solving
+- Mind2Web: Towards a Generalist Agent for the Web, [NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5950bf290a1570ea401bf98882128160-Abstract-Datasets_and_Benchmarks.html)
+
 ## Personalization
 - Can Large Language Models Understand Preferences in Personalized Recommendation?, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13391v1)
 - Unified Embedding Based Personalized Retrieval in Etsy Search, Sep 2024, [arxiv](https://arxiv.org/abs/2306.04833)
@@ -152,7 +157,6 @@ bert based ranking, hybrid encoder based ranking
 - Search-o1: Agentic Search-Enhanced Large Reasoning Models, Jan 2025, [arxiv](https://arxiv.org/abs/2501.05366)
 - Plan*RAG: Efficient Test-Time Planning for Retrieval Augmented Generation, Oct 2024, [arxiv](https://arxiv.org/abs/2410.20753)
 - MindSearch: Mimicking Human Minds Elicits Deep AI Searcher, Jul 2024, [arxiv](https://arxiv.org/abs/2407.20183)
-
 ## Recommender Engines
 - 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation, Jan 2025, [arxiv](https://arxiv.org/abs/2501.16450)
 - Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations, Baidu, Mar 2025, [arxiv](https://arxiv.org/abs/2503.02453)
