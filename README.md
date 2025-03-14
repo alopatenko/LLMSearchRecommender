@@ -79,9 +79,12 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retrieval, [SIGIR 2022](https://dl.acm.org/doi/abs/10.1145/3477495.3531961)
 - Open-Retrieval Conversational Question Answering, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401110)
 ## Search Assistance
-autocomplete/autosuggest and other search assistance tasks, search clarification and other techniques guiding users in search
+autocomplete/autosuggest and other search assistance tasks, search clarification, query recommendation and other techniques guiding users in search
 - Evaluating auto-complete ranking for diversity and relevance, [ECIR 2025](https://www.amazon.science/publications/evaluating-auto-complete-ranking-for-diversity-and-relevance)
+- Enhancing Discoverability in Enterprise Conversational Systems with Proactive Question Suggestions, Dec 2024, [arxiv](https://arxiv.org/abs/2412.10933)
 - DiAL: Diversity aware listwise ranking for query auto-complete, [EMNLP 2024](https://www.amazon.science/publications/dial-diversity-aware-listwise-ranking-for-query-auto-complete)
+- Evaluation and Continual Improvement for an Enterprise AI Assistant, Jun 2024, [arxiv](https://arxiv.org/abs/2407.12003)
+- Generating Query Recommendations via LLMs, May 2024, [arxiv](https://arxiv.org/abs/2405.19749)
 - Towards Asking Clarification Questions for Information Seeking on Task-Oriented Dialogues, May 2023, [axiv](https://arxiv.org/abs/2305.13690)
 - Asking Clarification Questions to Handle Ambiguity in Open-Domain QA, May 2023, [arxiv](https://arxiv.org/abs/2305.13808)
 - Asking Clarifying Questions in Open-Domain Information-Seeking Conversations, [SIGIR 2019](https://dl.acm.org/doi/abs/10.1145/3331184.3331265)
