@@ -91,7 +91,6 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 ## Multi Turn
 ## Task Solving
 - Mind2Web: Towards a Generalist Agent for the Web, [NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5950bf290a1570ea401bf98882128160-Abstract-Datasets_and_Benchmarks.html)
-
 ## Personalization
 - Can Large Language Models Understand Preferences in Personalized Recommendation?, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13391v1)
 - Unified Embedding Based Personalized Retrieval in Etsy Search, Sep 2024, [arxiv](https://arxiv.org/abs/2306.04833)
@@ -157,6 +156,7 @@ bert based ranking, hybrid encoder based ranking
 - Qwen2.5-VL Technical Report, see, 3.3.2 Document Understanding and OCR at Feb 2025 [arxiv](https://arxiv.org/abs/2502.13923)
 - ColPali: Efficient Document Retrieval with Vision Language Models, Jun 2024, [arxiv](https://arxiv.org/abs/2407.01449)
 ## Agentic Search
+- A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
 - Search-o1: Agentic Search-Enhanced Large Reasoning Models, Jan 2025, [arxiv](https://arxiv.org/abs/2501.05366)
 - Plan*RAG: Efficient Test-Time Planning for Retrieval Augmented Generation, Oct 2024, [arxiv](https://arxiv.org/abs/2410.20753)
 - MindSearch: Mimicking Human Minds Elicits Deep AI Searcher, Jul 2024, [arxiv](https://arxiv.org/abs/2407.20183)
