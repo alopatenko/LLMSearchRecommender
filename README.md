@@ -99,7 +99,7 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 ## Multi modal
 - RAMQA: A Unified Framework for Retrieval-Augmented Multi-Modal Question Answering, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13297)
 - EA-VTR: Event-Aware Video-Text Retrieval, ECCV 2024, [ECCV 2024](https://link.springer.com/chapter/10.1007/978-3-031-72943-0_5)
-- ColPali: Efficient Document Retrieval with Vision Language Models, Jun 2024, [arxiv](https://arxiv.org/abs/2407.01449)
+- ColPali: Efficient Document Retrieval with Vision Language Models, Jun 2024, [arxiv](https://arxiv.org/abs/2407.01449) useful practical info [vespa blog](https://blog.vespa.ai/retrieval-with-vision-language-models-colpali/)
 ## Question Answering
 - CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering, Jan 2025, [arxiv](https://arxiv.org/abs/2501.03447)
 - Unveiling the power of language models in chemical research question answering, Jan 2025, [Nature](https://www.nature.com/articles/s42004-024-01394-x)
