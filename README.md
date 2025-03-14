@@ -214,6 +214,7 @@ methods (unclassified. TODO classify). methods used in search engines
 ## Verticals
 ### Product Search
 - Personalised outfit recommendation via history-aware transformers, Amazon Science, [WSDM 2025](https://www.amazon.science/publications/personalised-outfit-recommendation-via-history-aware-transformers)
+- Cite Before You Speak: Enhancing Context-Response Grounding in E-commerce Conversational LLM-Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.04830)
 - Enhancing Relevance of Embedding-based Retrieval at Walmart, Oct 2024, [CIKM 2024](https://dl.acm.org/doi/abs/10.1145/3627673.3680047)
 - Hierarchical query classification in e-commerce search, [WWW 2024](https://www.amazon.science/publications/hierarchical-query-classification-in-e-commerce-search)
 - An interpretable ensemble of graph and language models for improving search relevance in e-commerce, [WWW 2024](https://www.amazon.science/publications/an-interpretable-ensemble-of-graph-and-language-models-for-improving-search-relevance-in-e-commerce)
