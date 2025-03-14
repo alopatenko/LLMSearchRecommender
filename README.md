@@ -51,7 +51,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Retrieval-Augmented Generation for Large Language Models: A Survey, 2023, [simg](https://simg.baai.ac.cn/paperfile/25a43194-c74c-4cd3-b60f-0a1f27f8b8af.pdf)
 - Large Language Models for Information Retrieval: A Survey, Aug 2023, [arxiv](https://arxiv.org/abs/2308.07107)
 ## Recommender Engine Surveys
-- A Survey on LLM-powered Agents for Recommender Systems, Feb 2025, [arxiv](https://arxiv.org/abs/2502.10050)
+- A Survey on LLM-powered Agents for Recommender Systems, Feb 2025, [arxiv](https://arxiv.org/abs/2502.10050): RE: based on DeepSeek-R methods for training reasoning and interleaved LLMs calling search as a tool.
 - How Can Recommender Systems Benefit from Large Language Models: A Survey, [ACM Transactions on Information Systems 2025](https://dl.acm.org/doi/abs/10.1145/3678004)
 - Recommender Systems in the Era of Large Language Models (LLMs), [TKDE Nov 2024  by subscription](https://ieeexplore.ieee.org/document/10506571)
 - A Comprehensive Survey on Retrieval Methods in Recommender Systems, Jul 2024, [arxiv](https://arxiv.org/abs/2407.21022)
@@ -63,6 +63,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [Nvidia Merlin](https://developer.nvidia.com/merlin) Recommender systems, including [Transformer4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 - [OpenP5](https://github.com/agiresearch/OpenP5) [RecSys23 tutorial](https://llmrecsys.github.io/)
 ## FreshLLM and similar architectures (LLM and large scale  search)
+- Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning, Mar 2025, [arxiv](https://arxiv.org/abs/2503.09516)
 - When Search Engine Services Meet Large Language Models: Visions and Challenges, Dec 2024, [IEEE](https://ieeexplore.ieee.org/abstract/document/10654534?)
 - FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation, Oct 2023. [arxiv](https://arxiv.org/abs/2310.03214)
 - Gorilla: Large Language Model Connected with Massive APIs, May 2023, [arxiv](https://arxiv.org/abs/2305.15334)
