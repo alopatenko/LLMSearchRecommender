@@ -67,6 +67,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - When Search Engine Services Meet Large Language Models: Visions and Challenges, Dec 2024, [IEEE](https://ieeexplore.ieee.org/abstract/document/10654534?)
 - FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation, Oct 2023. [arxiv](https://arxiv.org/abs/2310.03214)
 - Gorilla: Large Language Model Connected with Massive APIs, May 2023, [arxiv](https://arxiv.org/abs/2305.15334)
+- Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions, Dec 2022, [arxiv](https://arxiv.org/abs/2212.10509)
 ## Conversational Search
 - A Survey of Conversational Search, Oct 2024, [arxiv](https://arxiv.org/abs/2410.15576v1)
 - Engineering Conversational Search Systems: A Review of Applications, Architectures, and Functional Components, Jul 2024, [arxiv](https://arxiv.org/abs/2407.00997)
