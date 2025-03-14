@@ -21,6 +21,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Query Understanding](#query-understanding)
   - [Embedding models](#embedding-models)
   - [Document understanding](#document-understanding)
+  - [Response generation](#response-generation), presentation of the search results
   - [Agentic Search](#agentic-search)
   - [Recommender Engines](#recommender-engines)
   - [Discovery](#discovery)
@@ -155,6 +156,9 @@ bert based ranking, hybrid encoder based ranking
 ## Document understanding
 - Qwen2.5-VL Technical Report, see, 3.3.2 Document Understanding and OCR at Feb 2025 [arxiv](https://arxiv.org/abs/2502.13923)
 - ColPali: Efficient Document Retrieval with Vision Language Models, Jun 2024, [arxiv](https://arxiv.org/abs/2407.01449)
+## Response Generation
+- Neural headline generation: A comprehensive survey, Mar 2025, [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003054)
+- Cite Before You Speak: Enhancing Context-Response Grounding in E-commerce Conversational LLM-Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.04830)
 ## Agentic Search
 - A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
 - Search-o1: Agentic Search-Enhanced Large Reasoning Models, Jan 2025, [arxiv](https://arxiv.org/abs/2501.05366)
