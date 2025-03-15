@@ -55,6 +55,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## Recommender Engine Surveys
 - A Survey on LLM-powered Agents for Recommender Systems, Feb 2025, [arxiv](https://arxiv.org/abs/2502.10050): RE: based on DeepSeek-R methods for training reasoning and interleaved LLMs calling search as a tool.
 - How Can Recommender Systems Benefit from Large Language Models: A Survey, [ACM Transactions on Information Systems 2025](https://dl.acm.org/doi/abs/10.1145/3678004)
+- Graph Foundation Models for Recommendation: A Comprehensive Survey, Feb 2025, [arxiv](https://arxiv.org/abs/2502.08346)
 - Recommender Systems in the Era of Large Language Models (LLMs), [TKDE Nov 2024  by subscription](https://ieeexplore.ieee.org/document/10506571)
 - A Comprehensive Survey on Retrieval Methods in Recommender Systems, Jul 2024, [arxiv](https://arxiv.org/abs/2407.21022)
 - A Survey of Generative Search and Recommendation in the Era of Large Language Models, Apr 2024, [arxiv](https://arxiv.org/abs/2404.16924)
