@@ -4,6 +4,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [LLM and Search and Recommender Engines](#llm-and-search-and-recommender-engines)
   - [Search Surveys](#search-surveys)
   - [Recommender Engine Surveys](#recommender-engine-surveys)
+  - [Conferences, workshops](#conferences-workshops)
   - [Software, libraries, frameworks](#software-libraries-frameworks)
   - [FreshLLM and similar architectures (LLM and large scale  search)](#freshllm-and-similar-architectures-llm-and-large-scale--search)
   - [Conversational Search](#conversational-search)
@@ -59,6 +60,15 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - A survey on large language models for recommendation, [WWW 2024 Springer](https://link.springer.com/article/10.1007/s11280-024-01291-2)
 - Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond, Oct 2024, [arxiv](https://arxiv.org/abs/2410.19744)
 - Pre-train, Prompt, and Recommendation: A Comprehensive Survey of Language Modeling Paradigm Adaptations in Recommender Systems , Dec 2023, [MIT](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00619/118712)
+## Conferences, Workshops
+- [2025 SIGIR Workshop on eCommerce](https://sigir-ecom.github.io/)
+- KDD 2024' [Workshop on Generative AI for Recommender Systems and Personalization](https://genai-personalization.github.io/GenAIRecP2024)
+- CIKM 2024 [1st Workshop on Multimodal Search and Recommendations](https://cikm-mmsr.github.io/)
+- [SIGIR 2024 Workshop on eCommerce ECOM24](https://dl.acm.org/doi/10.1145/3626772.3657988)
+- WWW 2024 [The 2nd Workshop on Recommendation with Generative Models](https://generative-rec.github.io/workshop/)
+- EACL 2024 [Workshop on Personalization of Generative AI Systems](https://aclanthology.org/events/personalize-2024/#2024personalize-1)
+- SIGIR 2024 [The First Workshop on Large Language Models (LLMs) for Evaluation in Information Retrieval](https://llm4eval.github.io/SIGIR2024/papers/)
+- SIGIR 2024 [The Second Workshop on Generative Information Retrieval](https://coda.io/@sigir/gen-ir-24)
 ## Software, libraries, frameworks
 - [Nvidia Merlin](https://developer.nvidia.com/merlin) Recommender systems, including [Transformer4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 - [OpenP5](https://github.com/agiresearch/OpenP5) [RecSys23 tutorial](https://llmrecsys.github.io/)
