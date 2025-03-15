@@ -5,6 +5,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Search Surveys](#search-surveys)
   - [Recommender Engine Surveys](#recommender-engine-surveys)
   - [Conferences, workshops](#conferences-workshops)
+  - [Tutorials](#tutorials)
   - [Software, libraries, frameworks](#software-libraries-frameworks)
   - [FreshLLM and similar architectures (LLM and large scale  search)](#freshllm-and-similar-architectures-llm-and-large-scale--search)
   - [Conversational Search](#conversational-search)
@@ -69,6 +70,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - EACL 2024 [Workshop on Personalization of Generative AI Systems](https://aclanthology.org/events/personalize-2024/#2024personalize-1)
 - SIGIR 2024 [The First Workshop on Large Language Models (LLMs) for Evaluation in Information Retrieval](https://llm4eval.github.io/SIGIR2024/papers/)
 - SIGIR 2024 [The Second Workshop on Generative Information Retrieval](https://coda.io/@sigir/gen-ir-24)
+## Tutorials
 ## Software, libraries, frameworks
 - [Nvidia Merlin](https://developer.nvidia.com/merlin) Recommender systems, including [Transformer4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 - [OpenP5](https://github.com/agiresearch/OpenP5) [RecSys23 tutorial](https://llmrecsys.github.io/)
