@@ -57,10 +57,12 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - How Can Recommender Systems Benefit from Large Language Models: A Survey, [ACM Transactions on Information Systems 2025](https://dl.acm.org/doi/abs/10.1145/3678004)
 - Graph Foundation Models for Recommendation: A Comprehensive Survey, Feb 2025, [arxiv](https://arxiv.org/abs/2502.08346)
 - Recommender Systems in the Era of Large Language Models (LLMs), [TKDE Nov 2024  by subscription](https://ieeexplore.ieee.org/document/10506571)
+- A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys), [KDD 2024](https://dl.acm.org/doi/abs/10.1145/3637528.3671474) [pdf](https://dl.acm.org/doi/pdf/10.1145/3637528.3671474)
 - A Comprehensive Survey on Retrieval Methods in Recommender Systems, Jul 2024, [arxiv](https://arxiv.org/abs/2407.21022)
 - A Survey of Generative Search and Recommendation in the Era of Large Language Models, Apr 2024, [arxiv](https://arxiv.org/abs/2404.16924)
 - A survey on large language models for recommendation, [WWW 2024 Springer](https://link.springer.com/article/10.1007/s11280-024-01291-2)
 - Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond, Oct 2024, [arxiv](https://arxiv.org/abs/2410.19744)
+- Exploring the Impact of Large Language Models on Recommender Systems: An Extensive Review, Feb 2024, [arxiv](https://arxiv.org/abs/2402.18590)
 - Pre-train, Prompt, and Recommendation: A Comprehensive Survey of Language Modeling Paradigm Adaptations in Recommender Systems , Dec 2023, [MIT](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00619/118712)
 ## Conferences, Workshops
 - [2025 SIGIR Workshop on eCommerce](https://sigir-ecom.github.io/)
