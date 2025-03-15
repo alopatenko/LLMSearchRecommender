@@ -132,6 +132,7 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG, Jan 2025, [arxiv](https://arxiv.org/abs/2501.09136)
 - In Defense of RAG in the Era of Long-Context Language Models, Sep 2024, [arxiv](https://arxiv.org/abs/2409.01666)
 - RAFT: Adapting Language Model to Domain Specific RAG, Jul 2024, [open review](https://openreview.net/forum?id=rzQGHXNReU#discussion)
+- Can Long-Context Language Models Subsume Retrieval, RAG, SQL, and More?, Jun 2024, [arxiv](https://arxiv.org/abs/2406.13121)
 - RAG-Star: Enhancing Deliberative Reasoning with Retrieval Augmented Verification and Refinement, Dec 2024, [arxiv](https://arxiv.org/abs/2412.12881)
 - RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation, Mar 2024, [arxiv](https://arxiv.org/abs/2404.00610)
 ## Retrieval
