@@ -184,6 +184,7 @@ bert based ranking, hybrid encoder based ranking
 - Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations, Baidu, Mar 2025, [arxiv](https://arxiv.org/abs/2503.02453)
 - Personalised outfit recommendation via history-aware transformers, Amazon Science, [WSDM 2025](https://www.amazon.science/publications/personalised-outfit-recommendation-via-history-aware-transformers)
 - Representation Learning with Large Language Models for Recommendation, [WWW 2024]([WWW 2024](https://dl.acm.org/doi/abs/10.1145/3589334.3645458))
+- Llmrec: Large language models with graph augmentation for recommendation, [WSDM 2024](https://arxiv.org/abs/2311.00423)
 - Improved Estimation of Ranks for Learning Item Recommenders with Negative Sampling, [Google CIKM 2024](https://research.google/pubs/improved-estimation-of-ranks-for-learning-item-recommenders-with-negative-sampling/)
 - Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, May 2023, [arxiv](https://arxiv.org/abs/2305.07001)
 - Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, [RecSys 2024](https://dl.acm.org/doi/abs/10.1145/3640457.3688104)
