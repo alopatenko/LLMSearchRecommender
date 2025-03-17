@@ -167,6 +167,7 @@ bert based ranking, hybrid encoder based ranking
 - Understanding the Behaviors of BERT in Ranking, 2019, [arxiv](https://arxiv.org/abs/1904.07531)
 - Passage Re-ranking with BERT, 2019, [arxiv](https://arxiv.org/abs/1901.04085)
 ## Query Understanding
+- Two Heads Are Better Than One: Improving Search Effectiveness Through LLM-Generated Query Variants, 2025, [RMIT University](https://www.damianospina.com/publication/ran-2025-two/ran-2025-two.pdf)
 - Large Language Model based Long-tail Query Rewriting in Taobao Search, [WWW 2024](https://dl.acm.org/doi/abs/10.1145/3589335.3648298)
 - Near-duplicate question detection, [WWW 2024](https://www.amazon.science/publications/near-duplicate-question-detection)
 - Hierarchical query classification in e-commerce search, [WWW 2024](https://www.amazon.science/publications/hierarchical-query-classification-in-e-commerce-search)
