@@ -131,6 +131,7 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 ## Querying Structured Information
 - Querying Databases with Function Calling, Jan 2025, [arxiv](https://arxiv.org/abs/2502.00032)
 ## RAG
+- Sufficient Context: A New Lens on Retrieval Augmented Generation Systems, Google Research, ICLR 2025, [Google Research](https://research.google/pubs/sufficient-context-a-new-lens-on-retrieval-augmented-generation-systems-2/)
 - Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG, Jan 2025, [arxiv](https://arxiv.org/abs/2501.09136)
 - In Defense of RAG in the Era of Long-Context Language Models, Sep 2024, [arxiv](https://arxiv.org/abs/2409.01666)
 - RAFT: Adapting Language Model to Domain Specific RAG, Jul 2024, [open review](https://openreview.net/forum?id=rzQGHXNReU#discussion)
