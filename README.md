@@ -57,6 +57,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - How Can Recommender Systems Benefit from Large Language Models: A Survey, [ACM Transactions on Information Systems 2025](https://dl.acm.org/doi/abs/10.1145/3678004)
 - Graph Foundation Models for Recommendation: A Comprehensive Survey, Feb 2025, [arxiv](https://arxiv.org/abs/2502.08346)
 - Recommender Systems in the Era of Large Language Models (LLMs), [TKDE Nov 2024  by subscription](https://ieeexplore.ieee.org/document/10506571)
+- Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Survey, Jul 2024, [arxiv](https://arxiv.org/abs/2404.00621)
 - A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys), [KDD 2024](https://dl.acm.org/doi/abs/10.1145/3637528.3671474) [pdf](https://dl.acm.org/doi/pdf/10.1145/3637528.3671474)
 - A Comprehensive Survey on Retrieval Methods in Recommender Systems, Jul 2024, [arxiv](https://arxiv.org/abs/2407.21022)
 - A Survey of Generative Search and Recommendation in the Era of Large Language Models, Apr 2024, [arxiv](https://arxiv.org/abs/2404.16924)
@@ -194,6 +195,7 @@ bert based ranking, hybrid encoder based ranking
 - Plan*RAG: Efficient Test-Time Planning for Retrieval Augmented Generation, Oct 2024, [arxiv](https://arxiv.org/abs/2410.20753)
 - MindSearch: Mimicking Human Minds Elicits Deep AI Searcher, Jul 2024, [arxiv](https://arxiv.org/abs/2407.20183)
 ## Recommender Engines
+- EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration, Feb 2025, [arxiv](https://arxiv.org/abs/2502.14735)
 - 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation, Jan 2025, [arxiv](https://arxiv.org/abs/2501.16450)
 - Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations, Baidu, Mar 2025, [arxiv](https://arxiv.org/abs/2503.02453)
 - Personalised outfit recommendation via history-aware transformers, Amazon Science, [WSDM 2025](https://www.amazon.science/publications/personalised-outfit-recommendation-via-history-aware-transformers)
@@ -215,6 +217,19 @@ bert based ranking, hybrid encoder based ranking
 - Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), Mar 2022, [arxiv](https://arxiv.org/abs/2203.13366)
 - Augmenting Netflix Search with In-Session Adapted Recommendations, [RecSys 2022](https://dl.acm.org/doi/abs/10.1145/3523227.3547407)
 - Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations, [Google RecSys 2019](https://research.google/pubs/sampling-bias-corrected-neural-modeling-for-large-corpus-item-recommendations/)
+## Sequential Recommendation
+- TagRec: Temporal-Aware Graph Contrastive Learning with Theoretical Augmentation for Sequential Recommendation, IEEE KDE 2025, [IEEE KDE](https://ieeexplore.ieee.org/abstract/document/10872817?casa_token=Sm3rOqRpa0wAAAAA:Jul7vvq6hImVW6uVNY_qVwUq4xgabcyVWvHmP1YVMcSsflnJ8arlYQeyXN8jZabZrhphOHc1OQlq)
+- LLMCDSR: Enhancing Cross-Domain Sequential Recommendation with Large Language Models, Large Language Models Cross-Domain Sequential Recommendation, [ACM Transaction on Information Systems 2025](https://dl.acm.org/doi/abs/10.1145/3715099)
+- Plug-In Diffusion Model for Sequential Recommendation, [AAAI AI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28736)
+- EAGER: Two-Stream Generative Recommender with Behavior-Semantic Collaboration, (EAGER, a  two-strEAm GEnerative Recommender ) KDD 2024, [KDD 2024](https://dl.acm.org/doi/abs/10.1145/3637528.3671775)  [arxiv](https://arxiv.org/pdf/2406.14017)
+- Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models, Mar 2024, [arxiv](https://arxiv.org/abs/2403.03900)
+- Recommender Systems with Generative Retrieval, (Transformer Index for GEnerative Recommenders TIGER) NeurIPS 2023, [NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/20dcab0f14046a5c6b02b61da9f13229-Abstract-Conference.html)
+- How to Index Item IDs for Recommendation Foundation Models, P5, SIGIR 2023, [SIGIR 2023](https://dl.acm.org/doi/abs/10.1145/3624918.3625339)
+- Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, [RecSys 2021](https://dl.acm.org/doi/10.1145/3460231.3474255)
+- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019, [CIKM 2019](https://dl.acm.org/doi/abs/10.1145/3357384.3357895)
+- Self-Attentive Sequential Recommendation, (SAS4REC), 2018, [IEEE Explore](https://ieeexplore.ieee.org/abstract/document/8594844?casa_token=6fNVlOJfwPoAAAAA:PbhfAUR7_-yo1HaX9Za5keyR4xUUY5arL5rbdF5LTlQXIUjOIAA3jARk5I5UupvdRcBCwGCgGtAr)
+- Session-based Recommendations with Recurrent Neural Networks, (GRU4EC) 2015, [arxiv](https://arxiv.org/abs/1511.06939)
+
 ## Discovery
 ## Unclassified
 methods (unclassified. TODO classify). methods used in search engines
