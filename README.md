@@ -260,6 +260,7 @@ methods (unclassified. TODO classify). methods used in search engines
 - STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases, Apr 2024, [arxiv](https://arxiv.org/abs/2404.13207)
 - Report on the 1st Workshop on Large Language Model for Evaluation in Information Retrieval (LLM4Eval 2024) at SIGIR 2024, [SIGIR](https://dl.acm.org/doi/abs/10.1145/3722449.3722461)
 ## Blog posts, whitepapers
+- Foundation Model for Personalized Recommendation by Netflix, Mar 2025, [Netflix blog](https://netflixtechblog.medium.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39)
 - Improving Recommendation Systems & Search in the Age of LLMs by Eugene Neyan, Mar 2025, [blog post](https://eugeneyan.com/writing/recsys-llm)
 - Query Expansion with LLMs: Searching Better by Saying More, Feb 2025, [Jina ai](https://jina.ai/news/query-expansion-with-llms-searching-better-by-saying-more/)
 - Transformers in music recommendation, Google on how transformers are used for music recommendation at youtube, [google research blog](https://research.google/blog/transformers-in-music-recommendation/)
