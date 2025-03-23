@@ -113,6 +113,7 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - Asking Clarification Questions to Handle Ambiguity in Open-Domain QA, May 2023, [arxiv](https://arxiv.org/abs/2305.13808)
 - Asking Clarifying Questions in Open-Domain Information-Seeking Conversations, [SIGIR 2019](https://dl.acm.org/doi/abs/10.1145/3331184.3331265)
 ## Multi Turn
+- MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems, Jan 2025, [arxiv](https://arxiv.org/abs/2501.03468)
 ## Task Solving
 - Investigating Users' Search Behavior and Outcome with ChatGPT in Learning-oriented Search Tasks, [SIGIR 2024](https://dl.acm.org/doi/abs/10.1145/3673791.3698406)
 - Mind2Web: Towards a Generalist Agent for the Web, [NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5950bf290a1570ea401bf98882128160-Abstract-Datasets_and_Benchmarks.html)
