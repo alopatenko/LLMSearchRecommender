@@ -45,6 +45,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 
 ## Search Surveys
 - A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
+- A Survey on Knowledge-Oriented Retrieval-Augmented Generation, Mar 2025, [arxiv](https://arxiv.org/abs/2503.10677) 
 - Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions, Jan 2025, [IEEE](https://ieeexplore.ieee.org/abstract/document/10843094)
 - Improving Recommendation Systems & Search in the Age of LLMs by Eugene Neyan, Mar 2025, [blog post](https://eugeneyan.com/writing/recsys-llm)
 - A Survey of Model Architectures in Information Retrieval, Jan 2025, [arxiv](https://arxiv.org/abs/2502.14822)
@@ -55,6 +56,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Retrieval-Augmented Generation for Large Language Models: A Survey, 2023, [simg](https://simg.baai.ac.cn/paperfile/25a43194-c74c-4cd3-b60f-0a1f27f8b8af.pdf)
 - Large Language Models for Information Retrieval: A Survey, Aug 2023, [arxiv](https://arxiv.org/abs/2308.07107)
 ## Recommender Engine Surveys
+- A Comprehensive Survey on Cross-Domain Recommendation: Taxonomy, Progress, and Prospects, Mar 2025. [arxiv](https://arxiv.org/abs/2503.14110)
 - A Survey on LLM-powered Agents for Recommender Systems, Feb 2025, [arxiv](https://arxiv.org/abs/2502.10050): RE: based on DeepSeek-R methods for training reasoning and interleaved LLMs calling search as a tool.
 - How Can Recommender Systems Benefit from Large Language Models: A Survey, [ACM Transactions on Information Systems 2025](https://dl.acm.org/doi/abs/10.1145/3678004)
 - Graph Foundation Models for Recommendation: A Comprehensive Survey, Feb 2025, [arxiv](https://arxiv.org/abs/2502.08346)
@@ -139,6 +141,7 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 ## Querying Structured Information
 - Querying Databases with Function Calling, Jan 2025, [arxiv](https://arxiv.org/abs/2502.00032)
 ## RAG
+- A Survey on Knowledge-Oriented Retrieval-Augmented Generation, Mar 2025, [arxiv](https://arxiv.org/abs/2503.10677) 
 - Sufficient Context: A New Lens on Retrieval Augmented Generation Systems, Google Research, ICLR 2025, [Google Research](https://research.google/pubs/sufficient-context-a-new-lens-on-retrieval-augmented-generation-systems-2/)
 - Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG, Jan 2025, [arxiv](https://arxiv.org/abs/2501.09136)
 - In Defense of RAG in the Era of Long-Context Language Models, Sep 2024, [arxiv](https://arxiv.org/abs/2409.01666)
