@@ -125,6 +125,8 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - RAMQA: A Unified Framework for Retrieval-Augmented Multi-Modal Question Answering, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13297)
 - EA-VTR: Event-Aware Video-Text Retrieval, ECCV 2024, [ECCV 2024](https://link.springer.com/chapter/10.1007/978-3-031-72943-0_5)
 - ColPali: Efficient Document Retrieval with Vision Language Models, Jun 2024, [arxiv](https://arxiv.org/abs/2407.01449) useful practical info [vespa blog](https://blog.vespa.ai/retrieval-with-vision-language-models-colpali/)
+- Listen, Think, and Understand, OpenAQA dataset, May 2023, [arxiv](https://arxiv.org/abs/2305.10790) 
+- Clotho-AQA: A Crowdsourced Dataset for Audio Question Answering, Apr 2022, [arxiv](https://arxiv.org/abs/2204.09634)
 ## Question Answering
 - CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering, Jan 2025, [arxiv](https://arxiv.org/abs/2501.03447)
 - Unveiling the power of language models in chemical research question answering, Jan 2025, [Nature](https://www.nature.com/articles/s42004-024-01394-x)
@@ -132,6 +134,8 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - LLM-MedQA: Enhancing Medical Question Answering through Case Studies in Large Language Models, Jan 2025, [arxiv](https://arxiv.org/abs/2501.05464)
 - Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation, Jan 2025, [arxiv](https://arxiv.org/abs/2412.18537)
 - Assessing The Potential Of Mid-Sized Language Models For Clinical QA, apr 2024, [arxiv](https://arxiv.org/abs/2404.15894)
+- Listen, Think, and Understand, OpenAQA dataset, May 2023, [arxiv](https://arxiv.org/abs/2305.10790) 
+- Clotho-AQA: A Crowdsourced Dataset for Audio Question Answering, Apr 2022, [arxiv](https://arxiv.org/abs/2204.09634)
 ## Querying Structured Information
 - Querying Databases with Function Calling, Jan 2025, [arxiv](https://arxiv.org/abs/2502.00032)
 ## RAG
@@ -184,9 +188,11 @@ bert based ranking, hybrid encoder based ranking
 - Few-Shot Generative Conversational Query Rewriting, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401323)
 ## Embedding models
 - Granite Embedding Models (multi-lingual embedding models from IBM), Feb 2025 [arxiv](https://arxiv.org/abs/2502.20204)
+- mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic Data, Feb 2025, [arxiv](https://arxiv.org/abs/2502.08468)
 - Multilingual E5 Text Embeddings: A Technical Report, Feb 2024, [arxiv](https://arxiv.org/abs/2402.05672v1)
 - BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation, Feb 2024, [arxiv](https://arxiv.org/abs/2402.03216)
 ## Document understanding
+- SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion, Mar 2025, [arxiv](https://arxiv.org/abs/2503.11576)
 - Qwen2.5-VL Technical Report, see, 3.3.2 Document Understanding and OCR at Feb 2025 [arxiv](https://arxiv.org/abs/2502.13923)
 - ColPali: Efficient Document Retrieval with Vision Language Models, Jun 2024, [arxiv](https://arxiv.org/abs/2407.01449)
 ## Response Generation
