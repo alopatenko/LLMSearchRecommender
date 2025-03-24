@@ -275,6 +275,7 @@ and knowledge assistant and information seeking LLM based systems
 - MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems, Jan 2025, [arxiv](https://arxiv.org/abs/2501.03468)
 - RAD-Bench: Evaluating Large Language Models Capabilities in Retrieval Augmented Dialogues, Sep 2024, [arrxiv](https://arxiv.org/abs/2409.12558)
 - TREC iKAT 2023: A Test Collection for Evaluating Conversational and Interactive Knowledge Assistants, [SIGIR 2024](https://dl.acm.org/doi/abs/10.1145/3626772.3657860)
+- MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries, Jan 2024, [arxiv](https://arxiv.org/abs/2401.15391)
 - FaithDial: A Faithful Benchmark for Information-Seeking Dialogue , Dec 2022, [MIT Press](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00529/114373/FaithDial-A-Faithful-Benchmark-for-Information)
 - Open-Retrieval Conversational Question Answering, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401110)
 ## Blog posts, whitepapers
