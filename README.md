@@ -32,6 +32,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Sequential Recommendation](#sequential-recommendation)
   - [Industrial approaches](#industrial-approaches)
   - [Evaluation of Search engines](#evaluation-of-search-engines)
+    - [Evaluation of RAG](#evaluation-of-rag)
   - [Blog posts, whitepapers](#blog-posts-whitepapers)
   - [Verticals](#verticals)
     - [Product Search](#product-search)
@@ -269,6 +270,13 @@ methods (unclassified. TODO classify). methods used in search engines
 - Large Language Models for Relevance Judgment in Product Search, Jul 2024, [arxiv](https://arxiv.org/abs/2406.00247)
 - STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases, Apr 2024, [arxiv](https://arxiv.org/abs/2404.13207)
 - Report on the 1st Workshop on Large Language Model for Evaluation in Information Retrieval (LLM4Eval 2024) at SIGIR 2024, [SIGIR](https://dl.acm.org/doi/abs/10.1145/3722449.3722461)
+### Evaluation of RAG
+and knowledge assistant and information seeking LLM based systems
+- MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems, Jan 2025, [arxiv](https://arxiv.org/abs/2501.03468)
+- RAD-Bench: Evaluating Large Language Models Capabilities in Retrieval Augmented Dialogues, Sep 2024, [arrxiv](https://arxiv.org/abs/2409.12558)
+- TREC iKAT 2023: A Test Collection for Evaluating Conversational and Interactive Knowledge Assistants, [SIGIR 2024](https://dl.acm.org/doi/abs/10.1145/3626772.3657860)
+- FaithDial: A Faithful Benchmark for Information-Seeking Dialogue , Dec 2022, [MIT Press](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00529/114373/FaithDial-A-Faithful-Benchmark-for-Information)
+- Open-Retrieval Conversational Question Answering, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401110)
 ## Blog posts, whitepapers
 - Foundation Model for Personalized Recommendation by Netflix, Mar 2025, [Netflix blog](https://netflixtechblog.medium.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39)
 - Improving Recommendation Systems & Search in the Age of LLMs by Eugene Neyan, Mar 2025, [blog post](https://eugeneyan.com/writing/recsys-llm)
