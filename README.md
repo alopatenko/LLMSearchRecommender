@@ -333,7 +333,10 @@ and knowledge assistant and information seeking LLM based systems
 ### Legal
 - Conversational vs Traditional: Comparing Search Behavior and Outcome in Legal Case Retrieval, [SIGIR 21 short paper](https://dl.acm.org/doi/abs/10.1145/3404835.3463064)
 ## Search Engine Optimization
+Search Engine Optimization, adversial
+- Dynamics of Adversarial Attacks on Large Language Model-Based Search Engines, Jan 2025, [arxiv](https://arxiv.org/abs/2501.00745)
 - Adversarial Search Engine Optimization for Large Language Models, Jul 2024, [arxiv](https://arxiv.org/abs/2406.18382)
+- Stealthy Attack on Large Language Model based Recommendation, Feb 2024, [arxiv](https://arxiv.org/abs/2402.14836)
 
 
 
