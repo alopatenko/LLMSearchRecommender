@@ -46,7 +46,8 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 
 ## Search Surveys
 - A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
-- A Survey on Knowledge-Oriented Retrieval-Augmented Generation, Mar 2025, [arxiv](https://arxiv.org/abs/2503.10677) 
+- A Survey on Knowledge-Oriented Retrieval-Augmented Generation, Mar 2025, [arxiv](https://arxiv.org/abs/2503.10677)
+- From Matching to Generation: A Survey on Generative Information Retrieval, Feb 2025, Journal Version, [ACM Transaction on Information Systems, Feb 2025](https://dl.acm.org/doi/abs/10.1145/3722552)
 - Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions, Jan 2025, [IEEE](https://ieeexplore.ieee.org/abstract/document/10843094)
 - Improving Recommendation Systems & Search in the Age of LLMs by Eugene Neyan, Mar 2025, [blog post](https://eugeneyan.com/writing/recsys-llm)
 - A Survey of Model Architectures in Information Retrieval, Jan 2025, [arxiv](https://arxiv.org/abs/2502.14822)
@@ -125,9 +126,12 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - Unified Embedding Based Personalized Retrieval in Etsy Search, Sep 2024, [arxiv](https://arxiv.org/abs/2306.04833)
 - IntentRec: Predicting User Session Intent with Hierarchical Multi-Task Learning, Jul 2024 Netflix, [arxiv](https://arxiv.org/abs/2408.05353)
 ## Multi modal
+- Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions, Jan 2025, [IEEE]()https://ieeexplore.ieee.org/abstract/document/10843094?casa_token=oXnLMUJ8EaoAAAAA:bLPPXHI2Sypz5wdjPLTZG965RDQ0jbp6lwbfKi2U3n70i3RWqwBUjHRmxriYp5H2InizkfA40sRs
 - RAMQA: A Unified Framework for Retrieval-Augmented Multi-Modal Question Answering, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13297)
 - EA-VTR: Event-Aware Video-Text Retrieval, ECCV 2024, [ECCV 2024](https://link.springer.com/chapter/10.1007/978-3-031-72943-0_5)
 - ColPali: Efficient Document Retrieval with Vision Language Models, Jun 2024, [arxiv](https://arxiv.org/abs/2407.01449) useful practical info [vespa blog](https://blog.vespa.ai/retrieval-with-vision-language-models-colpali/)
+- UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation, [MM 2024](https://dl.acm.org/doi/abs/10.1145/3664647.3680604)
+- Generative Cross-Modal Retrieval: Memorizing Images in Multimodal Language Models for Retrieval and Beyond, Feb 2024, [arxiv](https://arxiv.org/abs/2402.10805)
 - Listen, Think, and Understand, OpenAQA dataset, May 2023, [arxiv](https://arxiv.org/abs/2305.10790) 
 - Clotho-AQA: A Crowdsourced Dataset for Audio Question Answering, Apr 2022, [arxiv](https://arxiv.org/abs/2204.09634)
 ## Question Answering
@@ -285,6 +289,7 @@ and knowledge assistant and information seeking LLM based systems
 ## Blog posts, whitepapers
 - Foundation Model for Personalized Recommendation by Netflix, Mar 2025, [Netflix blog](https://netflixtechblog.medium.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39)
 - Improving Recommendation Systems & Search in the Age of LLMs by Eugene Neyan, Mar 2025, [blog post](https://eugeneyan.com/writing/recsys-llm)
+- A Coding Implementation to Build a Conversational Research Assistant with FAISS, Langchain, Pypdf, and TinyLlama-1.1B-Chat-v1.0, Mar 2025, [marktechpost](https://www.marktechpost.com/2025/03/22/a-coding-implementation-to-build-a-conversational-research-assistant-with-faiss-langchain-pypdf-and-tinyllama-1-1b-chat-v1-0/)
 - Query Expansion with LLMs: Searching Better by Saying More, Feb 2025, [Jina ai](https://jina.ai/news/query-expansion-with-llms-searching-better-by-saying-more/)
 - Transformers in music recommendation, Google on how transformers are used for music recommendation at youtube, [google research blog](https://research.google/blog/transformers-in-music-recommendation/)
 - Scaling the Instagram Explore Recommendations Systems, [Meta 08 2023](https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/)
