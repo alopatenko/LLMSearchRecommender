@@ -255,6 +255,7 @@ bert based ranking, hybrid encoder based ranking
 - Self-Attentive Sequential Recommendation, (SAS4REC), 2018, [IEEE Explore](https://ieeexplore.ieee.org/abstract/document/8594844?casa_token=6fNVlOJfwPoAAAAA:PbhfAUR7_-yo1HaX9Za5keyR4xUUY5arL5rbdF5LTlQXIUjOIAA3jARk5I5UupvdRcBCwGCgGtAr)
 - Session-based Recommendations with Recurrent Neural Networks, (GRU4EC) 2015, [arxiv](https://arxiv.org/abs/1511.06939)
 ## Discovery
+- LLMs for User Interest Exploration in Large-scale Recommendation Systems, Generative AI and Recommender Systems Workshop at KDD 2024, work by Google, [pdf](https://genai-personalization.github.io/assets/papers/GenAIRecP2024/Wang.pdf)
 ## Unclassified
 methods (unclassified. TODO classify). methods used in search engines
 - Translational Generative Retrieval via Potential Query Generation, [ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10888918)
