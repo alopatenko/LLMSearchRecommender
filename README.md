@@ -5,6 +5,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Search Surveys](#search-surveys)
   - [Recommender Engine Surveys](#recommender-engine-surveys)
   - [Conferences, workshops](#conferences-workshops)
+     - [Industrial Conferences](#industrial-conferences) 
   - [Tutorials](#tutorials)
   - [Software, libraries, frameworks](#software-libraries-frameworks)
   - [FreshLLM and similar architectures (LLM and large scale  search)](#freshllm-and-similar-architectures-llm-and-large-scale--search)
@@ -73,6 +74,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Pre-train, Prompt, and Recommendation: A Comprehensive Survey of Language Modeling Paradigm Adaptations in Recommender Systems , Dec 2023, [MIT](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00619/118712)
 ## Conferences, Workshops
 - [2025 SIGIR Workshop on eCommerce](https://sigir-ecom.github.io/)
+- [RecSys](https://recsys.acm.org/)
 - KDD 2024' [Workshop on Generative AI for Recommender Systems and Personalization](https://genai-personalization.github.io/GenAIRecP2024)
 - CIKM 2024 [1st Workshop on Multimodal Search and Recommendations](https://cikm-mmsr.github.io/)
 - [SIGIR 2024 Workshop on eCommerce ECOM24](https://dl.acm.org/doi/10.1145/3626772.3657988)
@@ -80,6 +82,9 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - EACL 2024 [Workshop on Personalization of Generative AI Systems](https://aclanthology.org/events/personalize-2024/#2024personalize-1)
 - SIGIR 2024 [The First Workshop on Large Language Models (LLMs) for Evaluation in Information Retrieval](https://llm4eval.github.io/SIGIR2024/papers/)
 - SIGIR 2024 [The Second Workshop on Generative Information Retrieval](https://coda.io/@sigir/gen-ir-24)
+### Industrial conferences
+- Haystack [Haystack](https://haystackconf.com/)
+- Activate [Activate](https://lucidworks.com/activate-conference/)
 ## Tutorials
 ## Software, libraries, frameworks
 - [Nvidia Merlin](https://developer.nvidia.com/merlin) Recommender systems, including [Transformer4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
