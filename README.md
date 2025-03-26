@@ -202,8 +202,12 @@ bert based ranking, hybrid encoder based ranking
 ## Embedding models
 - Granite Embedding Models (multi-lingual embedding models from IBM), Feb 2025 [arxiv](https://arxiv.org/abs/2502.20204)
 - mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic Data, Feb 2025, [arxiv](https://arxiv.org/abs/2502.08468)
+- SFR-Embedding from Salesforce in [Salesforce blog](https://www.salesforce.com/blog/sfr-embedding/) Oct 2024
+- BGE-en-ICL, BGE-ICL embedding model, Making Text Embedders Few-Shot Learners, Sep 2024, [arxiv](https://arxiv.org/abs/2409.15700) 
 - Multilingual E5 Text Embeddings: A Technical Report, Feb 2024, [arxiv](https://arxiv.org/abs/2402.05672v1)
+- NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models, May 2024, from Nvidia [arxiv](https://arxiv.org/abs/2405.17428)
 - BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation, Feb 2024, [arxiv](https://arxiv.org/abs/2402.03216)
+- E5-Mistral embeddings from Microsoft in [Improving Text Embeddings with Large Language Models](https://arxiv.org/pdf/2401.00368) Dec 2023
 ## Document understanding
 - SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion, Mar 2025, [arxiv](https://arxiv.org/abs/2503.11576)
 - Qwen2.5-VL Technical Report, see, 3.3.2 Document Understanding and OCR at Feb 2025 [arxiv](https://arxiv.org/abs/2502.13923)
