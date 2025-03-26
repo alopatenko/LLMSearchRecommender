@@ -282,6 +282,7 @@ methods (unclassified. TODO classify). methods used in search engines
 - Report on the 1st Workshop on Large Language Model for Evaluation in Information Retrieval (LLM4Eval 2024) at SIGIR 2024, [SIGIR](https://dl.acm.org/doi/abs/10.1145/3722449.3722461)
 ### Evaluation of RAG
 and knowledge assistant and information seeking LLM based systems
+- MMTEB: Massive Multilingual Text Embedding Benchmark, Feb 2025, [hugging face](https://huggingface.co/papers/2502.13595), [leaderboard](https://huggingface.co/spaces/mteb/leaderboard) Brief:  1043 languages in total, primarily in Bitext mining (text pairing), but also 255 in classification, 209 in clustering, and 142 in Retrieval., 550 tasks, anything from sentiment analysis, question-answering reranking, to long-document retrieval. 17 domains, like legal, religious, programming, web, social, medical, blog, academic, etc. Across this collection of tasks, we subdivide into a lot of separate benchmarks, like MTEB(eng, v2), MTEB(Multilingual, v1), MTEB(Law, v1). Our new MTEB(eng, v2) is much smaller and faster than the original English MTEB, making submissions much cheaper and simpler. [from Tom Aarsen's linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7298723379514155008/)
 - MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems, Jan 2025, [arxiv](https://arxiv.org/abs/2501.03468)
 - RAD-Bench: Evaluating Large Language Models Capabilities in Retrieval Augmented Dialogues, Sep 2024, [arrxiv](https://arxiv.org/abs/2409.12558)
 - IRSC: A Zero-shot Evaluation Benchmark for Information Retrieval through Semantic Comprehension in Retrieval-Augmented Generation Scenarios, Sep 2024, [arxiv](https://arxiv.org/abs/2409.15763)
@@ -292,6 +293,7 @@ and knowledge assistant and information seeking LLM based systems
 - MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries, Jan 2024, [arxiv](https://arxiv.org/abs/2401.15391)
 - FaithDial: A Faithful Benchmark for Information-Seeking Dialogue , Dec 2022, [MIT Press](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00529/114373/FaithDial-A-Faithful-Benchmark-for-Information)
 - Open-Retrieval Conversational Question Answering, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401110)
+- XOR QA: Cross-lingual Open-Retrieval Question Answering, Oct 2020, [arxiv](https://arxiv.org/abs/2010.11856)
 ## Blog posts, whitepapers
 - Foundation Model for Personalized Recommendation by Netflix, Mar 2025, [Netflix blog](https://netflixtechblog.medium.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39)
 - Improving Recommendation Systems & Search in the Age of LLMs by Eugene Neyan, Mar 2025, [blog post](https://eugeneyan.com/writing/recsys-llm)
