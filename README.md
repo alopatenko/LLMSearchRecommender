@@ -41,6 +41,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
     - [Ads / advertisement](#ads--advertisement)
     - [Real estate](#real-estate)
     - [Healthcare](#healthcare)
+    - [Science](#Science)
     - [Finance](#finance)
     - [Legal](#legal) 
   - [Search Engine Optimization](#search-engine-optimization)
@@ -342,6 +343,8 @@ and knowledge assistant and information seeking LLM based systems
 - DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation, Aug 2023, [arxiv](https://arxiv.org/abs/2308.14346)
 - Clinical Camel: An Open Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding, May 2023, [arxiv](https://arxiv.org/abs/2305.12031)
 - MedAlpaca -- An Open-Source Collection of Medical Conversational AI Models and Training Data, Apr 2023, [arxiv](https://arxiv.org/abs/2304.08247)
+### Science
+- PaSa: An LLM Agent for Comprehensive Academic Paper Search, Jan 2025, [arxiv](https://arxiv.org/abs/2501.10120)
 ### Finance
 ### Legal
 - Conversational vs Traditional: Comparing Search Behavior and Outcome in Legal Case Retrieval, [SIGIR 21 short paper](https://dl.acm.org/doi/abs/10.1145/3404835.3463064)
