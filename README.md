@@ -130,6 +130,7 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - Can Large Language Models Understand Preferences in Personalized Recommendation?, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13391v1)
 - Unified Embedding Based Personalized Retrieval in Etsy Search, Sep 2024, [arxiv](https://arxiv.org/abs/2306.04833)
 - IntentRec: Predicting User Session Intent with Hierarchical Multi-Task Learning, Jul 2024 Netflix, [arxiv](https://arxiv.org/abs/2408.05353)
+- LLM-based Medical Assistant Personalization with Short- and Long-Term Memory Coordination, [NAACL 2024](https://aclanthology.org/2024.naacl-long.132/)
 ## Multi modal
 - Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions, Jan 2025, [IEEE]()https://ieeexplore.ieee.org/abstract/document/10843094?casa_token=oXnLMUJ8EaoAAAAA:bLPPXHI2Sypz5wdjPLTZG965RDQ0jbp6lwbfKi2U3n70i3RWqwBUjHRmxriYp5H2InizkfA40sRs
 - RAMQA: A Unified Framework for Retrieval-Augmented Multi-Modal Question Answering, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13297)
