@@ -91,6 +91,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [Nvidia Merlin](https://developer.nvidia.com/merlin) Recommender systems, including [Transformer4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 - [OpenP5](https://github.com/agiresearch/OpenP5) [RecSys23 tutorial](https://llmrecsys.github.io/)
 ## FreshLLM and similar architectures (LLM and large scale  search)
+- ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning, Mar 2025, [arxiv](https://arxiv.org/abs/2503.19470)
 - Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning, Mar 2025, [arxiv](https://arxiv.org/abs/2503.09516)
 - When Search Engine Services Meet Large Language Models: Visions and Challenges, Dec 2024, [IEEE](https://ieeexplore.ieee.org/abstract/document/10654534?)
 - Long-form factuality in large language models, Mar 2024, [arxiv](https://arxiv.org/abs/2403.18802)
