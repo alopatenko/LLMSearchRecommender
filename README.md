@@ -302,9 +302,12 @@ and knowledge assistant and information seeking LLM based systems
 - Open-Retrieval Conversational Question Answering, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401110)
 - XOR QA: Cross-lingual Open-Retrieval Question Answering, Oct 2020, [arxiv](https://arxiv.org/abs/2010.11856)
 ## Blog posts, whitepapers
+- Perplexity, firmly Build Merchant Network to Power GenAI Commerce, Mar 2025, [press release](https://www.pymnts.com/news/ecommerce/2025/exclusive-perplexity-firmly-build-merchant-network-to-power-genai-commerce/)
+- Adobe Analytics: Traffic to U.S. retail websites from Generative AI sources jumps 1,200 percent, Mar 2025, [adobe](https://blog.adobe.com/en/publish/2025/03/17/adobe-analytics-traffic-to-us-retail-websites-from-generative-ai-sources-jumps-1200-percent)
 - Foundation Model for Personalized Recommendation by Netflix, Mar 2025, [Netflix blog](https://netflixtechblog.medium.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39)
 - Improving Recommendation Systems & Search in the Age of LLMs by Eugene Neyan, Mar 2025, [blog post](https://eugeneyan.com/writing/recsys-llm)
 - A Coding Implementation to Build a Conversational Research Assistant with FAISS, Langchain, Pypdf, and TinyLlama-1.1B-Chat-v1.0, Mar 2025, [marktechpost](https://www.marktechpost.com/2025/03/22/a-coding-implementation-to-build-a-conversational-research-assistant-with-faiss-langchain-pypdf-and-tinyllama-1-1b-chat-v1-0/)
+- Investigating ChatGPT Search: Insights from 80 Million Clickstream Records, Feb 2025,  [SemRush blog](https://www.semrush.com/blog/chatgpt-search-insights/)
 - Query Expansion with LLMs: Searching Better by Saying More, Feb 2025, [Jina ai](https://jina.ai/news/query-expansion-with-llms-searching-better-by-saying-more/)
 - Transformers in music recommendation, Google on how transformers are used for music recommendation at youtube, [google research blog](https://research.google/blog/transformers-in-music-recommendation/)
 - Scaling the Instagram Explore Recommendations Systems, [Meta 08 2023](https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/)
