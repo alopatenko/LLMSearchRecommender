@@ -172,6 +172,7 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - How Does Generative Retrieval Scale to Millions of Passages?, Google Research, May 2023 [arxiv](https://arxiv.org/abs/2305.11841)
 - How to Make Cross Encoder a Good Teacher for Efficient Image-Text Retrieval?, July 2024, [arxiv](https://arxiv.org/abs/2407.07479v1)
 ## Ranking for Search
+- Cross-Encoder Rediscovers a Semantic Variant of BM25, Feb 2025, [arxiv](https://www.arxiv.org/abs/2502.04645)
 - Orbit: A framework for designing and evaluating multi-objective rankers, [ACM conf on intelligence user interfaces 2025](https://www.amazon.science/publications/orbit-a-framework-for-designing-and-evaluating-multi-objective-rankers)
 - Beyond Matryoshka: Revisiting Sparse Coding for Adaptive Representation, Mar 2025, [arxiv](https://arxiv.org/abs/2503.01776)
 - DISKCO: Disentangling knowledge from cross-encoder to bi-encoder, [WWW 2024](https://www.amazon.science/publications/diskco-disentangling-knowledge-from-cross-encoder-to-bi-encoder)
