@@ -316,8 +316,11 @@ and knowledge assistant and information seeking LLM based systems
 - Evaluating search relevance part 2 - Phi-3 as relevance judge, a series of articles from ElasticSearch, practical experience on using Phi-3 llm family for relevance evaluation [elasticsearch](https://www.elastic.co/search-labs/blog/evaluating-search-relevance-part-2)
 ## Verticals
 ### Product Search
+- Generative Retrieval and Alignment Model: A New Paradigm for E-commerce Retrieval, apr 2025, [arxiv](https://arxiv.org/abs/2504.01403)
 - Personalised outfit recommendation via history-aware transformers, Amazon Science, [WSDM 2025](https://www.amazon.science/publications/personalised-outfit-recommendation-via-history-aware-transformers)
 - Cite Before You Speak: Enhancing Context-Response Grounding in E-commerce Conversational LLM-Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.04830)
+- Automated Query-Product Relevance Labeling using Large Language Models for E-commerce Search, Feb 2025, [arxiv](https://arxiv.org/abs/2502.15990)
+- Behavior Modeling Space Reconstruction for E-Commerce Search, Jan 2025, [arxiv](https://arxiv.org/abs/2501.18216)
 - Enhancing Relevance of Embedding-based Retrieval at Walmart, Oct 2024, [CIKM 2024](https://dl.acm.org/doi/abs/10.1145/3627673.3680047)
 - Towards translating objective product attributes into customer language, [Amazon Science](https://www.amazon.science/publications/towards-translating-objective-product-attributes-into-customer)
 - Manipulating Large Language Models to Increase Product Visibility, Sep 2024, [arxiv](https://arxiv.org/abs/2404.07981)
@@ -336,6 +339,8 @@ and knowledge assistant and information seeking LLM based systems
 - Improving Deep Learning for Airbnb Search, [KDD 2020](https://dl.acm.org/doi/abs/10.1145/3394486.3403333)
 - Real-time Personalization using Embeddings for Search Ranking at Airbnb, [KDD 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219885)
 ### Ads / advertisement
+- Set-based state estimation of nonlinear discrete-time systems using constrained zonotopes and polyhedral relaxations, Mar 2025, [arxiv](https://arxiv.org/abs/2504.00130)
+- Semantic Ads Retrieval at Walmart eCommerce with Language Models Progressively Trained on Multiple Knowledge Domains, Mar 2025, [arxiv](https://arxiv.org/abs/2502.09089)
 - Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace, Feb 2025, DoorDash, [arxiv]( https://arxiv.org/abs/2502.10514)
 - Scaling Laws for Online Advertisement Retrieval, Nov 2024, [arxiv](https://arxiv.org/abs/2411.13322)
 ### Real estate
