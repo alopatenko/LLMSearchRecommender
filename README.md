@@ -35,7 +35,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Evaluation of Search engines](#evaluation-of-search-engines)
     - [Evaluation of RAG and QA](#evaluation-of-rag)
     - [Question Answering benchmarks](#qa-benchmarks)
-    - [Blog posts, whitepapers](#blog-posts-whitepapers)
+  - [Blog posts, whitepapers](#blog-posts-whitepapers)
   - [Verticals](#verticals)
     - [Product Search](#product-search)
     - [Location Aware (Maps, real estate, local. travel)](#location-aware-maps-real-estate-local-travel)
