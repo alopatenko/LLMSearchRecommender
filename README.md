@@ -33,8 +33,9 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Sequential Recommendation](#sequential-recommendation)
   - [Industrial approaches](#industrial-approaches)
   - [Evaluation of Search engines](#evaluation-of-search-engines)
-    - [Evaluation of RAG](#evaluation-of-rag)
-  - [Blog posts, whitepapers](#blog-posts-whitepapers)
+    - [Evaluation of RAG and QA](#evaluation-of-rag)
+    - [Question Answering benchmarks](#qa-benchmarks)
+    - [Blog posts, whitepapers](#blog-posts-whitepapers)
   - [Verticals](#verticals)
     - [Product Search](#product-search)
     - [Location Aware (Maps, real estate, local. travel)](#location-aware-maps-real-estate-local-travel)
@@ -289,7 +290,8 @@ methods (unclassified. TODO classify). methods used in search engines
 - STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases, Apr 2024, [arxiv](https://arxiv.org/abs/2404.13207)
 - Report on the 1st Workshop on Large Language Model for Evaluation in Information Retrieval (LLM4Eval 2024) at SIGIR 2024, [SIGIR](https://dl.acm.org/doi/abs/10.1145/3722449.3722461)
 ### Evaluation of RAG
-and knowledge assistant and information seeking LLM based systems
+and Question Answering
+and knowledge assistants and information seeking LLM based systems
 - MMTEB: Massive Multilingual Text Embedding Benchmark, Feb 2025, [hugging face](https://huggingface.co/papers/2502.13595), [leaderboard](https://huggingface.co/spaces/mteb/leaderboard) Brief:  1043 languages in total, primarily in Bitext mining (text pairing), but also 255 in classification, 209 in clustering, and 142 in Retrieval., 550 tasks, anything from sentiment analysis, question-answering reranking, to long-document retrieval. 17 domains, like legal, religious, programming, web, social, medical, blog, academic, etc. Across this collection of tasks, we subdivide into a lot of separate benchmarks, like MTEB(eng, v2), MTEB(Multilingual, v1), MTEB(Law, v1). Our new MTEB(eng, v2) is much smaller and faster than the original English MTEB, making submissions much cheaper and simpler. [from Tom Aarsen's linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7298723379514155008/)
 - MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems, Jan 2025, [arxiv](https://arxiv.org/abs/2501.03468)
 - RAD-Bench: Evaluating Large Language Models Capabilities in Retrieval Augmented Dialogues, Sep 2024, [arrxiv](https://arxiv.org/abs/2409.12558)
@@ -302,6 +304,36 @@ and knowledge assistant and information seeking LLM based systems
 - FaithDial: A Faithful Benchmark for Information-Seeking Dialogue , Dec 2022, [MIT Press](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00529/114373/FaithDial-A-Faithful-Benchmark-for-Information)
 - Open-Retrieval Conversational Question Answering, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401110)
 - XOR QA: Cross-lingual Open-Retrieval Question Answering, Oct 2020, [arxiv](https://arxiv.org/abs/2010.11856)
+### QA Benchmarks
+QA is used in many vertical domains, see Vertical section bellow
+- SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines, Mar 2025, [arxiv](https://arxiv.org/abs/2502.14739)
+- CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering, Jan 2025, [arxiv](https://arxiv.org/abs/2501.03447)
+- Unveiling the power of language models in chemical research question answering, Jan 2025, [Nature, communication chemistry](https://www.nature.com/articles/s42004-024-01394-x) ScholarChemQA Dataset
+- Search Engines in an AI Era: The False Promise of Factual and Verifiable Source-Cited Responses, Oct 2024, Salesforce, [arxiv](https://arxiv.org/abs/2410.22349) [Answer Engine (RAG) Evaluation Repository](https://github.com/SalesforceAIResearch/answer-engine-eval)
+- HELMET: How to Evaluate Long-Context Language Models Effectively and Thoroughly, Oct 2024, [arxiv](https://arxiv.org/abs/2410.02694v1)
+- Introducing SimpleQA, OpenAI, Oct 2024 [OpenAI](https://openai.com/index/introducing-simpleqa/)
+- NovelQA: A Benchmark for Long-Range Novel Question Answering, Mar 2024, [arxiv](https://arxiv.org/abs/2403.12766v1)
+- NovelQA: Benchmarking Question Answering on Documents Exceeding 200K Tokens, Mar 2024, [arxiv](https://arxiv.org/abs/2403.12766)
+- Are Large Language Models Consistent over Value-laden Questions?, Jul 2024, [arxiv](https://arxiv.org/abs/2407.02996)
+- LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding, Aug 2023, [arxiv](https://arxiv.org/abs/2308.14508)
+- L-Eval: Instituting Standardized Evaluation for Long Context Language Models, Jul 2023. [arxiv](https://arxiv.org/abs/2307.11088)
+- A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers, QASPER, May 2021, [arxiv](https://arxiv.org/abs/2105.03011)
+- MultiDoc2Dial: Modeling Dialogues Grounded in Multiple Documents, EMNLP 2021, [ACL](https://aclanthology.org/2021.emnlp-main.498/)
+- CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge, Jun 2019, [ACL](https://aclanthology.org/N19-1421/) 
+- Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering, Sep 2018, [arxiv](https://arxiv.org/abs/1809.02789) [OpenBookQA dataset at AllenAI](https://allenai.org/data/open-book-qa)
+- Jin, Di, et al. "What Disease does this Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams., 2020, [arxiv](https://arxiv.org/abs/2009.13081) [MedQA](https://paperswithcode.com/dataset/medqa-usmle)
+- Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge, 2018, [arxiv](https://arxiv.org/abs/1803.05457)  [ARC Easy dataset](https://leaderboard.allenai.org/arc_easy/submissions/get-started) [ARC dataset](https://allenai.org/data/arc)
+- BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions, 2019, [arxiv](https://arxiv.org/abs/1905.10044) [BoolQ dataset](https://huggingface.co/datasets/google/boolq)
+- BookQA: Stories of Challenges and Opportunities, Oct 2019, [arxiv](https://arxiv.org/abs/1910.00856)
+- HellaSwag,  HellaSwag: Can a Machine Really Finish Your Sentence? 2019, [arxiv](https://arxiv.org/abs/1905.07830) Paper + code + dataset https://rowanzellers.com/hellaswag/
+- PIQA: Reasoning about Physical Commonsense in Natural Language, Nov 2019, [arxiv](https://arxiv.org/abs/1911.11641)
+[PIQA dataset](https://github.com/ybisk/ybisk.github.io/tree/master/piqa)
+- Crowdsourcing Multiple Choice Science Questions [arxiv](https://arxiv.org/abs/1707.06209) [SciQ dataset](https://allenai.org/data/sciq)
+- The NarrativeQA Reading Comprehension Challenge, Dec 2017, [arxiv](https://arxiv.org/abs/1712.07040) [dataset at deepmind](https://github.com/google-deepmind/narrativeqa)
+- WinoGrande: An Adversarial Winograd Schema Challenge at Scale, 2017, [arxiv](https://arxiv.org/abs/1907.10641) [Winogrande dataset](https://www.tensorflow.org/datasets/catalog/winogrande)
+- TruthfulQA: Measuring How Models Mimic Human Falsehoods, Sep 2021, [arxiv](https://arxiv.org/abs/2109.07958)
+- TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages, 2020, [arxiv](https://arxiv.org/abs/2003.05002)  [data](https://github.com/google-research-datasets/tydiqa)
+- Natural Questions: A Benchmark for Question Answering Research, [Transactions ACL 2019](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00276/43518/Natural-Questions-A-Benchmark-for-Question) 
 ## Blog posts, whitepapers
 - Perplexity, firmly Build Merchant Network to Power GenAI Commerce, Mar 2025, [press release](https://www.pymnts.com/news/ecommerce/2025/exclusive-perplexity-firmly-build-merchant-network-to-power-genai-commerce/)
 - Adobe Analytics: Traffic to U.S. retail websites from Generative AI sources jumps 1,200 percent, Mar 2025, [adobe](https://blog.adobe.com/en/publish/2025/03/17/adobe-analytics-traffic-to-us-retail-websites-from-generative-ai-sources-jumps-1200-percent)
