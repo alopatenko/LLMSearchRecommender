@@ -221,6 +221,7 @@ bert based ranking, hybrid encoder based ranking
 - Neural headline generation: A comprehensive survey, Mar 2025, [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003054)
 - Cite Before You Speak: Enhancing Context-Response Grounding in E-commerce Conversational LLM-Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.04830)
 ## Agentic Search
+- Open Deep Search: Democratizing Search with Open-source Reasoning Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.20201)
 - A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
 - Search-o1: Agentic Search-Enhanced Large Reasoning Models, Jan 2025, [arxiv](https://arxiv.org/abs/2501.05366)
 - Plan*RAG: Efficient Test-Time Planning for Retrieval Augmented Generation, Oct 2024, [arxiv](https://arxiv.org/abs/2410.20753)
@@ -284,6 +285,7 @@ methods (unclassified. TODO classify). methods used in search engines
 ## Industrial approaches
 - ZeroEntropy 🔎 - Advanced AI Search Over Complex Documents [launch doc](https://www.ycombinator.com/launches/MZf-zeroentropy-advanced-ai-search-over-complex-documents)
 ## Evaluation of Search engines
+- Rankers, Judges, and Assistants: Towards Understanding the Interplay of LLMs in Information Retrieval Evaluation, DeepMind, Mar 2025, [arxiv](https://arxiv.org/abs/2503.19092v1)
 - LLM-Assisted Relevance Assessments: When Should We Ask LLMs for Help?, Jan 2025, [arxiv](https://arxiv.org/abs/2411.06877)
 - AI Search Has A Citation Problem, Mar 2025, [CJR Columbia Journalism Review](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php)
 - Large Language Models for Relevance Judgment in Product Search, Jul 2024, [arxiv](https://arxiv.org/abs/2406.00247)
