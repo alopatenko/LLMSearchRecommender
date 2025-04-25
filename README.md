@@ -23,6 +23,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
     - [Classical bi-encoder and cross encoder ranking,](#classical-bi-encoder-and-cross-encoder-ranking)
   - [Query Understanding](#query-understanding)
   - [Embedding models](#embedding-models)
+    - [Embedding models Evaluation](#embedding-models-evaluation)  
   - [Document understanding](#document-understanding)
   - [Response generation](#response-generation), presentation of the search results
   - [Agentic Search](#agentic-search)
@@ -213,6 +214,9 @@ bert based ranking, hybrid encoder based ranking
 - NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models, May 2024, from Nvidia [arxiv](https://arxiv.org/abs/2405.17428)
 - BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation, Feb 2024, [arxiv](https://arxiv.org/abs/2402.03216)
 - E5-Mistral embeddings from Microsoft in [Improving Text Embeddings with Large Language Models](https://arxiv.org/pdf/2401.00368) Dec 2023
+### Embedding models evaluation 
+- The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks, Apr 2025, [arxiv](https://arxiv.org/abs/2504.15521)
+- MMTEB: Massive Multilingual Text Embedding Benchmark, Feb 2025, [arxiv](https://arxiv.org/abs/2502.13595v2)
 ## Document understanding
 - SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion, Mar 2025, [arxiv](https://arxiv.org/abs/2503.11576)
 - Qwen2.5-VL Technical Report, see, 3.3.2 Document Understanding and OCR at Feb 2025 [arxiv](https://arxiv.org/abs/2502.13923)
