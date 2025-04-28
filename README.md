@@ -1,5 +1,5 @@
 # Awesome Generative AI in Search, Recommendation, Personalization 
-# Generative AI and LLMs for Search, Recommender, Personalization Engines
+## Generative AI and LLMs for Search, Recommender, Personalization Engines
 The goal of this repository is to survey and review generative AI and LLM-based methods for building large-scale search and recommender engines.
 see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [repository](https://github.com/alopatenko/LLMSearchRecommender)
 - [LLM and Search and Recommender Engines](#llm-and-search-and-recommender-engines)
