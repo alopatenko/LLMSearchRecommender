@@ -300,6 +300,7 @@ methods (unclassified. TODO classify). methods used in search engines
 ## Industrial approaches
 - ZeroEntropy 🔎 - Advanced AI Search Over Complex Documents [launch doc](https://www.ycombinator.com/launches/MZf-zeroentropy-advanced-ai-search-over-complex-documents)
 ## Evaluation of Search engines
+- FreshStack: Building Realistic Benchmarks for Evaluating Retrieval on Technical Documents, Apr 2025, [arxiv](https://arxiv.org/abs/2504.13128)
 - Rankers, Judges, and Assistants: Towards Understanding the Interplay of LLMs in Information Retrieval Evaluation, DeepMind, Mar 2025, [arxiv](https://arxiv.org/abs/2503.19092v1)
 - LLM-Assisted Relevance Assessments: When Should We Ask LLMs for Help?, Jan 2025, [arxiv](https://arxiv.org/abs/2411.06877)
 - AI Search Has A Citation Problem, Mar 2025, [CJR Columbia Journalism Review](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php)
