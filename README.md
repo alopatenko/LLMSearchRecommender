@@ -196,6 +196,10 @@ bert based ranking, hybrid encoder based ranking
 - Understanding the Behaviors of BERT in Ranking, 2019, [arxiv](https://arxiv.org/abs/1904.07531)
 - Passage Re-ranking with BERT, 2019, [arxiv](https://arxiv.org/abs/1901.04085)
 ## Query Understanding
+- Hypothetical Documents or Knowledge Leakage? Rethinking LLM-based Query Expansion, Apr 2025, [arxiv](https://arxiv.org/abs/2504.14175)
+- Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling. Apr 2025, [arxiv](https://arxiv.org/abs/2504.05216)
+- LLM-Based Query Expansion with Gaussian Kernel Semantic Enhancement for Dense Retrieval, Mar 2025, [mdpi](https://www.mdpi.com/2079-9292/14/9/1744)
+- LLM-QE: Improving Query Expansion by Aligning Large Language Models with Ranking Preferences, Feb 2025, [arxiv](https://arxiv.org/abs/2502.17057v1)
 - Two Heads Are Better Than One: Improving Search Effectiveness Through LLM-Generated Query Variants, 2025, [RMIT University](https://www.damianospina.com/publication/ran-2025-two/ran-2025-two.pdf)
 - Large Language Model based Long-tail Query Rewriting in Taobao Search, [WWW 2024](https://dl.acm.org/doi/abs/10.1145/3589335.3648298)
 - Near-duplicate question detection, [WWW 2024](https://www.amazon.science/publications/near-duplicate-question-detection)
