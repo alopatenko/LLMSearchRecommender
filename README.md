@@ -236,7 +236,10 @@ bert based ranking, hybrid encoder based ranking
 ## Response Generation
 - Neural headline generation: A comprehensive survey, Mar 2025, [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003054)
 - Cite Before You Speak: Enhancing Context-Response Grounding in E-commerce Conversational LLM-Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.04830)
+- Beyond Relevant Documents: A Knowledge-Intensive Approach for Query-Focused Summarization using Large Language Models, Aug 2024, [arxiv](https://arxiv.org/abs/2408.10357)
 ## Agentic Search
+- R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning, Jun 2025, [arxiv](https://arxiv.org/abs/2506.04185)
+- Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
 - Open Deep Search: Democratizing Search with Open-source Reasoning Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.20201)
 - A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
 - Search-o1: Agentic Search-Enhanced Large Reasoning Models, Jan 2025, [arxiv](https://arxiv.org/abs/2501.05366)
@@ -301,6 +304,7 @@ methods (unclassified. TODO classify). methods used in search engines
 ## Industrial approaches
 - ZeroEntropy 🔎 - Advanced AI Search Over Complex Documents [launch doc](https://www.ycombinator.com/launches/MZf-zeroentropy-advanced-ai-search-over-complex-documents)
 ## Evaluation of Search engines
+- Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
 - FreshStack: Building Realistic Benchmarks for Evaluating Retrieval on Technical Documents, Apr 2025, [arxiv](https://arxiv.org/abs/2504.13128)
 - Rankers, Judges, and Assistants: Towards Understanding the Interplay of LLMs in Information Retrieval Evaluation, DeepMind, Mar 2025, [arxiv](https://arxiv.org/abs/2503.19092v1)
 - LLM-Assisted Relevance Assessments: When Should We Ask LLMs for Help?, Jan 2025, [arxiv](https://arxiv.org/abs/2411.06877)
@@ -311,6 +315,7 @@ methods (unclassified. TODO classify). methods used in search engines
 ### Evaluation of RAG
 and Question Answering
 and knowledge assistants and information seeking LLM based systems
+- RAGtifier: Evaluating RAG Generation Approaches of State-of-the-Art RAG Systems for the SIGIR LiveRAG Competition, Jun 2025, [arxiv](https://www.arxiv.org/abs/2506.14412)
 - MMTEB: Massive Multilingual Text Embedding Benchmark, Feb 2025, [hugging face](https://huggingface.co/papers/2502.13595), [leaderboard](https://huggingface.co/spaces/mteb/leaderboard) Brief:  1043 languages in total, primarily in Bitext mining (text pairing), but also 255 in classification, 209 in clustering, and 142 in Retrieval., 550 tasks, anything from sentiment analysis, question-answering reranking, to long-document retrieval. 17 domains, like legal, religious, programming, web, social, medical, blog, academic, etc. Across this collection of tasks, we subdivide into a lot of separate benchmarks, like MTEB(eng, v2), MTEB(Multilingual, v1), MTEB(Law, v1). Our new MTEB(eng, v2) is much smaller and faster than the original English MTEB, making submissions much cheaper and simpler. [from Tom Aarsen's linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7298723379514155008/)
 - MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems, Jan 2025, [arxiv](https://arxiv.org/abs/2501.03468)
 - RAD-Bench: Evaluating Large Language Models Capabilities in Retrieval Augmented Dialogues, Sep 2024, [arrxiv](https://arxiv.org/abs/2409.12558)
@@ -390,6 +395,7 @@ QA is used in many vertical domains, see Vertical section bellow
 - Improving Deep Learning for Airbnb Search, [KDD 2020](https://dl.acm.org/doi/abs/10.1145/3394486.3403333)
 - Real-time Personalization using Embeddings for Search Ranking at Airbnb, [KDD 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219885)
 ### Ads / advertisement
+- TeamCMU at Touché: Adversarial Co-Evolution for Advertisement Integration and Detection in Conversational Search, Jul 2025, [arxiv](https://arxiv.org/abs/2507.00509)
 - Set-based state estimation of nonlinear discrete-time systems using constrained zonotopes and polyhedral relaxations, Mar 2025, [arxiv](https://arxiv.org/abs/2504.00130)
 - Semantic Ads Retrieval at Walmart eCommerce with Language Models Progressively Trained on Multiple Knowledge Domains, Mar 2025, [arxiv](https://arxiv.org/abs/2502.09089)
 - Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace, Feb 2025, DoorDash, [arxiv]( https://arxiv.org/abs/2502.10514)
