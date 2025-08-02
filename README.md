@@ -29,6 +29,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Response generation](#response-generation), presentation of the search results
   - [Agentic Search](#agentic-search)
   - [Deep Research](#deep-research)
+  - [Hybrid search vs vector search](#hybrid-search-vs-vector-search)
   - [Recommender Engines](#recommender-engines)
   - [Discovery](#discovery)
   - [Unclassified](#unclassified)
@@ -255,6 +256,14 @@ bert based ranking, hybrid encoder based ranking
 - DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments, Apr 2025, [arxiv](https://arxiv.org/abs/2504.03160)
 - Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.24047)
 - Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools, Feb 2025, [arxiv](https://arxiv.org/abs/2502.04644)
+## Hybrid search vs vector search
+- Deep Retrieval at CheckThat! 2025: Identifying Scientific Papers from Implicit Social Media Mentions via Hybrid Retrieval and Re-Ranking, May 2025, [arxiv](https://arxiv.org/abs/2505.23250)
+- Domain-specific Question Answering with Hybrid Search, Dec 2024, [arxiv](https://arxiv.org/abs/2412.03736)
+- COS-Mix: Cosine Similarity and Distance Fusion for Improved Information Retrieval, Jun 2024, [arxiv](https://arxiv.org/abs/2406.00638)
+- Sparse Meets Dense: A Hybrid Approach to Enhance Scientific Document Retrieval, Jan 2024, [arxiv](https://arxiv.org/abs/2401.04055)
+- Azure AI Search: Outperforming vector search with hybrid retrieval and reranking, Jan 2024, [Azure tech blog](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/azure-ai-search-outperforming-vector-search-with-hybrid-retrieval-and-reranking/3929167)
+
+
 ## Recommender Engines
 - EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration, Feb 2025, [arxiv](https://arxiv.org/abs/2502.14735)
 - 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation, Jan 2025, [arxiv](https://arxiv.org/abs/2501.16450)
