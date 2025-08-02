@@ -28,6 +28,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Document understanding](#document-understanding)
   - [Response generation](#response-generation), presentation of the search results
   - [Agentic Search](#agentic-search)
+  - [Deep Research](#deep-research)
   - [Recommender Engines](#recommender-engines)
   - [Discovery](#discovery)
   - [Unclassified](#unclassified)
@@ -245,6 +246,15 @@ bert based ranking, hybrid encoder based ranking
 - Search-o1: Agentic Search-Enhanced Large Reasoning Models, Jan 2025, [arxiv](https://arxiv.org/abs/2501.05366)
 - Plan*RAG: Efficient Test-Time Planning for Retrieval Augmented Generation, Oct 2024, [arxiv](https://arxiv.org/abs/2410.20753)
 - MindSearch: Mimicking Human Minds Elicits Deep AI Searcher, Jul 2024, [arxiv](https://arxiv.org/abs/2407.20183)
+## Deep Research
+- A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications, jun 2025, [arxiv](https://arxiv.org/abs/2506.12594)
+- DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents, jun 2025, [arxiv](https://arxiv.org/abs/2506.11763)
+- ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework, May 2025, [arxiv](https://arxiv.org/abs/2505.18105)
+- SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis, May 2025, [arxiv](https://arxiv.org/abs/2505.16834)
+- WebThinker: Empowering Large Reasoning Models with Deep Research Capability, Apr 2025, [arxiv](https://arxiv.org/abs/2504.21776)
+- DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments, Apr 2025, [arxiv](https://arxiv.org/abs/2504.03160)
+- Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.24047)
+- Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools, Feb 2025, [arxiv](https://arxiv.org/abs/2502.04644)
 ## Recommender Engines
 - EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration, Feb 2025, [arxiv](https://arxiv.org/abs/2502.14735)
 - 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation, Jan 2025, [arxiv](https://arxiv.org/abs/2501.16450)
