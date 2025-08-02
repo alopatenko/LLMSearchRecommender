@@ -121,6 +121,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Open-Retrieval Conversational Question Answering, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401110)
 ## Search Assistance
 autocomplete/autosuggest and other search assistance tasks, search clarification, query recommendation and other techniques guiding users in search
+- LLM-based Search Assistant with Holistically Guided MCTS for Intricate Information Seeking, 2025, [SIGIR 2025](https://dl.acm.org/doi/abs/10.1145/3726302.3730025)
 - Evaluating auto-complete ranking for diversity and relevance, [ECIR 2025](https://www.amazon.science/publications/evaluating-auto-complete-ranking-for-diversity-and-relevance)
 - Enhancing Discoverability in Enterprise Conversational Systems with Proactive Question Suggestions, Dec 2024, [arxiv](https://arxiv.org/abs/2412.10933)
 - DiAL: Diversity aware listwise ranking for query auto-complete, [EMNLP 2024](https://www.amazon.science/publications/dial-diversity-aware-listwise-ranking-for-query-auto-complete)
@@ -160,6 +161,7 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 ## Querying Structured Information
 - Querying Databases with Function Calling, Jan 2025, [arxiv](https://arxiv.org/abs/2502.00032)
 ## RAG
+- Each to Their Own: Exploring the Optimal Embedding in RAG, Jul 2025, [arxiv](https://arxiv.org/abs/2507.17442)
 - A Survey on Knowledge-Oriented Retrieval-Augmented Generation, Mar 2025, [arxiv](https://arxiv.org/abs/2503.10677) 
 - Sufficient Context: A New Lens on Retrieval Augmented Generation Systems, Google Research, ICLR 2025, [Google Research](https://research.google/pubs/sufficient-context-a-new-lens-on-retrieval-augmented-generation-systems-2/)
 - Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG, Jan 2025, [arxiv](https://arxiv.org/abs/2501.09136)
@@ -178,6 +180,8 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - How Does Generative Retrieval Scale to Millions of Passages?, Google Research, May 2023 [arxiv](https://arxiv.org/abs/2305.11841)
 - How to Make Cross Encoder a Good Teacher for Efficient Image-Text Retrieval?, July 2024, [arxiv](https://arxiv.org/abs/2407.07479v1)
 ## Ranking for Search
+- Rank-K: Test-Time Reasoning for Listwise Reranking, May 2025, [arxiv](https://arxiv.org/abs/2505.14432)
+- Graph-Based Re-ranking: Emerging Techniques, Limitations, and Opportunities, Mar 2025, [arxiv](https://arxiv.org/abs/2503.14802)
 - Cross-Encoder Rediscovers a Semantic Variant of BM25, Feb 2025, [arxiv](https://www.arxiv.org/abs/2502.04645)
 - Orbit: A framework for designing and evaluating multi-objective rankers, [ACM conf on intelligence user interfaces 2025](https://www.amazon.science/publications/orbit-a-framework-for-designing-and-evaluating-multi-objective-rankers)
 - Beyond Matryoshka: Revisiting Sparse Coding for Adaptive Representation, Mar 2025, [arxiv](https://arxiv.org/abs/2503.01776)
@@ -199,6 +203,7 @@ bert based ranking, hybrid encoder based ranking
 - Understanding the Behaviors of BERT in Ranking, 2019, [arxiv](https://arxiv.org/abs/1904.07531)
 - Passage Re-ranking with BERT, 2019, [arxiv](https://arxiv.org/abs/1901.04085)
 ## Query Understanding
+- Aligned Query Expansion: Efficient Query Expansion for Information Retrieval through LLM Alignment, Jul 2025, [arxiv](https://arxiv.org/abs/2507.11042)
 - Hypothetical Documents or Knowledge Leakage? Rethinking LLM-based Query Expansion, Apr 2025, [arxiv](https://arxiv.org/abs/2504.14175)
 - Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling. Apr 2025, [arxiv](https://arxiv.org/abs/2504.05216)
 - LLM-Based Query Expansion with Gaussian Kernel Semantic Enhancement for Dense Retrieval, Mar 2025, [mdpi](https://www.mdpi.com/2079-9292/14/9/1744)
@@ -322,7 +327,9 @@ methods (unclassified. TODO classify). methods used in search engines
 ## Industrial approaches
 - ZeroEntropy 🔎 - Advanced AI Search Over Complex Documents [launch doc](https://www.ycombinator.com/launches/MZf-zeroentropy-advanced-ai-search-over-complex-documents)
 ## Evaluation of Search engines
+- Search Arena & What We’re Learning About Human Preference, [blog post of LMArena](https://news.lmarena.ai/search-arena/)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
+- LLM-Driven Usefulness Judgment for Web Search Evaluation, Apr 2025, [arxiv](https://arxiv.org/abs/2504.14401)
 - FreshStack: Building Realistic Benchmarks for Evaluating Retrieval on Technical Documents, Apr 2025, [arxiv](https://arxiv.org/abs/2504.13128)
 - Rankers, Judges, and Assistants: Towards Understanding the Interplay of LLMs in Information Retrieval Evaluation, DeepMind, Mar 2025, [arxiv](https://arxiv.org/abs/2503.19092v1)
 - LLM-Assisted Relevance Assessments: When Should We Ask LLMs for Help?, Jan 2025, [arxiv](https://arxiv.org/abs/2411.06877)
