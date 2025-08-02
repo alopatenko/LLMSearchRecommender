@@ -262,8 +262,7 @@ bert based ranking, hybrid encoder based ranking
 - COS-Mix: Cosine Similarity and Distance Fusion for Improved Information Retrieval, Jun 2024, [arxiv](https://arxiv.org/abs/2406.00638)
 - Sparse Meets Dense: A Hybrid Approach to Enhance Scientific Document Retrieval, Jan 2024, [arxiv](https://arxiv.org/abs/2401.04055)
 - Azure AI Search: Outperforming vector search with hybrid retrieval and reranking, Jan 2024, [Azure tech blog](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/azure-ai-search-outperforming-vector-search-with-hybrid-retrieval-and-reranking/3929167)
-
-
+- Hybrid Hierarchical Retrieval for Open-Domain Question Answering, Jul 2023, [ACL 2023](https://aclanthology.org/2023.findings-acl.679/)
 ## Recommender Engines
 - EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration, Feb 2025, [arxiv](https://arxiv.org/abs/2502.14735)
 - 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation, Jan 2025, [arxiv](https://arxiv.org/abs/2501.16450)
