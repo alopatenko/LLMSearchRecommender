@@ -93,6 +93,8 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Activate [Activate](https://lucidworks.com/activate-conference/)
 ## Tutorials
 ## Software, libraries, frameworks
+- [HuggingFace Deep Research](https://huggingface.co/blog/open-deep-research)
+- [RankLLM](https://github.com/castorini/rank_llm) SIGIR 2025 [article](https://dl.acm.org/doi/pdf/10.1145/3726302.3730331)
 - [Nvidia Merlin](https://developer.nvidia.com/merlin) Recommender systems, including [Transformer4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 - [OpenP5](https://github.com/agiresearch/OpenP5) [RecSys23 tutorial](https://llmrecsys.github.io/)
 ## FreshLLM and similar architectures (LLM and large scale  search)
