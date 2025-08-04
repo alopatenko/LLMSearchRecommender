@@ -65,6 +65,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Retrieval-Augmented Generation for Large Language Models: A Survey, 2023, [simg](https://simg.baai.ac.cn/paperfile/25a43194-c74c-4cd3-b60f-0a1f27f8b8af.pdf)
 - Large Language Models for Information Retrieval: A Survey, Aug 2023, [arxiv](https://arxiv.org/abs/2308.07107)
 ## Recommender Engine Surveys
+- A Comprehensive Review on Harnessing Large Language Models to Overcome Recommender System Challenges, Jul 2025, [arxiv](https://arxiv.org/abs/2507.21117v1)
 - A Comprehensive Survey on Cross-Domain Recommendation: Taxonomy, Progress, and Prospects, Mar 2025. [arxiv](https://arxiv.org/abs/2503.14110)
 - A Survey on LLM-powered Agents for Recommender Systems, Feb 2025, [arxiv](https://arxiv.org/abs/2502.10050): RE: based on DeepSeek-R methods for training reasoning and interleaved LLMs calling search as a tool.
 - How Can Recommender Systems Benefit from Large Language Models: A Survey, [ACM Transactions on Information Systems 2025](https://dl.acm.org/doi/abs/10.1145/3678004)
@@ -271,6 +272,7 @@ bert based ranking, hybrid encoder based ranking
 - Azure AI Search: Outperforming vector search with hybrid retrieval and reranking, Jan 2024, [Azure tech blog](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/azure-ai-search-outperforming-vector-search-with-hybrid-retrieval-and-reranking/3929167)
 - Hybrid Hierarchical Retrieval for Open-Domain Question Answering, Jul 2023, [ACL 2023](https://aclanthology.org/2023.findings-acl.679/)
 ## Recommender Engines
+- RecGPT: LLM-Driven Intent-Centric Recommender Systems at Industrial Scale, Technical Report,Jul 2025, Alibaba, [arxiv](https://www.arxiv.org/abs/2507.22879)
 - EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration, Feb 2025, [arxiv](https://arxiv.org/abs/2502.14735)
 - 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation, Jan 2025, [arxiv](https://arxiv.org/abs/2501.16450)
 - Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations, Baidu, Mar 2025, [arxiv](https://arxiv.org/abs/2503.02453)
