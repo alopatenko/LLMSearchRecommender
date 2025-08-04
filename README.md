@@ -16,6 +16,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - Search as [Task Solving](#task-solving)
   - [Personalization](#personalization)
   - [Multi modal](#multi-modal)
+  - [Multi lingual](#multi-lingual)
   - [Question Answering](#question-answering)
   - [Querying Structured Information](#querying-structured-information)
   - [RAG](#rag)
@@ -152,6 +153,16 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - Generative Cross-Modal Retrieval: Memorizing Images in Multimodal Language Models for Retrieval and Beyond, Feb 2024, [arxiv](https://arxiv.org/abs/2402.10805)
 - Listen, Think, and Understand, OpenAQA dataset, May 2023, [arxiv](https://arxiv.org/abs/2305.10790) 
 - Clotho-AQA: A Crowdsourced Dataset for Audio Question Answering, Apr 2022, [arxiv](https://arxiv.org/abs/2204.09634)
+## Multi Lingual
+Cross Language Information Retrieval (CLIR) and other technique to make search engines multi lingual
+Also, see several multi lingual benchmarks and multi lingual embedding models in the other parts of this survey
+- The Cross-Lingual Cost: Retrieval Biases in RAG over Arabic-English Corpora, Jul 2025, [arxiv](https://arxiv.org/abs/2507.07543)
+- XRAG: Cross-lingual Retrieval-Augmented Generation, Amazon, Heidelberg, May 2025, [arxiv](https://arxiv.org/abs/2505.10089)
+- CLIRudit: Cross-Lingual Information Retrieval of Scientific Documents, Apr 2025, [arxiv](https://arxiv.org/abs/2504.16264)
+- Transforming LLMs into Cross-modal and Cross-lingual Retrieval Systems, apr 2024, Google, DeepMind, UoE, [arxiv](https://arxiv.org/abs/2404.01616)
+- Cl2cm: Improving cross-lingual cross-modal retrieval via cross-lingual knowledge transfer, Alibaba, AAAI 2024, [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28376)
+- Multimodal LLM Enhanced Cross-lingual Cross-modal Retrieval, [MM 2024](https://dl.acm.org/doi/abs/10.1145/3664647.3680886)
+- Cross-Lingual Cross-Modal Retrieval With Noise-Robust Fine-Tuning, [IEEE 2024](https://ieeexplore.ieee.org/abstract/document/10530137)
 ## Question Answering
 - CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering, Jan 2025, [arxiv](https://arxiv.org/abs/2501.03447)
 - Unveiling the power of language models in chemical research question answering, Jan 2025, [Nature](https://www.nature.com/articles/s42004-024-01394-x)
