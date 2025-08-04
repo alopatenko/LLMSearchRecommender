@@ -264,7 +264,8 @@ bert based ranking, hybrid encoder based ranking
 - DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments, Apr 2025, [arxiv](https://arxiv.org/abs/2504.03160)
 - Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.24047)
 - Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools, Feb 2025, [arxiv](https://arxiv.org/abs/2502.04644)
-## Hybrid search vs vector search
+## Hybrid search vs vector search 
+- Efficient Knowledge Graph Construction and Retrieval from Unstructured Text for Large-Scale RAG Systems, Jul 2025, SAP, [arxiv](https://arxiv.org/abs/2507.03226)
 - Deep Retrieval at CheckThat! 2025: Identifying Scientific Papers from Implicit Social Media Mentions via Hybrid Retrieval and Re-Ranking, May 2025, [arxiv](https://arxiv.org/abs/2505.23250)
 - Domain-specific Question Answering with Hybrid Search, Dec 2024, [arxiv](https://arxiv.org/abs/2412.03736)
 - COS-Mix: Cosine Similarity and Distance Fusion for Improved Information Retrieval, Jun 2024, [arxiv](https://arxiv.org/abs/2406.00638)
