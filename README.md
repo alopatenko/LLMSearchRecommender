@@ -294,6 +294,7 @@ bert based ranking, hybrid encoder based ranking
 - Azure AI Search: Outperforming vector search with hybrid retrieval and reranking, Jan 2024, [Azure tech blog](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/azure-ai-search-outperforming-vector-search-with-hybrid-retrieval-and-reranking/3929167)
 - Hybrid Hierarchical Retrieval for Open-Domain Question Answering, Jul 2023, [ACL 2023](https://aclanthology.org/2023.findings-acl.679/)
 ## Recommender Engines
+- Rethinking Group Recommender Systems in the Era of Generative AI: From One-Shot Recommendations to Agentic Group Decision Support, Jul 2025, [arxiv](https://arxiv.org/abs/2507.00535v1)
 - RecGPT: LLM-Driven Intent-Centric Recommender Systems at Industrial Scale, Technical Report,Jul 2025, Alibaba, [arxiv](https://www.arxiv.org/abs/2507.22879)
 - EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration, Feb 2025, [arxiv](https://arxiv.org/abs/2502.14735)
 - 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation, Jan 2025, [arxiv](https://arxiv.org/abs/2501.16450)
