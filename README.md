@@ -140,6 +140,8 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - Investigating Users' Search Behavior and Outcome with ChatGPT in Learning-oriented Search Tasks, [SIGIR 2024](https://dl.acm.org/doi/abs/10.1145/3673791.3698406)
 - Mind2Web: Towards a Generalist Agent for the Web, [NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5950bf290a1570ea401bf98882128160-Abstract-Datasets_and_Benchmarks.html)
 ## Personalization
+- Bridging Personalization and Control in Scientific Personalized Search, SIGIR 2025, [arxiv](https://arxiv.org/abs/2411.02790)
+- User-LLM: Efficient LLM Contextualization with User Embeddings, WWW 2025, [ACM](https://dl.acm.org/doi/abs/10.1145/3701716.3715463)
 - Can Large Language Models Understand Preferences in Personalized Recommendation?, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13391v1)
 - Unified Embedding Based Personalized Retrieval in Etsy Search, Sep 2024, [arxiv](https://arxiv.org/abs/2306.04833)
 - IntentRec: Predicting User Session Intent with Hierarchical Multi-Task Learning, Jul 2024 Netflix, [arxiv](https://arxiv.org/abs/2408.05353)
