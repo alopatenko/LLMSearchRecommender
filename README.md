@@ -201,6 +201,8 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - How Does Generative Retrieval Scale to Millions of Passages?, Google Research, May 2023 [arxiv](https://arxiv.org/abs/2305.11841)
 - How to Make Cross Encoder a Good Teacher for Efficient Image-Text Retrieval?, July 2024, [arxiv](https://arxiv.org/abs/2407.07479v1)
 ## Ranking for Search
+- RankElectra: Semi-supervised Pre-training of Learning-to-Rank Electra for Web-scale Search, KDD 2025, [ACM](https://dl.acm.org/doi/abs/10.1145/3690624.3709395)
+- MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification, WWW 2025, [ACM](https://dl.acm.org/doi/abs/10.1145/3696410.3714862)
 - MMMORRF: Multimodal Multilingual Modularized Reciprocal Rank Fusion, May 2025, SIGIR 2025, [arxiv](https://arxiv.org/abs/2503.20698)
 - Rank-K: Test-Time Reasoning for Listwise Reranking, May 2025, [arxiv](https://arxiv.org/abs/2505.14432)
 - Graph-Based Re-ranking: Emerging Techniques, Limitations, and Opportunities, Mar 2025, [arxiv](https://arxiv.org/abs/2503.14802)
