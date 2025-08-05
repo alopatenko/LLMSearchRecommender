@@ -174,7 +174,11 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - Listen, Think, and Understand, OpenAQA dataset, May 2023, [arxiv](https://arxiv.org/abs/2305.10790) 
 - Clotho-AQA: A Crowdsourced Dataset for Audio Question Answering, Apr 2022, [arxiv](https://arxiv.org/abs/2204.09634)
 ## Querying Structured Information
+- A Survey on Employing Large Language Models for Text-to-SQL Tasks, May 2025, [ACM Computing Surveys](https://dl.acm.org/doi/abs/10.1145/3737873)
 - Querying Databases with Function Calling, Jan 2025, [arxiv](https://arxiv.org/abs/2502.00032)
+- Large language model for table processing: a survey, Jan 2025, [ Frontiers of Computer Science ](https://link.springer.com/article/10.1007/s11704-024-40763-6)
+- A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going?, Aug 2024, [arxiv](https://arxiv.org/abs/2408.05109)
+- Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL, Jun 2024, [arxiv](https://arxiv.org/abs/2406.08426)
 ## RAG
 - Each to Their Own: Exploring the Optimal Embedding in RAG, Jul 2025, [arxiv](https://arxiv.org/abs/2507.17442)
 - A Survey on Knowledge-Oriented Retrieval-Augmented Generation, Mar 2025, [arxiv](https://arxiv.org/abs/2503.10677) 
