@@ -20,6 +20,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Question Answering](#question-answering)
   - [Querying Structured Information](#querying-structured-information)
   - [RAG](#rag)
+   - [Knowledge Graphs and RAG, GraphRAG](#knowledge-graphs-and-rag) 
   - [Retrieval](#retrieval)
   - [Ranking for Search](#ranking-for-search)
     - [Classical bi-encoder and cross encoder ranking,](#classical-bi-encoder-and-cross-encoder-ranking)
@@ -193,6 +194,12 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - RAG-Star: Enhancing Deliberative Reasoning with Retrieval Augmented Verification and Refinement, Dec 2024, [arxiv](https://arxiv.org/abs/2412.12881)
 - A Survey on Retrieval-Augmented Text Generation for Large Language Models, Apr 2024, [arxiv](https://arxiv.org/abs/2404.10981)
 - RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation, Mar 2024, [arxiv](https://arxiv.org/abs/2404.00610)
+### Knowledge Graphs and RAG
+- GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning, Jul 2025, [arxiv](https://arxiv.org/abs/2507.23581)
+- When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation, Jun 2025, [arxiv](https://arxiv.org/abs/2506.05690)
+- RAG vs. GraphRAG: A Systematic Evaluation and Key Insights, Feb 2025, [arxiv](https://arxiv.org/abs/2502.11371)
+- A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13958)
+- Retrieval-Augmented Generation with Graphs (GraphRAG), Dec 2024, [arxiv](https://arxiv.org/abs/2501.00309)
 ## Retrieval
 - DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers, Meta, univ of Waterloo, Feb 2025, [arxiv](https://arxiv.org/abs/2502.18460)
 - CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval, Jan 2025, [ACM](https://dl.acm.org/doi/abs/10.1145/3678880)
