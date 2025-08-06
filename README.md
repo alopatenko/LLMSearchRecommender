@@ -97,10 +97,14 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## Tutorials
 ## Software, libraries, frameworks
 - [HuggingFace Deep Research](https://huggingface.co/blog/open-deep-research)
+- [Open Deep Research from LangChain ](https://github.com/langchain-ai/open_deep_research)
+- [Open Deep Search by Sentian AI](https://github.com/sentient-agi/OpenDeepSearch)
 - [RankLLM](https://github.com/castorini/rank_llm) SIGIR 2025 [article](https://dl.acm.org/doi/pdf/10.1145/3726302.3730331)
 - [Nvidia Merlin](https://developer.nvidia.com/merlin) Recommender systems, including [Transformer4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 - [OpenP5](https://github.com/agiresearch/OpenP5) [RecSys23 tutorial](https://llmrecsys.github.io/)
 ## FreshLLM and similar architectures (LLM and large scale  search)
+The section should be rewritten, there are a lot of changes from FreshLLM time 
+- Open Deep Search: Democratizing Search with Open-source Reasoning Agents, Mar 2025, [arxiv](https://github.com/sentient-agi/OpenDeepSearch)
 - ZeroSearch: Incentivize the Search Capability of LLMs without Searching, Alibaba, May 2025, [arxiv](https://arxiv.org/abs/2505.04588)
 - ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning, Mar 2025, [arxiv](https://arxiv.org/abs/2503.19470)
 - Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning, Mar 2025, [arxiv](https://arxiv.org/abs/2503.09516)
