@@ -20,7 +20,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Question Answering](#question-answering)
   - [Querying Structured Information](#querying-structured-information)
   - [RAG](#rag)
-   - [Knowledge Graphs and RAG, GraphRAG](#knowledge-graphs-and-rag) 
+    - [Knowledge Graphs and RAG, GraphRAG](#knowledge-graphs-and-rag) 
   - [Retrieval](#retrieval)
   - [Ranking for Search](#ranking-for-search)
     - [Classical bi-encoder and cross encoder ranking,](#classical-bi-encoder-and-cross-encoder-ranking)
