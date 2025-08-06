@@ -82,6 +82,8 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Exploring the Impact of Large Language Models on Recommender Systems: An Extensive Review, Feb 2024, [arxiv](https://arxiv.org/abs/2402.18590)
 - Pre-train, Prompt, and Recommendation: A Comprehensive Survey of Language Modeling Paradigm Adaptations in Recommender Systems , Dec 2023, [MIT](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00619/118712)
 ## Conferences, Workshops
+- [ICDM MMSR 2025](https://icdm-mmsr.github.io/)
+- [SIGIR 2025](https://sigir2025.dei.unipd.it/)
 - [2025 SIGIR Workshop on eCommerce](https://sigir-ecom.github.io/)
 - [RecSys](https://recsys.acm.org/)
 - KDD 2024' [Workshop on Generative AI for Recommender Systems and Personalization](https://genai-personalization.github.io/GenAIRecP2024)
