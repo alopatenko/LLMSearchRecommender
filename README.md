@@ -283,6 +283,7 @@ bert based ranking, hybrid encoder based ranking
 - Cite Before You Speak: Enhancing Context-Response Grounding in E-commerce Conversational LLM-Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.04830)
 - Beyond Relevant Documents: A Knowledge-Intensive Approach for Query-Focused Summarization using Large Language Models, Aug 2024, [arxiv](https://arxiv.org/abs/2408.10357)
 ## Agentic Search
+- Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
 - R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning, Jun 2025, [arxiv](https://arxiv.org/abs/2506.04185)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
 - Open Deep Search: Democratizing Search with Open-source Reasoning Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.20201)
@@ -368,6 +369,7 @@ methods (unclassified. TODO classify). methods used in search engines
 ## Industrial approaches
 - ZeroEntropy 🔎 - Advanced AI Search Over Complex Documents [launch doc](https://www.ycombinator.com/launches/MZf-zeroentropy-advanced-ai-search-over-complex-documents)
 ## Evaluation of Search engines
+- Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
 - Search Arena & What We’re Learning About Human Preference, [blog post of LMArena](https://news.lmarena.ai/search-arena/)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
 - LLM-Driven Usefulness Judgment for Web Search Evaluation, Apr 2025, [arxiv](https://arxiv.org/abs/2504.14401)
