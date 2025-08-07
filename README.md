@@ -54,6 +54,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Search Engine Optimization](#search-engine-optimization)
 
 ## Search Surveys
+- A Survey on AI Search with Large Language Models, July 2025, [preprints, not peer reviewed](https://www.preprints.org/frontend/manuscript/79453d62cbbfce9ac42239071098a3d9/download_pub)
 - A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
 - A Survey on Knowledge-Oriented Retrieval-Augmented Generation, Mar 2025, [arxiv](https://arxiv.org/abs/2503.10677)
 - From Matching to Generation: A Survey on Generative Information Retrieval, Feb 2025, Journal Version, [ACM Transaction on Information Systems, Feb 2025](https://dl.acm.org/doi/abs/10.1145/3722552)
