@@ -164,6 +164,7 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 ## Personalization
 - Bridging Personalization and Control in Scientific Personalized Search, SIGIR 2025, [arxiv](https://arxiv.org/abs/2411.02790)
 - User-LLM: Efficient LLM Contextualization with User Embeddings, WWW 2025, [ACM](https://dl.acm.org/doi/abs/10.1145/3701716.3715463)
+- A Survey of Personalization: From RAG to Agent, apr 2025, [arxiv](https://arxiv.org/abs/2504.10147)
 - Can Large Language Models Understand Preferences in Personalized Recommendation?, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13391v1)
 - Unified Embedding Based Personalized Retrieval in Etsy Search, Sep 2024, [arxiv](https://arxiv.org/abs/2306.04833)
 - IntentRec: Predicting User Session Intent with Hierarchical Multi-Task Learning, Jul 2024 Netflix, [arxiv](https://arxiv.org/abs/2408.05353)
@@ -320,9 +321,11 @@ bert based ranking, hybrid encoder based ranking
 - R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning, Jun 2025, [arxiv](https://arxiv.org/abs/2506.04185)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
 - Open Deep Search: Democratizing Search with Open-source Reasoning Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.20201)
+- Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook, Mar 2025, [arxiv](https://arxiv.org/abs/2503.18016)
 - A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
 - Search-o1: Agentic Search-Enhanced Large Reasoning Models, Jan 2025, [arxiv](https://arxiv.org/abs/2501.05366)
 - Plan*RAG: Efficient Test-Time Planning for Retrieval Augmented Generation, Oct 2024, [arxiv](https://arxiv.org/abs/2410.20753)
+- Agentic Information Retrieval, Oct 2024, [arxiv](https://arxiv.org/abs/2410.09713)
 - MindSearch: Mimicking Human Minds Elicits Deep AI Searcher, Jul 2024, [arxiv](https://arxiv.org/abs/2407.20183)
 ## Deep Research
 - A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges, Aug 2025, [arxiv](https://arxiv.org/abs/2508.05668)
