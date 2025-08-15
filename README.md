@@ -105,6 +105,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [RankLLM](https://github.com/castorini/rank_llm) SIGIR 2025 [article](https://dl.acm.org/doi/pdf/10.1145/3726302.3730331)
 - [Nvidia Merlin](https://developer.nvidia.com/merlin) Recommender systems, including [Transformer4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 - [OpenP5](https://github.com/agiresearch/OpenP5) [RecSys23 tutorial](https://llmrecsys.github.io/)
+- [The smallest vector index in the world. RAG Everything with LEANN!](https://github.com/yichuan-w/LEANN)
 ## FreshLLM and similar architectures (LLM and large scale  search)
 The section should be rewritten, there are a lot of changes from FreshLLM time 
 - Open Deep Search: Democratizing Search with Open-source Reasoning Agents, Mar 2025, [arxiv](https://github.com/sentient-agi/OpenDeepSearch)
@@ -215,6 +216,8 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - A Survey on Retrieval-Augmented Text Generation for Large Language Models, Apr 2024, [arxiv](https://arxiv.org/abs/2404.10981)
 - RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation, Mar 2024, [arxiv](https://arxiv.org/abs/2404.00610)
 ### Knowledge Graphs and RAG
+- Millions of GeAR-s: Extending GraphRAG to Millions of Documents, jul 2025, [arxiv](https://arxiv.org/abs/2507.17399)
+- When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation, Jun 2025, [arxiv(https://arxiv.org/abs/2506.05690)
 - GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning, Jul 2025, [arxiv](https://arxiv.org/abs/2507.23581)
 - When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation, Jun 2025, [arxiv](https://arxiv.org/abs/2506.05690)
 - RAG vs. GraphRAG: A Systematic Evaluation and Key Insights, Feb 2025, [arxiv](https://arxiv.org/abs/2502.11371)
@@ -288,7 +291,8 @@ bert based ranking, hybrid encoder based ranking
 - Arctic-Embed 2.0: Multilingual Retrieval Without Compromise, Dec 2024, [arxiv](https://arxiv.org/abs/2412.04506)
 - SFR-Embedding from Salesforce in [Salesforce blog](https://www.salesforce.com/blog/sfr-embedding/) Oct 2024
 - jina-embeddings-v3: Multilingual Embeddings With Task LoRA, Sep 2024, [arxiv](https://arxiv.org/abs/2409.10173)
-- BGE-en-ICL, BGE-ICL embedding model, Making Text Embedders Few-Shot Learners, Sep 2024, [arxiv](https://arxiv.org/abs/2409.15700) 
+- BGE-en-ICL, BGE-ICL embedding model, Making Text Embedders Few-Shot Learners, Sep 2024, [arxiv](https://arxiv.org/abs/2409.15700)
+- OmniSearchSage: Multi-Task Multi-Entity Embeddings for Pinterest Search, Apr 2024, [arxiv](https://arxiv.org/abs/2404.16260)
 - Multilingual E5 Text Embeddings: A Technical Report, Feb 2024, [arxiv](https://arxiv.org/abs/2402.05672v1)
 - NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models, May 2024, from Nvidia [arxiv](https://arxiv.org/abs/2405.17428)
 - BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation, Feb 2024, [arxiv](https://arxiv.org/abs/2402.03216)
@@ -307,6 +311,7 @@ bert based ranking, hybrid encoder based ranking
 - Qwen2.5-VL Technical Report, see, 3.3.2 Document Understanding and OCR at Feb 2025 [arxiv](https://arxiv.org/abs/2502.13923)
 - ColPali: Efficient Document Retrieval with Vision Language Models, Jun 2024, [arxiv](https://arxiv.org/abs/2407.01449)
 ## Response Generation
+- Improving Generative Ad Text on Facebook using Reinforcement Learning, Jul 2025, [arxiv](https://arxiv.org/abs/2507.21983)
 - Neural headline generation: A comprehensive survey, Mar 2025, [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003054)
 - Cite Before You Speak: Enhancing Context-Response Grounding in E-commerce Conversational LLM-Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.04830)
 - Beyond Relevant Documents: A Knowledge-Intensive Approach for Query-Focused Summarization using Large Language Models, Aug 2024, [arxiv](https://arxiv.org/abs/2408.10357)
@@ -320,6 +325,7 @@ bert based ranking, hybrid encoder based ranking
 - Plan*RAG: Efficient Test-Time Planning for Retrieval Augmented Generation, Oct 2024, [arxiv](https://arxiv.org/abs/2410.20753)
 - MindSearch: Mimicking Human Minds Elicits Deep AI Searcher, Jul 2024, [arxiv](https://arxiv.org/abs/2407.20183)
 ## Deep Research
+- A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges, Aug 2025, [arxiv](https://arxiv.org/abs/2508.05668)
 - A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications, jun 2025, [arxiv](https://arxiv.org/abs/2506.12594)
 - DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents, jun 2025, [arxiv](https://arxiv.org/abs/2506.11763)
 - ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework, May 2025, [arxiv](https://arxiv.org/abs/2505.18105)
@@ -397,6 +403,7 @@ methods (unclassified. TODO classify). methods used in search engines
 ## Industrial approaches
 - ZeroEntropy 🔎 - Advanced AI Search Over Complex Documents [launch doc](https://www.ycombinator.com/launches/MZf-zeroentropy-advanced-ai-search-over-complex-documents)
 ## Evaluation of Search engines
+- Harnessing the Power of Interleaving and Counterfactual Evaluation for Airbnb Search Ranking, Aug 2025, [arxiv](https://arxiv.org/abs/2508.00751)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
 - Search Arena & What We’re Learning About Human Preference, [blog post of LMArena](https://news.lmarena.ai/search-arena/)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
@@ -491,6 +498,7 @@ QA is used in many vertical domains, see Vertical section bellow
 - Improving Deep Learning for Airbnb Search, [KDD 2020](https://dl.acm.org/doi/abs/10.1145/3394486.3403333)
 - Real-time Personalization using Embeddings for Search Ranking at Airbnb, [KDD 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219885)
 ### Ads / advertisement
+- Improving Generative Ad Text on Facebook using Reinforcement Learning, Jul 2025, [arxiv](https://arxiv.org/abs/2507.21983)
 - TeamCMU at Touché: Adversarial Co-Evolution for Advertisement Integration and Detection in Conversational Search, Jul 2025, [arxiv](https://arxiv.org/abs/2507.00509)
 - Set-based state estimation of nonlinear discrete-time systems using constrained zonotopes and polyhedral relaxations, Mar 2025, [arxiv](https://arxiv.org/abs/2504.00130)
 - Semantic Ads Retrieval at Walmart eCommerce with Language Models Progressively Trained on Multiple Knowledge Domains, Mar 2025, [arxiv](https://arxiv.org/abs/2502.09089)
