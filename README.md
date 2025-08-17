@@ -26,7 +26,8 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
     - [Classical bi-encoder and cross encoder ranking,](#classical-bi-encoder-and-cross-encoder-ranking)
   - [Query Understanding](#query-understanding)
   - [Embedding models](#embedding-models)
-    - [Embedding models Evaluation](#embedding-models-evaluation)  
+    - [Embedding models Evaluation](#embedding-models-evaluation)
+    - [Optimization of embedding models](#optimization-of-embedding-models)
   - [Document understanding](#document-understanding)
   - [Response generation](#response-generation), presentation of the search results
   - [Agentic Search](#agentic-search)
@@ -307,6 +308,11 @@ bert based ranking, hybrid encoder based ranking
 - MMTEB: Community driven extension to MTEB [repository](https://github.com/embeddings-benchmark/mteb/blob/main/docs/mmteb/readme.md)
 - Chinese MTEB C-MTEB [repository](https://github.com/FlagOpen/FlagEmbedding/tree/master/C_MTEB)
 - French MTEB [repository](https://github.com/Lyon-NLP/mteb-french)
+### Optimization of embedding models
+- The Future is Sparse: Embedding Compression for Scalable Retrieval in Recommender Systems, May 2025, [arxiv](https://arxiv.org/abs/2505.11388)
+- A Universal Framework for Compressing Embeddings in CTR Prediction, Feb 2025. [arxiv](https://arxiv.org/abs/2502.15355)
+
+
 ## Document understanding
 - SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion, Mar 2025, [arxiv](https://arxiv.org/abs/2503.11576)
 - Qwen2.5-VL Technical Report, see, 3.3.2 Document Understanding and OCR at Feb 2025 [arxiv](https://arxiv.org/abs/2502.13923)
