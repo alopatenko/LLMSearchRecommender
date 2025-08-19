@@ -227,6 +227,7 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13958)
 - Retrieval-Augmented Generation with Graphs (GraphRAG), Dec 2024, [arxiv](https://arxiv.org/abs/2501.00309)
 #### Industrial blog articles
+- We use MongoDB as a graph database to discover deep connections between disparate documents using an LLM’s inherent power to work with structured data, [mongodb](https://medium.com/mongodb/knowledge-graph-rag-using-mongodb-1346e953064c)
 - AutoKnow: self-driving knowledge collection for products of thousands of types, Amazon 2020, [Amazon Science](https://www.amazon.science/publications/autoknow-self-driving-knowledge-collection-for-products-of-thousands-of-types)
 - Algolia's Knowledge graphs and ontologies — Adding knowledge to keyword search. [algolia](https://medium.com/pinterest-engineering/interest-taxonomy-a-knowledge-graph-management-system-for-content-understanding-at-pinterest-a6ae75c203fd)
 - Building Airbnb Categories with ML and Human-in-the-Loop, [airbnb](https://airbnb.tech/ai-ml/building-airbnb-categories-with-ml-and-human-in-the-loop)
