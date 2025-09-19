@@ -208,6 +208,7 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL, Jun 2024, [arxiv](https://arxiv.org/abs/2406.08426)
 ## RAG
 - Each to Their Own: Exploring the Optimal Embedding in RAG, Jul 2025, [arxiv](https://arxiv.org/abs/2507.17442)
+- Synergizing RAG and Reasoning: A Systematic Review, Apr 2025, [arxiv](https://arxiv.org/abs/2504.15909)
 - A Survey on Knowledge-Oriented Retrieval-Augmented Generation, Mar 2025, [arxiv](https://arxiv.org/abs/2503.10677) 
 - Sufficient Context: A New Lens on Retrieval Augmented Generation Systems, Google Research, ICLR 2025, [Google Research](https://research.google/pubs/sufficient-context-a-new-lens-on-retrieval-augmented-generation-systems-2/)
 - Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG, Jan 2025, [arxiv](https://arxiv.org/abs/2501.09136)
@@ -324,8 +325,6 @@ bert based ranking, hybrid encoder based ranking
 ### Optimization of embedding models
 - The Future is Sparse: Embedding Compression for Scalable Retrieval in Recommender Systems, May 2025, [arxiv](https://arxiv.org/abs/2505.11388)
 - A Universal Framework for Compressing Embeddings in CTR Prediction, Feb 2025. [arxiv](https://arxiv.org/abs/2502.15355)
-
-
 ## Document understanding
 - SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion, Mar 2025, [arxiv](https://arxiv.org/abs/2503.11576)
 - Qwen2.5-VL Technical Report, see, 3.3.2 Document Understanding and OCR at Feb 2025 [arxiv](https://arxiv.org/abs/2502.13923)
@@ -340,6 +339,7 @@ bert based ranking, hybrid encoder based ranking
 - R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning, Jun 2025, [arxiv](https://arxiv.org/abs/2506.04185)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
 - Open Deep Search: Democratizing Search with Open-source Reasoning Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.20201)
+- Synergizing RAG and Reasoning: A Systematic Review, Apr 2025, [arxiv](https://arxiv.org/abs/2504.15909)
 - Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook, Mar 2025, [arxiv](https://arxiv.org/abs/2503.18016)
 - A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
 - Search-o1: Agentic Search-Enhanced Large Reasoning Models, Jan 2025, [arxiv](https://arxiv.org/abs/2501.05366)
@@ -347,6 +347,7 @@ bert based ranking, hybrid encoder based ranking
 - Agentic Information Retrieval, Oct 2024, [arxiv](https://arxiv.org/abs/2410.09713)
 - MindSearch: Mimicking Human Minds Elicits Deep AI Searcher, Jul 2024, [arxiv](https://arxiv.org/abs/2407.20183)
 ## Deep Research
+- WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent, Sep 2025, [arxiv](https://arxiv.org/abs/2508.05748)
 - A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges, Aug 2025, [arxiv](https://arxiv.org/abs/2508.05668)
 - A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications, jun 2025, [arxiv](https://arxiv.org/abs/2506.12594)
 - DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents, jun 2025, [arxiv](https://arxiv.org/abs/2506.11763)
