@@ -184,6 +184,8 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 ## Multi Lingual
 Cross Language Information Retrieval (CLIR) and other technique to make search engines multi lingual
 Also, see several multi lingual benchmarks and multi lingual embedding models in the other parts of this survey
+- Evaluating Large Language Models for Cross-Lingual Retrieval, Sep 2025, [arxiv](https://arxiv.org/abs/2509.14749)
+- A Comprehensive Evaluation of Embedding Models and LLMs for IR and QA Across English and Italian, May 2025, [ Advances in Natural Language Processing and Text Mining May 2025](https://www.mdpi.com/2504-2289/9/5/141)
 - The Cross-Lingual Cost: Retrieval Biases in RAG over Arabic-English Corpora, Jul 2025, [arxiv](https://arxiv.org/abs/2507.07543)
 - XRAG: Cross-lingual Retrieval-Augmented Generation, Amazon, Heidelberg, May 2025, [arxiv](https://arxiv.org/abs/2505.10089)
 - CLIRudit: Cross-Lingual Information Retrieval of Scientific Documents, Apr 2025, [arxiv](https://arxiv.org/abs/2504.16264)
@@ -358,6 +360,7 @@ bert based ranking, hybrid encoder based ranking
 - Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.24047)
 - Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools, Feb 2025, [arxiv](https://arxiv.org/abs/2502.04644)
 ## Hybrid search vs vector search 
+- Modernizing Facebook Scoped Search: Keyword and Embedding Hybrid Retrieval with LLM Evaluation, Sep 2025, [arxiv](https://arxiv.org/abs/2509.13603)
 - Efficient Knowledge Graph Construction and Retrieval from Unstructured Text for Large-Scale RAG Systems, Jul 2025, SAP, [arxiv](https://arxiv.org/abs/2507.03226)
 - Deep Retrieval at CheckThat! 2025: Identifying Scientific Papers from Implicit Social Media Mentions via Hybrid Retrieval and Re-Ranking, May 2025, [arxiv](https://arxiv.org/abs/2505.23250)
 - Domain-specific Question Answering with Hybrid Search, Dec 2024, [arxiv](https://arxiv.org/abs/2412.03736)
