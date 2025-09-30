@@ -339,6 +339,7 @@ bert based ranking, hybrid encoder based ranking
 - Cite Before You Speak: Enhancing Context-Response Grounding in E-commerce Conversational LLM-Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.04830)
 - Beyond Relevant Documents: A Knowledge-Intensive Approach for Query-Focused Summarization using Large Language Models, Aug 2024, [arxiv](https://arxiv.org/abs/2408.10357)
 ## Agentic Search
+- Towards AI Search Paradigm, Jun 2025, [arxiv](https://arxiv.org/abs/2506.17188)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
 - R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning, Jun 2025, [arxiv](https://arxiv.org/abs/2506.04185)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
@@ -352,6 +353,7 @@ bert based ranking, hybrid encoder based ranking
 - MindSearch: Mimicking Human Minds Elicits Deep AI Searcher, Jul 2024, [arxiv](https://arxiv.org/abs/2407.20183)
 ## Deep Research
 - WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent, Sep 2025, [arxiv](https://arxiv.org/abs/2508.05748)
+- Open Data Synthesis For Deep Research, Aug 2025, [arxiv](https://arxiv.org/abs/2509.00375)
 - A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges, Aug 2025, [arxiv](https://arxiv.org/abs/2508.05668)
 - A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications, jun 2025, [arxiv](https://arxiv.org/abs/2506.12594)
 - DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents, jun 2025, [arxiv](https://arxiv.org/abs/2506.11763)
