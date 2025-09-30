@@ -352,6 +352,7 @@ bert based ranking, hybrid encoder based ranking
 - Agentic Information Retrieval, Oct 2024, [arxiv](https://arxiv.org/abs/2410.09713)
 - MindSearch: Mimicking Human Minds Elicits Deep AI Searcher, Jul 2024, [arxiv](https://arxiv.org/abs/2407.20183)
 ## Deep Research
+and Deep Search
 - WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent, Sep 2025, [arxiv](https://arxiv.org/abs/2508.05748)
 - Open Data Synthesis For Deep Research, Aug 2025, [arxiv](https://arxiv.org/abs/2509.00375)
 - A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges, Aug 2025, [arxiv](https://arxiv.org/abs/2508.05668)
