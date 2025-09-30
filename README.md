@@ -361,6 +361,7 @@ bert based ranking, hybrid encoder based ranking
 - SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis, May 2025, [arxiv](https://arxiv.org/abs/2505.16834)
 - WebThinker: Empowering Large Reasoning Models with Deep Research Capability, Apr 2025, [arxiv](https://arxiv.org/abs/2504.21776)
 - DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments, Apr 2025, [arxiv](https://arxiv.org/abs/2504.03160)
+- The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search, Apr 2025, [arxiv](https://arxiv.org/abs/2504.08066) @DeepResearch 
 - Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.24047)
 - Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools, Feb 2025, [arxiv](https://arxiv.org/abs/2502.04644)
 ## Hybrid search vs vector search 
