@@ -30,6 +30,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
     - [Embedding models Evaluation](#embedding-models-evaluation)
     - [Optimization of embedding models](#optimization-of-embedding-models)
     - [Embedding training](#embedding-training)
+    - [Fine-tuning embedding models](#finetuning-embedding-models)
   - [Document understanding](#document-understanding)
   - [Response generation](#response-generation), presentation of the search results
   - [Agentic Search](#agentic-search)
