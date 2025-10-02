@@ -29,6 +29,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Embedding models](#embedding-models)
     - [Embedding models Evaluation](#embedding-models-evaluation)
     - [Optimization of embedding models](#optimization-of-embedding-models)
+    - [Embedding training](#embedding-training)
   - [Document understanding](#document-understanding)
   - [Response generation](#response-generation), presentation of the search results
   - [Agentic Search](#agentic-search)
@@ -329,6 +330,10 @@ bert based ranking, hybrid encoder based ranking
 ### Optimization of embedding models
 - The Future is Sparse: Embedding Compression for Scalable Retrieval in Recommender Systems, May 2025, [arxiv](https://arxiv.org/abs/2505.11388)
 - A Universal Framework for Compressing Embeddings in CTR Prediction, Feb 2025. [arxiv](https://arxiv.org/abs/2502.15355)
+### Embedding training
+- KaLM-Embedding-V2: Superior Training Techniques and Data Inspire A Versatile Embedding Model, Jun 2025, [arxiv](https://arxiv.org/abs/2506.20923)
+- Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models, Jun 2025, [arxiv](https://arxiv.org/abs/2506.05176)
+- CSMF: Cascaded Selective Mask Fine-Tuning for Multi-Objective Embedding-Based Retrieval, Apr 2025, [arxiv](https://arxiv.org/abs/2504.12920)
 ## Document understanding
 - SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion, Mar 2025, [arxiv](https://arxiv.org/abs/2503.11576)
 - Qwen2.5-VL Technical Report, see, 3.3.2 Document Understanding and OCR at Feb 2025 [arxiv](https://arxiv.org/abs/2502.13923)
