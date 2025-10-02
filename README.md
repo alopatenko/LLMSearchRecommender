@@ -334,6 +334,13 @@ bert based ranking, hybrid encoder based ranking
 - KaLM-Embedding-V2: Superior Training Techniques and Data Inspire A Versatile Embedding Model, Jun 2025, [arxiv](https://arxiv.org/abs/2506.20923)
 - Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models, Jun 2025, [arxiv](https://arxiv.org/abs/2506.05176)
 - CSMF: Cascaded Selective Mask Fine-Tuning for Multi-Objective Embedding-Based Retrieval, Apr 2025, [arxiv](https://arxiv.org/abs/2504.12920)
+### Finetuning embedding models
+- Resource-Efficient Adaptation of Large Language Models for Text Embeddings via Prompt Engineering and Contrastive Fine-tuning, July 2025, [arxiv](https://arxiv.org/abs/2507.22729)
+- Conventional Contrastive Learning Often Falls Short: Improving Dense Retrieval with Cross-Encoder Listwise Distillation and Synthetic Data, May 2025, [arxiv](https://arxiv.org/abs/2505.19274)
+- Pre-training vs. Fine-tuning: A Reproducibility Study on Dense Retrieval Knowledge Acquisition, May 2025, [arxiv](https://arxiv.org/abs/2505.07166)
+- DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers, Feb 2025, [arxiv](https://arxiv.org/abs/2502.18460)
+- Teaching Dense Retrieval Models to Specialize with Listwise Distillation and LLM Data Augmentation, Feb 2025, [arxiv](https://arxiv.org/abs/2502.19712)
+- REFINE on Scarce Data: Retrieval Enhancement through Fine-Tuning via Model Fusion of Embedding Models, Oct 2024, [arxiv](https://arxiv.org/abs/2410.12890)
 ## Document understanding
 - SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion, Mar 2025, [arxiv](https://arxiv.org/abs/2503.11576)
 - Qwen2.5-VL Technical Report, see, 3.3.2 Document Understanding and OCR at Feb 2025 [arxiv](https://arxiv.org/abs/2502.13923)
