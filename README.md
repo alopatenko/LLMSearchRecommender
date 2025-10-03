@@ -9,7 +9,6 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
      - [Industrial Conferences](#industrial-conferences) 
   - [Tutorials](#tutorials)
   - [Software, libraries, frameworks](#software-libraries-frameworks)
-
   - [Agentic Search](#agentic-search)
   - [FreshLLM and similar architectures (LLM and large scale  search)](#freshllm-and-similar-architectures-llm-and-large-scale--search)
   - [Conversational Search](#conversational-search)
