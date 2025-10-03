@@ -9,6 +9,8 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
      - [Industrial Conferences](#industrial-conferences) 
   - [Tutorials](#tutorials)
   - [Software, libraries, frameworks](#software-libraries-frameworks)
+
+  - [Agentic Search](#agentic-search)
   - [FreshLLM and similar architectures (LLM and large scale  search)](#freshllm-and-similar-architectures-llm-and-large-scale--search)
   - [Conversational Search](#conversational-search)
   - [Search Assistance](#search-assistance)
@@ -33,7 +35,6 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
     - [Fine-tuning embedding models](#finetuning-embedding-models)
   - [Document understanding](#document-understanding)
   - [Response generation](#response-generation), presentation of the search results
-  - [Agentic Search](#agentic-search)
   - [Deep Research](#deep-research)
   - [Hybrid search vs vector search](#hybrid-search-vs-vector-search)
   - [Recommender Engines](#recommender-engines)
@@ -110,6 +111,20 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [Nvidia Merlin](https://developer.nvidia.com/merlin) Recommender systems, including [Transformer4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 - [OpenP5](https://github.com/agiresearch/OpenP5) [RecSys23 tutorial](https://llmrecsys.github.io/)
 - [The smallest vector index in the world. RAG Everything with LEANN!](https://github.com/yichuan-w/LEANN)
+## Agentic Search
+- AceSearcher: Bootstrapping Reasoning and Search for LLMs via Reinforced Self-Play, Sep 2025, [arxiv](https://www.arxiv.org/abs/2509.24193)
+- Towards AI Search Paradigm, Jun 2025, [arxiv](https://arxiv.org/abs/2506.17188)
+- Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
+- R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning, Jun 2025, [arxiv](https://arxiv.org/abs/2506.04185)
+- Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
+- Open Deep Search: Democratizing Search with Open-source Reasoning Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.20201)
+- Synergizing RAG and Reasoning: A Systematic Review, Apr 2025, [arxiv](https://arxiv.org/abs/2504.15909)
+- Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook, Mar 2025, [arxiv](https://arxiv.org/abs/2503.18016)
+- A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
+- Search-o1: Agentic Search-Enhanced Large Reasoning Models, Jan 2025, [arxiv](https://arxiv.org/abs/2501.05366)
+- Plan*RAG: Efficient Test-Time Planning for Retrieval Augmented Generation, Oct 2024, [arxiv](https://arxiv.org/abs/2410.20753)
+- Agentic Information Retrieval, Oct 2024, [arxiv](https://arxiv.org/abs/2410.09713)
+- MindSearch: Mimicking Human Minds Elicits Deep AI Searcher, Jul 2024, [arxiv](https://arxiv.org/abs/2407.20183)
 ## FreshLLM and similar architectures (LLM and large scale  search)
 The section should be rewritten, there are a lot of changes from FreshLLM time 
 - Open Deep Search: Democratizing Search with Open-source Reasoning Agents, Mar 2025, [arxiv](https://github.com/sentient-agi/OpenDeepSearch)
@@ -351,19 +366,6 @@ bert based ranking, hybrid encoder based ranking
 - Neural headline generation: A comprehensive survey, Mar 2025, [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003054)
 - Cite Before You Speak: Enhancing Context-Response Grounding in E-commerce Conversational LLM-Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.04830)
 - Beyond Relevant Documents: A Knowledge-Intensive Approach for Query-Focused Summarization using Large Language Models, Aug 2024, [arxiv](https://arxiv.org/abs/2408.10357)
-## Agentic Search
-- Towards AI Search Paradigm, Jun 2025, [arxiv](https://arxiv.org/abs/2506.17188)
-- Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
-- R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning, Jun 2025, [arxiv](https://arxiv.org/abs/2506.04185)
-- Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
-- Open Deep Search: Democratizing Search with Open-source Reasoning Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.20201)
-- Synergizing RAG and Reasoning: A Systematic Review, Apr 2025, [arxiv](https://arxiv.org/abs/2504.15909)
-- Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook, Mar 2025, [arxiv](https://arxiv.org/abs/2503.18016)
-- A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
-- Search-o1: Agentic Search-Enhanced Large Reasoning Models, Jan 2025, [arxiv](https://arxiv.org/abs/2501.05366)
-- Plan*RAG: Efficient Test-Time Planning for Retrieval Augmented Generation, Oct 2024, [arxiv](https://arxiv.org/abs/2410.20753)
-- Agentic Information Retrieval, Oct 2024, [arxiv](https://arxiv.org/abs/2410.09713)
-- MindSearch: Mimicking Human Minds Elicits Deep AI Searcher, Jul 2024, [arxiv](https://arxiv.org/abs/2407.20183)
 ## Deep Research
 and Deep Search
 - WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent, Sep 2025, [arxiv](https://arxiv.org/abs/2508.05748)
