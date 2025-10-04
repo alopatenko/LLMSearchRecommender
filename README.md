@@ -336,6 +336,7 @@ bert based ranking, hybrid encoder based ranking
 - A Comprehensive Evaluation of Embedding Models and LLMs for IR and QA Across English and Italian, May 2025, [ Advances in Natural Language Processing and Text Mining May 2025](https://www.mdpi.com/2504-2289/9/5/141)
 - The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks, Apr 2025, [arxiv](https://arxiv.org/abs/2504.15521)
 - MMTEB: Massive Multilingual Text Embedding Benchmark, Feb 2025, [arxiv](https://arxiv.org/abs/2502.13595v2)
+- Beyond Benchmarks: Evaluating Embedding Model Similarity for Retrieval Augmented Generation Systems, jul 2024, [arxiv](https://arxiv.org/abs/2407.08275?)
 - MTEB: Massive Text Embedding Benchmark Oct 2022 [arxiv](https://arxiv.org/abs/2210.07316 Leaderboard) [Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - Marqo embedding benchmark for eCommerce [at Huggingface](https://huggingface.co/spaces/Marqo/Ecommerce-Embedding-Benchmarks), text to image and category to image tasks 
 - The Scandinavian Embedding Benchmarks: Comprehensive Assessment of Multilingual and Monolingual Text Embedding, [openreview pdf](https://openreview.net/pdf/f5f1953a9c798ec61bb050e62bc7a94037fd4fab.pdf)
@@ -470,6 +471,7 @@ and knowledge assistants and information seeking LLM based systems
 - RAD-Bench: Evaluating Large Language Models Capabilities in Retrieval Augmented Dialogues, Sep 2024, [arrxiv](https://arxiv.org/abs/2409.12558)
 - IRSC: A Zero-shot Evaluation Benchmark for Information Retrieval through Semantic Comprehension in Retrieval-Augmented Generation Scenarios, Sep 2024, [arxiv](https://arxiv.org/abs/2409.15763)
 - Evaluating Retrieval Quality in Retrieval-Augmented Generation, Apr 2024, [arxiv](https://arxiv.org/abs/2404.13781)
+- Evaluation of Retrieval-Augmented Generation: A Survey, May 2024, [arxiv](https://arxiv.org/abs/2405.07437)
 - RAGAS: Automated Evaluation of Retrieval Augmented Generation Jul 23, [arxiv](https://arxiv.org/abs/2309.15217)
 - ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems Nov 23, [arxiv](https://arxiv.org/abs/2311.09476)
 - TREC iKAT 2023: A Test Collection for Evaluating Conversational and Interactive Knowledge Assistants, [SIGIR 2024](https://dl.acm.org/doi/abs/10.1145/3626772.3657860)
