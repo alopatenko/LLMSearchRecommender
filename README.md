@@ -45,6 +45,9 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Industrial approaches](#industrial-approaches)
   - [Evaluation of Search engines](#evaluation-of-search-engines)
     - [Evaluation of RAG and QA](#evaluation-of-rag)
+    - [Evaluation Deep Research](#evaluation-deep-research)
+    - [Evaluation Agentic Search](#evaluation-agentic-search)
+    - [Evaluation Reasoning and RAG](#evaluation-reasoning-and-rag)
     - [Question Answering benchmarks](#qa-benchmarks)
   - [Blog posts, whitepapers](#blog-posts-whitepapers)
   - [Verticals](#verticals)
@@ -482,6 +485,26 @@ and knowledge assistants and information seeking LLM based systems
 - FaithDial: A Faithful Benchmark for Information-Seeking Dialogue , Dec 2022, [MIT Press](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00529/114373/FaithDial-A-Faithful-Benchmark-for-Information)
 - Open-Retrieval Conversational Question Answering, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401110)
 - XOR QA: Cross-lingual Open-Retrieval Question Answering, Oct 2020, [arxiv](https://arxiv.org/abs/2010.11856)
+### Evaluation Deep Research
+- BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent, Aug 2025, [arxiv](https://arxiv.org/abs/2508.06600)
+- DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents, Jun 2025, [arxiv](https://arxiv.org/abs/2506.11763)
+- DeepResearchGym: A Free, Transparent, and Reproducible Evaluation Sandbox for Deep Research, May 2025, [arxiv](https://arxiv.org/abs/2505.19253)
+- AstaBench (from AllenAI), [Benchmark at Guthub](https://github.com/allenai/asta-bench)
+- FieldWorkArena: Agentic AI Benchmark for Real Field Work Tasks, May 2025, [arxiv](https://arxiv.org/abs/2505.19662)
+- GAIA: a benchmark for General AI Assistants, Nov 2023, [arxiv](https://arxiv.org/abs/2311.12983)
+### Evaluation Agentic Search
+- WideSearch: Benchmarking Agentic Broad Info-Seeking, Aug 2025, [arxiv](https://arxiv.org/abs/2508.07999)
+- BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent, Aug 2025, [arxiv](https://arxiv.org/abs/2508.06600)
+- Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
+- Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks, May 2025, [arxiv](https://arxiv.org/abs/2505.24876)
+- InfoDeepDeek [emergntmind](https://www.emergentmind.com/papers/2505.15872)
+- WebArena: A Realistic Web Environment for Building Autonomous Agents, Apr 2024, [arxiv](https://arxiv.org/abs/2307.13854)
+- AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents, Dec 2024, [arxiv]( https://arxiv.org/abs/2401.13178)
+### Evaluation Reasoning and RAG
+- R2MED: A Benchmark for Reasoning-Driven Medical Retrieval, May 2025, [arxiv](https://arxiv.org/abs/2505.14558)
+- GraphRAG-Bench: Challenging Domain-Specific Reasoning for Evaluating Graph Retrieval-Augmented Generation, Jun 2025, [arxiv](https://arxiv.org/abs/2506.02404)
+- MR2-BENCH: GOING BEYOND MATCHING TO REA-SONING IN MULTIMODAL RETRIEVAL, Sep 2025, [arxiv](https://www.arxiv.org/pdf/2509.26378)
+- BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval, Jul 2024, [arxiv](https://arxiv.org/abs/2407.12883)
 ### QA Benchmarks
 QA is used in many vertical domains, see Vertical section bellow
 - SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines, Mar 2025, [arxiv](https://arxiv.org/abs/2502.14739)
