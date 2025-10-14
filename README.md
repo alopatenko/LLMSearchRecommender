@@ -25,6 +25,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
        - [Industrial blog articles](#industrial-blog-articles)
   - [Retrieval](#retrieval)
   - [Ranking for Search](#ranking-for-search)
+    - [Reranking](#reranking) 
     - [Classical bi-encoder and cross encoder ranking,](#classical-bi-encoder-and-cross-encoder-ranking)
   - [Query Understanding](#query-understanding)
   - [Embedding models](#embedding-models)
@@ -303,6 +304,8 @@ bert based ranking, hybrid encoder based ranking
 - Dense Passage Retrieval for Open-Domain Question Answering, 2020, [arxiv](https://arxiv.org/abs/2004.04906)
 - Understanding the Behaviors of BERT in Ranking, 2019, [arxiv](https://arxiv.org/abs/1904.07531)
 - Passage Re-ranking with BERT, 2019, [arxiv](https://arxiv.org/abs/1901.04085)
+### Reranking
+- Distillation versus Contrastive Learning: How to Train Your Rerankers, Jul 2025, [arxiv](https://arxiv.org/abs/2507.08336)
 ## Query Understanding
 - Aligned Query Expansion: Efficient Query Expansion for Information Retrieval through LLM Alignment, Jul 2025, [arxiv](https://arxiv.org/abs/2507.11042)
 - Hypothetical Documents or Knowledge Leakage? Rethinking LLM-based Query Expansion, Apr 2025, [arxiv](https://arxiv.org/abs/2504.14175)
