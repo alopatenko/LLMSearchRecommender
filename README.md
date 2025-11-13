@@ -229,6 +229,7 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going?, Aug 2024, [arxiv](https://arxiv.org/abs/2408.05109)
 - Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL, Jun 2024, [arxiv](https://arxiv.org/abs/2406.08426)
 ## RAG
+- InfoGain-RAG: Boosting Retrieval-Augmented Generation through Document Information Gain-based Reranking and Filtering, Nov 2025, [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.365.pdf)
 - Each to Their Own: Exploring the Optimal Embedding in RAG, Jul 2025, [arxiv](https://arxiv.org/abs/2507.17442)
 - Synergizing RAG and Reasoning: A Systematic Review, Apr 2025, [arxiv](https://arxiv.org/abs/2504.15909)
 - A Survey on Knowledge-Oriented Retrieval-Augmented Generation, Mar 2025, [arxiv](https://arxiv.org/abs/2503.10677) 
@@ -262,6 +263,8 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - walmart Retail Graph — Walmart’s Product Knowledge Graph, [walmart](https://medium.com/walmartglobaltech/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc)
 - Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations, [uber](https://www.uber.com/blog/uber-eats-graph-learning/)
 ## Retrieval
+- ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance, Nov 2025, [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.963.pdf)
+- CoEvo: Coevolution of LLM and Retrieval Model for Domain-Specific Information Retrieval, Nov 2025, [ACL, 2025 Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/2025.emnlp-main.757.pdf)
 - DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers, Meta, univ of Waterloo, Feb 2025, [arxiv](https://arxiv.org/abs/2502.18460)
 - CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval, Jan 2025, [ACM](https://dl.acm.org/doi/abs/10.1145/3678880)
 - On the Robustness of Generative Information Retrieval Models: An Out-of-Distribution Perspective, Jan 2025, [link](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/liu-2025-robustness.pdf)
@@ -374,6 +377,7 @@ bert based ranking, hybrid encoder based ranking
 - Beyond Relevant Documents: A Knowledge-Intensive Approach for Query-Focused Summarization using Large Language Models, Aug 2024, [arxiv](https://arxiv.org/abs/2408.10357)
 ## Deep Research
 and Deep Search
+- RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents, Nov 2025, [arxiv](https://www.arxiv.org/abs/2511.07685)
 - WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent, Sep 2025, [arxiv](https://arxiv.org/abs/2508.05748)
 - Open Data Synthesis For Deep Research, Aug 2025, [arxiv](https://arxiv.org/abs/2509.00375)
 - A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges, Aug 2025, [arxiv](https://arxiv.org/abs/2508.05668)
@@ -486,6 +490,7 @@ and knowledge assistants and information seeking LLM based systems
 - Open-Retrieval Conversational Question Answering, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401110)
 - XOR QA: Cross-lingual Open-Retrieval Question Answering, Oct 2020, [arxiv](https://arxiv.org/abs/2010.11856)
 ### Evaluation Deep Research
+- RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents, Nov 2025, [arxiv](https://www.arxiv.org/abs/2511.07685)
 - BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent, Aug 2025, [arxiv](https://arxiv.org/abs/2508.06600)
 - DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents, Jun 2025, [arxiv](https://arxiv.org/abs/2506.11763)
 - DeepResearchGym: A Free, Transparent, and Reproducible Evaluation Sandbox for Deep Research, May 2025, [arxiv](https://arxiv.org/abs/2505.19253)
