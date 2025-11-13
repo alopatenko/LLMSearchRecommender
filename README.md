@@ -62,6 +62,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Search Engine Optimization](#search-engine-optimization)
 
 ## Search Surveys
+- A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications, Oct 2025, [arxiv](https://arxiv.org/abs/2510.16724)
 - A Survey on AI Search with Large Language Models, July 2025, [preprints, not peer reviewed](https://www.preprints.org/frontend/manuscript/79453d62cbbfce9ac42239071098a3d9/download_pub)
 - A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval, Mar 2025, [arxiv](https://arxiv.org/abs/2503.05659)
 - A Survey on Knowledge-Oriented Retrieval-Augmented Generation, Mar 2025, [arxiv](https://arxiv.org/abs/2503.10677)
@@ -115,6 +116,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [OpenP5](https://github.com/agiresearch/OpenP5) [RecSys23 tutorial](https://llmrecsys.github.io/)
 - [The smallest vector index in the world. RAG Everything with LEANN!](https://github.com/yichuan-w/LEANN)
 ## Agentic Search
+- SafeSearch: Do Not Trade Safety for Utility in LLM Search Agents, Oct 2025, [arxiv](https://arxiv.org/abs/2510.17017)
 - AceSearcher: Bootstrapping Reasoning and Search for LLMs via Reinforced Self-Play, Sep 2025, [arxiv](https://www.arxiv.org/abs/2509.24193)
 - Towards AI Search Paradigm, Jun 2025, [arxiv](https://arxiv.org/abs/2506.17188)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
@@ -265,6 +267,7 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 ## Retrieval
 - ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance, Nov 2025, [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.963.pdf)
 - CoEvo: Coevolution of LLM and Retrieval Model for Domain-Specific Information Retrieval, Nov 2025, [ACL, 2025 Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/2025.emnlp-main.757.pdf)
+- Large Scale Retrieval for the LinkedIn Feed using Causal Language Models, Oct 2025, [arxiv](https://arxiv.org/abs/2510.14223)
 - DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers, Meta, univ of Waterloo, Feb 2025, [arxiv](https://arxiv.org/abs/2502.18460)
 - CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval, Jan 2025, [ACM](https://dl.acm.org/doi/abs/10.1145/3678880)
 - On the Robustness of Generative Information Retrieval Models: An Out-of-Distribution Perspective, Jan 2025, [link](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/liu-2025-robustness.pdf)
@@ -311,8 +314,11 @@ bert based ranking, hybrid encoder based ranking
 - Understanding the Behaviors of BERT in Ranking, 2019, [arxiv](https://arxiv.org/abs/1904.07531)
 - Passage Re-ranking with BERT, 2019, [arxiv](https://arxiv.org/abs/1901.04085)
 ### Reranking
+- Supervised Fine-Tuning or Contrastive Learning? Towards Better Multimodal LLM Reranking, Oct 2025, [arxiv](https://arxiv.org/abs/2510.14824)
 - Distillation versus Contrastive Learning: How to Train Your Rerankers, Jul 2025, [arxiv](https://arxiv.org/abs/2507.08336)
 ## Query Understanding
+- Beyond the limitation of a single query: Train your LLM for query expansion with Reinforcement Learning, NVidia Oct 2025, [arxiv](https://arxiv.org/abs/2510.10009)
+- ParallelSearch: Train your LLMs to Decompose Query and Search Sub-queries in Parallel with Reinforcement Learning, NVidia, Aug 2025, [arxiv](https://arxiv.org/abs/2508.09303)
 - Aligned Query Expansion: Efficient Query Expansion for Information Retrieval through LLM Alignment, Jul 2025, [arxiv](https://arxiv.org/abs/2507.11042)
 - Hypothetical Documents or Knowledge Leakage? Rethinking LLM-based Query Expansion, Apr 2025, [arxiv](https://arxiv.org/abs/2504.14175)
 - Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling. Apr 2025, [arxiv](https://arxiv.org/abs/2504.05216)
@@ -378,6 +384,11 @@ bert based ranking, hybrid encoder based ranking
 ## Deep Research
 and Deep Search
 - RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents, Nov 2025, [arxiv](https://www.arxiv.org/abs/2511.07685)
+- DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping, Oct 2025, [arxiv](https://arxiv.org/abs/2510.12979)
+- Enterprise Deep Research: Steerable Multi-Agent Deep Research for Enterprise Analytics, Oct 2025, [arxiv](https://arxiv.org/abs/2510.17797)
+- A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers, Oct 2025, [arxiv](https://arxiv.org/abs/2508.21148)
+- RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents, Nov 2025, [arxiv](https://www.arxiv.org/abs/2511.07685)
+- DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL, Sep 2025, [arxiv]()
 - WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent, Sep 2025, [arxiv](https://arxiv.org/abs/2508.05748)
 - Open Data Synthesis For Deep Research, Aug 2025, [arxiv](https://arxiv.org/abs/2509.00375)
 - A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges, Aug 2025, [arxiv](https://arxiv.org/abs/2508.05668)
@@ -400,6 +411,8 @@ and Deep Search
 - Azure AI Search: Outperforming vector search with hybrid retrieval and reranking, Jan 2024, [Azure tech blog](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/azure-ai-search-outperforming-vector-search-with-hybrid-retrieval-and-reranking/3929167)
 - Hybrid Hierarchical Retrieval for Open-Domain Question Answering, Jul 2023, [ACL 2023](https://aclanthology.org/2023.findings-acl.679/)
 ## Recommender Engines
+TODO to classify
+- Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning, Oct 2025, [arxiv](https://arxiv.org/abs/2510.20150)
 - Rethinking Group Recommender Systems in the Era of Generative AI: From One-Shot Recommendations to Agentic Group Decision Support, Jul 2025, [arxiv](https://arxiv.org/abs/2507.00535v1)
 - RecGPT: LLM-Driven Intent-Centric Recommender Systems at Industrial Scale, Technical Report,Jul 2025, Alibaba, [arxiv](https://www.arxiv.org/abs/2507.22879)
 - EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration, Feb 2025, [arxiv](https://arxiv.org/abs/2502.14735)
@@ -460,6 +473,7 @@ methods (unclassified. TODO classify). methods used in search engines
 ## Industrial approaches
 - ZeroEntropy 🔎 - Advanced AI Search Over Complex Documents [launch doc](https://www.ycombinator.com/launches/MZf-zeroentropy-advanced-ai-search-over-complex-documents)
 ## Evaluation of Search engines
+- CLUE: Using Large Language Models for Judging Document Usefulness in Web Search Evaluation, [CIKM 2025](https://dl.acm.org/doi/abs/10.1145/3746252.3761158)
 - Harnessing the Power of Interleaving and Counterfactual Evaluation for Airbnb Search Ranking, Aug 2025, [arxiv](https://arxiv.org/abs/2508.00751)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
 - Search Arena & What We’re Learning About Human Preference, [blog post of LMArena](https://news.lmarena.ai/search-arena/)
@@ -490,6 +504,7 @@ and knowledge assistants and information seeking LLM based systems
 - Open-Retrieval Conversational Question Answering, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401110)
 - XOR QA: Cross-lingual Open-Retrieval Question Answering, Oct 2020, [arxiv](https://arxiv.org/abs/2010.11856)
 ### Evaluation Deep Research
+- DeepResearch Arena: The First Exam of LLMs' Research Abilities via Seminar-Grounded Tasks, Nov 2025, [arxiv](https://arxiv.org/abs/2509.01396)
 - RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents, Nov 2025, [arxiv](https://www.arxiv.org/abs/2511.07685)
 - BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent, Aug 2025, [arxiv](https://arxiv.org/abs/2508.06600)
 - DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents, Jun 2025, [arxiv](https://arxiv.org/abs/2506.11763)
