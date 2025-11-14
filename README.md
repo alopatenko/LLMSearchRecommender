@@ -383,6 +383,7 @@ bert based ranking, hybrid encoder based ranking
 - Beyond Relevant Documents: A Knowledge-Intensive Approach for Query-Focused Summarization using Large Language Models, Aug 2024, [arxiv](https://arxiv.org/abs/2408.10357)
 ## Deep Research
 and Deep Search
+Also see [Evaluation Deep Research](#evaluation-deep-research)
 - RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents, Nov 2025, [arxiv](https://www.arxiv.org/abs/2511.07685)
 - DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping, Oct 2025, [arxiv](https://arxiv.org/abs/2510.12979)
 - Enterprise Deep Research: Steerable Multi-Agent Deep Research for Enterprise Analytics, Oct 2025, [arxiv](https://arxiv.org/abs/2510.17797)
@@ -507,6 +508,7 @@ and knowledge assistants and information seeking LLM based systems
 - DeepResearch Arena: The First Exam of LLMs' Research Abilities via Seminar-Grounded Tasks, Nov 2025, [arxiv](https://arxiv.org/abs/2509.01396)
 - RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents, Nov 2025, [arxiv](https://www.arxiv.org/abs/2511.07685)
 - BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent, Aug 2025, [arxiv](https://arxiv.org/abs/2508.06600)
+- Characterizing Deep Research: A Benchmark and Formal Definition, Aug 2024, [arxiv](https://arxiv.org/abs/2508.04183)
 - DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents, Jun 2025, [arxiv](https://arxiv.org/abs/2506.11763)
 - DeepResearchGym: A Free, Transparent, and Reproducible Evaluation Sandbox for Deep Research, May 2025, [arxiv](https://arxiv.org/abs/2505.19253)
 - AstaBench (from AllenAI), [Benchmark at Guthub](https://github.com/allenai/asta-bench)
