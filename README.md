@@ -507,9 +507,12 @@ and knowledge assistants and information seeking LLM based systems
 ### Evaluation Deep Research
 - DeepResearch Arena: The First Exam of LLMs' Research Abilities via Seminar-Grounded Tasks, Nov 2025, [arxiv](https://arxiv.org/abs/2509.01396)
 - RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents, Nov 2025, [arxiv](https://www.arxiv.org/abs/2511.07685)
+- A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications, Oct 2025, [arxiv](https://arxiv.org/abs/2510.16724)
 - BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent, Aug 2025, [arxiv](https://arxiv.org/abs/2508.06600)
-- Characterizing Deep Research: A Benchmark and Formal Definition, Aug 2024, [arxiv](https://arxiv.org/abs/2508.04183)
+- Characterizing Deep Research: A Benchmark and Formal Definition, Aug 2025, [arxiv](https://arxiv.org/abs/2508.04183)
+- WideSearch: Benchmarking Agentic Broad Info-Seeking, Aug 2025, [arxiv](https://arxiv.org/abs/2508.07999)
 - DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents, Jun 2025, [arxiv](https://arxiv.org/abs/2506.11763)
+- Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
 - DeepResearchGym: A Free, Transparent, and Reproducible Evaluation Sandbox for Deep Research, May 2025, [arxiv](https://arxiv.org/abs/2505.19253)
 - AstaBench (from AllenAI), [Benchmark at Guthub](https://github.com/allenai/asta-bench)
 - FieldWorkArena: Agentic AI Benchmark for Real Field Work Tasks, May 2025, [arxiv](https://arxiv.org/abs/2505.19662)
