@@ -116,6 +116,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [OpenP5](https://github.com/agiresearch/OpenP5) [RecSys23 tutorial](https://llmrecsys.github.io/)
 - [The smallest vector index in the world. RAG Everything with LEANN!](https://github.com/yichuan-w/LEANN)
 ## Agentic Search
+also see [Evaluation Agentic Search](#evaluation-agentic-search)
 - SafeSearch: Do Not Trade Safety for Utility in LLM Search Agents, Oct 2025, [arxiv](https://arxiv.org/abs/2510.17017)
 - AceSearcher: Bootstrapping Reasoning and Search for LLMs via Reinforced Self-Play, Sep 2025, [arxiv](https://www.arxiv.org/abs/2509.24193)
 - Towards AI Search Paradigm, Jun 2025, [arxiv](https://arxiv.org/abs/2506.17188)
