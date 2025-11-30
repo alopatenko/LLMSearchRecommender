@@ -511,6 +511,7 @@ and knowledge assistants and information seeking LLM based systems
 - A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications, Oct 2025, [arxiv](https://arxiv.org/abs/2510.16724)
 - BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent, Aug 2025, [arxiv](https://arxiv.org/abs/2508.06600)
 - Characterizing Deep Research: A Benchmark and Formal Definition, Aug 2025, [arxiv](https://arxiv.org/abs/2508.04183)
+- DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis, Aug 2025, [arxiv](https://arxiv.org/abs/2508.20033)
 - WideSearch: Benchmarking Agentic Broad Info-Seeking, Aug 2025, [arxiv](https://arxiv.org/abs/2508.07999)
 - DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents, Jun 2025, [arxiv](https://arxiv.org/abs/2506.11763)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
