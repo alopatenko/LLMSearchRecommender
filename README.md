@@ -336,6 +336,8 @@ bert based ranking, hybrid encoder based ranking
 - Query2doc: Query Expansion with Large Language Models, Mar 2023, [arxiv](https://arxiv.org/abs/2303.07678)
 - Few-Shot Generative Conversational Query Rewriting, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401323)
 ## Embedding models
+- Tarka Embedding V1, [blog post](https://tarka-air.gitbook.io/home/tarka-v1/tarka-embedding-v1)
+- EmbeddingGemma: Powerful and Lightweight Text Representations, Nov 2025, SOA open weight embedding model from Google, 300M paramers, [arxiv](https://arxiv.org/abs/2509.20354)
 - Granite Embedding Models (multi-lingual embedding models from IBM), Feb 2025 [arxiv](https://arxiv.org/abs/2502.20204)
 - mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic Data, Feb 2025, [arxiv](https://arxiv.org/abs/2502.08468)
 - Arctic-Embed 2.0: Multilingual Retrieval Without Compromise, Dec 2024, [arxiv](https://arxiv.org/abs/2412.04506)
@@ -374,6 +376,7 @@ bert based ranking, hybrid encoder based ranking
 - Teaching Dense Retrieval Models to Specialize with Listwise Distillation and LLM Data Augmentation, Feb 2025, [arxiv](https://arxiv.org/abs/2502.19712)
 - REFINE on Scarce Data: Retrieval Enhancement through Fine-Tuning via Model Fusion of Embedding Models, Oct 2024, [arxiv](https://arxiv.org/abs/2410.12890)
 ## Document understanding
+- Small Language Models for Phishing Website Detection: Cost, Performance, and Privacy Trade-Offs, Nov 2025, [arxiv](https://arxiv.org/abs/2511.15434)
 - SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion, Mar 2025, [arxiv](https://arxiv.org/abs/2503.11576)
 - Qwen2.5-VL Technical Report, see, 3.3.2 Document Understanding and OCR at Feb 2025 [arxiv](https://arxiv.org/abs/2502.13923)
 - ColPali: Efficient Document Retrieval with Vision Language Models, Jun 2024, [arxiv](https://arxiv.org/abs/2407.01449)
