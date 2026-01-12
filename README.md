@@ -58,7 +58,8 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
     - [Healthcare](#healthcare)
     - [Science](#Science)
     - [Finance](#finance)
-    - [Legal](#legal) 
+    - [Legal](#legal)
+    - [Job](#job)
   - [Search Engine Optimization](#search-engine-optimization)
 
 ## Search Surveys
@@ -320,6 +321,7 @@ bert based ranking, hybrid encoder based ranking
 ## Query Understanding
 - Beyond the limitation of a single query: Train your LLM for query expansion with Reinforcement Learning, NVidia Oct 2025, [arxiv](https://arxiv.org/abs/2510.10009)
 - ParallelSearch: Train your LLMs to Decompose Query and Search Sub-queries in Parallel with Reinforcement Learning, NVidia, Aug 2025, [arxiv](https://arxiv.org/abs/2508.09303)
+- Powering Job Search at Scale: LLM-Enhanced Query Understanding in Job Matching Systems, Aug 2025, Linkedin, [arxiv](https://arxiv.org/abs/2509.09690)
 - Aligned Query Expansion: Efficient Query Expansion for Information Retrieval through LLM Alignment, Jul 2025, [arxiv](https://arxiv.org/abs/2507.11042)
 - Hypothetical Documents or Knowledge Leakage? Rethinking LLM-based Query Expansion, Apr 2025, [arxiv](https://arxiv.org/abs/2504.14175)
 - Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling. Apr 2025, [arxiv](https://arxiv.org/abs/2504.05216)
@@ -629,6 +631,9 @@ Search Engine Optimization, adversial
 - Dynamics of Adversarial Attacks on Large Language Model-Based Search Engines, Jan 2025, [arxiv](https://arxiv.org/abs/2501.00745)
 - Adversarial Search Engine Optimization for Large Language Models, Jul 2024, [arxiv](https://arxiv.org/abs/2406.18382)
 - Stealthy Attack on Large Language Model based Recommendation, Feb 2024, [arxiv](https://arxiv.org/abs/2402.14836)
+## Job
+- Powering Job Search at Scale: LLM-Enhanced Query Understanding in Job Matching Systems, Aug 2025, Linkedin, [arxiv](https://arxiv.org/abs/2509.09690)
+
 
 
 
