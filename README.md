@@ -536,6 +536,7 @@ and knowledge assistants and information seeking LLM based systems
 - WideSearch: Benchmarking Agentic Broad Info-Seeking, Aug 2025, [arxiv](https://arxiv.org/abs/2508.07999)
 - BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent, Aug 2025, [arxiv](https://arxiv.org/abs/2508.06600)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge, Jun 2025, [arxiv](https://arxiv.org/abs/2506.21506)
+- DeepShop: A Benchmark for Deep Research Shopping Agents, Jun 2025, [arxiv](https://arxiv.org/abs/2506.02839)
 - Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks, May 2025, [arxiv](https://arxiv.org/abs/2505.24876)
 - InfoDeepDeek [emergntmind](https://www.emergentmind.com/papers/2505.15872)
 - WebArena: A Realistic Web Environment for Building Autonomous Agents, Apr 2024, [arxiv](https://arxiv.org/abs/2307.13854)
