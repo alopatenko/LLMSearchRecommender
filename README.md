@@ -60,7 +60,8 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
     - [Finance](#finance)
     - [Legal](#legal)
     - [Job](#job)
-  - [Search Engine Optimization](#search-engine-optimization)
+    - [Search Engine Optimization](#search-engine-optimization)
+    - [MRO Maintenance Repair OVerhaul Manufacturing](#maintenance-repair-manufacturing)
 
 ## Search Surveys
 - A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications, Oct 2025, [arxiv](https://arxiv.org/abs/2510.16724)
@@ -646,6 +647,13 @@ Search Engine Optimization, adversial
 - Stealthy Attack on Large Language Model based Recommendation, Feb 2024, [arxiv](https://arxiv.org/abs/2402.14836)
 ## Job
 - Powering Job Search at Scale: LLM-Enhanced Query Understanding in Job Matching Systems, Aug 2025, Linkedin, [arxiv](https://arxiv.org/abs/2509.09690)
+## Maintenance, Repair, Manufacturing
+- A Compliance-Preserving Retrieval System for Aircraft MRO Task Search, Nov 2025, [arxiv](https://arxiv.org/abs/2511.15383?)
+- Bridging Industrial Expertise and XR with LLM-Powered Conversational Agents, Apr 2025, [arxiv](https://arxiv.org/abs/2504.05527?)
+- Prescriptive Agents based on RAG for Automated Maintenance (PARAM), Jul 2025, [arxiv](https://arxiv.org/abs/2508.04714?)
+- Enhancing Manufacturing Knowledge Access with LLMs and Context-aware Prompting, Jul 2025, [arxiv](https://arxiv.org/abs/2507.22619?)
+- MetalMind: A knowledge graph-driven human-centric knowledge system for metal additive manufacturing, Jun 2025, [Nature NPJ Advanced manufacturing](https://www.nature.com/articles/s44334-025-00038-9)
+- Optimizing Aerospace Product Maintenance A Novel Multi-Modal Knowledge Graph and LLM Approach for Enhanced Decision Support, Jul 2024, [ESWC conference](https://2024.eswc-conferences.org/wp-content/uploads/2024/05/77770127.pdf)
 
 
 
