@@ -119,6 +119,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [The smallest vector index in the world. RAG Everything with LEANN!](https://github.com/yichuan-w/LEANN)
 ## Agentic Search
 also see [Evaluation Agentic Search](#evaluation-agentic-search)
+- Agentic-R: Learning to Retrieve for Agentic Search, Jan 2026, Baidu, [arxiv](https://arxiv.org/abs/2601.11888)
 - Instructed Retriever: Unlocking System-Level Reasoning in Search Agents, Databricks, Jan 2026. [databricks](https://www.databricks.com/blog/instructed-retriever-unlocking-system-level-reasoning-search-agents)
 - Dr. Zero: Self-Evolving Search Agents without Training Data, Jan 2026, [arxiv](https://arxiv.org/abs/2601.07055)
 - A Systematic Framework for Enterprise Knowledge Retrieval: Leveraging LLM-Generated Metadata to Enhance RAG Systems, Dec 2025, [arxiv](https://arxiv.org/abs/2512.05411)
@@ -280,6 +281,7 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - walmart Retail Graph — Walmart’s Product Knowledge Graph, [walmart](https://medium.com/walmartglobaltech/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc)
 - Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations, [uber](https://www.uber.com/blog/uber-eats-graph-learning/)
 ## Retrieval
+- Agentic-R: Learning to Retrieve for Agentic Search, Jan 2026, Baidu, [arxiv](https://arxiv.org/abs/2601.11888)
 - ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance, Nov 2025, [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.963.pdf)
 - CoEvo: Coevolution of LLM and Retrieval Model for Domain-Specific Information Retrieval, Nov 2025, [ACL, 2025 Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/2025.emnlp-main.757.pdf)
 - Large Scale Retrieval for the LinkedIn Feed using Causal Language Models, Oct 2025, [arxiv](https://arxiv.org/abs/2510.14223)
