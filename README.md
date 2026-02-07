@@ -120,6 +120,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## Agentic Search
 also see [Evaluation Agentic Search](#evaluation-agentic-search)
 - Agentic-R: Learning to Retrieve for Agentic Search, Jan 2026, Baidu, [arxiv](https://arxiv.org/abs/2601.11888)
+- Can Small Agent Collaboration Beat a Single Big LLM?, Jan 2026, [arxiv](https://arxiv.org/abs/2601.11327)
 - Instructed Retriever: Unlocking System-Level Reasoning in Search Agents, Databricks, Jan 2026. [databricks](https://www.databricks.com/blog/instructed-retriever-unlocking-system-level-reasoning-search-agents)
 - Dr. Zero: Self-Evolving Search Agents without Training Data, Jan 2026, [arxiv](https://arxiv.org/abs/2601.07055)
 - A Systematic Framework for Enterprise Knowledge Retrieval: Leveraging LLM-Generated Metadata to Enhance RAG Systems, Dec 2025, [arxiv](https://arxiv.org/abs/2512.05411)
@@ -247,6 +248,7 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going?, Aug 2024, [arxiv](https://arxiv.org/abs/2408.05109)
 - Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL, Jun 2024, [arxiv](https://arxiv.org/abs/2406.08426)
 ## RAG
+- How We Built a Semantic Highlight Model To Save Token Cost for RAG, Jan 2026, [HuggingFace](https://huggingface.co/blog/zilliz/zilliz-semantic-highlight-model)
 - InfoGain-RAG: Boosting Retrieval-Augmented Generation through Document Information Gain-based Reranking and Filtering, Nov 2025, [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.365.pdf)
 - Each to Their Own: Exploring the Optimal Embedding in RAG, Jul 2025, [arxiv](https://arxiv.org/abs/2507.17442)
 - Synergizing RAG and Reasoning: A Systematic Review, Apr 2025, [arxiv](https://arxiv.org/abs/2504.15909)
@@ -281,6 +283,7 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - walmart Retail Graph — Walmart’s Product Knowledge Graph, [walmart](https://medium.com/walmartglobaltech/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc)
 - Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations, [uber](https://www.uber.com/blog/uber-eats-graph-learning/)
 ## Retrieval
+- Scaling Laws for Embedding Dimension in Information Retrieval, Feb 2026, [arxiv](https://arxiv.org/abs/2602.05062)
 - Agentic-R: Learning to Retrieve for Agentic Search, Jan 2026, Baidu, [arxiv](https://arxiv.org/abs/2601.11888)
 - ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance, Nov 2025, [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.963.pdf)
 - CoEvo: Coevolution of LLM and Retrieval Model for Domain-Specific Information Retrieval, Nov 2025, [ACL, 2025 Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/2025.emnlp-main.757.pdf)
@@ -337,6 +340,7 @@ bert based ranking, hybrid encoder based ranking
 - Beyond the limitation of a single query: Train your LLM for query expansion with Reinforcement Learning, NVidia Oct 2025, [arxiv](https://arxiv.org/abs/2510.10009)
 - ParallelSearch: Train your LLMs to Decompose Query and Search Sub-queries in Parallel with Reinforcement Learning, NVidia, Aug 2025, [arxiv](https://arxiv.org/abs/2508.09303)
 - Powering Job Search at Scale: LLM-Enhanced Query Understanding in Job Matching Systems, Aug 2025, Linkedin, [arxiv](https://arxiv.org/abs/2509.09690)
+- Query Attribute Modeling: Improving search relevance with Semantic Search and Meta Data Filtering, Aug 2025, [arxiv](https://arxiv.org/abs/2508.04683)
 - Aligned Query Expansion: Efficient Query Expansion for Information Retrieval through LLM Alignment, Jul 2025, [arxiv](https://arxiv.org/abs/2507.11042)
 - Hypothetical Documents or Knowledge Leakage? Rethinking LLM-based Query Expansion, Apr 2025, [arxiv](https://arxiv.org/abs/2504.14175)
 - Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling. Apr 2025, [arxiv](https://arxiv.org/abs/2504.05216)
@@ -353,8 +357,10 @@ bert based ranking, hybrid encoder based ranking
 - Query2doc: Query Expansion with Large Language Models, Mar 2023, [arxiv](https://arxiv.org/abs/2303.07678)
 - Few-Shot Generative Conversational Query Rewriting, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401323)
 ## Embedding models
+- What Actually Makes Embedding Model Inference Fast?, Jan 2026, [blog post](https://filipmakraduli.substack.com/p/what-actually-makes-embedding-model)
 - Tarka Embedding V1, [blog post](https://tarka-air.gitbook.io/home/tarka-v1/tarka-embedding-v1)
 - EmbeddingGemma: Powerful and Lightweight Text Representations, Nov 2025, SOA open weight embedding model from Google, 300M paramers, [arxiv](https://arxiv.org/abs/2509.20354)
+- CSMF: Cascaded Selective Mask Fine-Tuning for Multi-Objective Embedding-Based Retrieval, Apr 2025, [arxiv](https://arxiv.org/abs/2504.12920)
 - Granite Embedding Models (multi-lingual embedding models from IBM), Feb 2025 [arxiv](https://arxiv.org/abs/2502.20204)
 - mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic Data, Feb 2025, [arxiv](https://arxiv.org/abs/2502.08468)
 - Arctic-Embed 2.0: Multilingual Retrieval Without Compromise, Dec 2024, [arxiv](https://arxiv.org/abs/2412.04506)
@@ -393,6 +399,7 @@ bert based ranking, hybrid encoder based ranking
 - Teaching Dense Retrieval Models to Specialize with Listwise Distillation and LLM Data Augmentation, Feb 2025, [arxiv](https://arxiv.org/abs/2502.19712)
 - REFINE on Scarce Data: Retrieval Enhancement through Fine-Tuning via Model Fusion of Embedding Models, Oct 2024, [arxiv](https://arxiv.org/abs/2410.12890)
 ## Document understanding
+- LongDA: Benchmarking LLM Agents for Long-Document Data Analysis, Jan 2026, [arxiv](https://arxiv.org/abs/2601.02598)
 - Small Language Models for Phishing Website Detection: Cost, Performance, and Privacy Trade-Offs, Nov 2025, [arxiv](https://arxiv.org/abs/2511.15434)
 - SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion, Mar 2025, [arxiv](https://arxiv.org/abs/2503.11576)
 - Qwen2.5-VL Technical Report, see, 3.3.2 Document Understanding and OCR at Feb 2025 [arxiv](https://arxiv.org/abs/2502.13923)
@@ -405,12 +412,15 @@ bert based ranking, hybrid encoder based ranking
 ## Deep Research
 and Deep Search
 Also see [Evaluation Deep Research](#evaluation-deep-research)
+- Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models, Jan 2026, [arxiv](https://arxiv.org/abs/2601.22060v1)
+- SAGE: Steerable Agentic Data Generation for Deep Search with Execution Feedback, Jan 2026, [arxiv](https://arxiv.org/abs/2601.18202)
+- DeepEra: A Deep Evidence Reranking Agent for Scientific Retrieval-Augmented Generated Question Answering, Jan 2026, [arxiv](https://arxiv.org/abs/2601.16478)
 - RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents, Nov 2025, [arxiv](https://www.arxiv.org/abs/2511.07685)
 - DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping, Oct 2025, [arxiv](https://arxiv.org/abs/2510.12979)
 - Enterprise Deep Research: Steerable Multi-Agent Deep Research for Enterprise Analytics, Oct 2025, [arxiv](https://arxiv.org/abs/2510.17797)
 - A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers, Oct 2025, [arxiv](https://arxiv.org/abs/2508.21148)
-- RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents, Nov 2025, [arxiv](https://www.arxiv.org/abs/2511.07685)
-- DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL, Sep 2025, [arxiv]()
+- DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL, Sep 2025, [arxiv](https://arxiv.org/abs/2509.10446)
+- GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation, Sep 2025, [arxiv](https://arxiv.org/abs/2509.22009)
 - WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent, Sep 2025, [arxiv](https://arxiv.org/abs/2508.05748)
 - Open Data Synthesis For Deep Research, Aug 2025, [arxiv](https://arxiv.org/abs/2509.00375)
 - A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges, Aug 2025, [arxiv](https://arxiv.org/abs/2508.05668)
