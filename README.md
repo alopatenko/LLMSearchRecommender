@@ -161,6 +161,10 @@ The section should be rewritten, there are a lot of changes from FreshLLM time
 - Gorilla: Large Language Model Connected with Massive APIs, May 2023, [arxiv](https://arxiv.org/abs/2305.15334)
 - Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions, Dec 2022, [arxiv](https://arxiv.org/abs/2212.10509)
 ## Conversational Search
+- Agentic Conversational Search with Contextualized Reasoning via Reinforcement Learning, Jan 2026, [arxiv](https://arxiv.org/abs/2601.13115)
+- CTR-Guided Generative Query Suggestion in Conversational Search, EMNLP 2025, [ACL](https://aclanthology.org/2025.emnlp-industry.178/)
+- A Survey of Conversational Search, Sep 2025, [ACM](https://dl.acm.org/doi/full/10.1145/3759453)
+- Learning Contextual Retrieval for Robust Conversational Search, EMNLP 2025, [ACL](https://aclanthology.org/2025.emnlp-main.602/)
 - A Survey of Conversational Search, Oct 2024, [arxiv](https://arxiv.org/abs/2410.15576v1)
 - Engineering Conversational Search Systems: A Review of Applications, Architectures, and Functional Components, Jul 2024, [arxiv](https://arxiv.org/abs/2407.00997)
 - ChatRetriever: Adapting Large Language Models for Generalized and Robust Conversational Dense Retrieval, Apr 2024, [arxiv](https://arxiv.org/abs/2404.13556)
