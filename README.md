@@ -340,8 +340,13 @@ bert based ranking, hybrid encoder based ranking
 ### Reranking
 - Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search, Baidu, Feb 2026, [arxiv](https://arxiv.org/abs/2602.05408)
 - LANCER: LLM Reranking for Nugget Coverage, Jan 2026, [arxiv](https://arxiv.org/abs/2601.22008)
+- Re-Rankers as Relevance Judges, Jan 2026, [arxiv](https://arxiv.org/abs/2601.04455)
+- RankLLM: A Python Package for Reranking with LLMs, SIGIR 2025, [ACM](https://dl.acm.org/doi/abs/10.1145/3726302.3730331)
+- Accelerating Listwise Reranking: Reproducing and Enhancing FIRST, SIGIR 2025, [ACM](https://dl.acm.org/doi/abs/10.1145/3726302.3730287)
 - Supervised Fine-Tuning or Contrastive Learning? Towards Better Multimodal LLM Reranking, Oct 2025, [arxiv](https://arxiv.org/abs/2510.14824)
 - Distillation versus Contrastive Learning: How to Train Your Rerankers, Jul 2025, [arxiv](https://arxiv.org/abs/2507.08336)
+- Rank-K: Test-Time Reasoning for Listwise Reranking, May 2025, [arxiv](https://arxiv.org/abs/2505.14432)
+- Rank1: Test-Time Compute for Reranking in Information Retrieval, Feb 2025, [arxiv](https://arxiv.org/abs/2502.18418)
 ## Query Understanding
 - Beyond the limitation of a single query: Train your LLM for query expansion with Reinforcement Learning, NVidia Oct 2025, [arxiv](https://arxiv.org/abs/2510.10009)
 - ParallelSearch: Train your LLMs to Decompose Query and Search Sub-queries in Parallel with Reinforcement Learning, NVidia, Aug 2025, [arxiv](https://arxiv.org/abs/2508.09303)
