@@ -338,6 +338,8 @@ bert based ranking, hybrid encoder based ranking
 - Understanding the Behaviors of BERT in Ranking, 2019, [arxiv](https://arxiv.org/abs/1904.07531)
 - Passage Re-ranking with BERT, 2019, [arxiv](https://arxiv.org/abs/1901.04085)
 ### Reranking
+- Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search, Baidu, Feb 2026, [arxiv](https://arxiv.org/abs/2602.05408)
+- LANCER: LLM Reranking for Nugget Coverage, Jan 2026, [arxiv](https://arxiv.org/abs/2601.22008)
 - Supervised Fine-Tuning or Contrastive Learning? Towards Better Multimodal LLM Reranking, Oct 2025, [arxiv](https://arxiv.org/abs/2510.14824)
 - Distillation versus Contrastive Learning: How to Train Your Rerankers, Jul 2025, [arxiv](https://arxiv.org/abs/2507.08336)
 ## Query Understanding
