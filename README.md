@@ -328,6 +328,7 @@ and Recommendations
 - Multi-objective ranking optimization for product search using stochastic label aggregation Amazon Science 2020, [amazon science](https://www.amazon.science/publications/multi-objective-ranking-optimization-for-product-search-using-stochastic-label-aggregation)
 ### Classical bi-encoder and cross encoder ranking, 
 bert based ranking, hybrid encoder based ranking
+- ColBERT-Zero: To Pre-train Or Not To Pre-train ColBERT models, Feb 2026, [arxiv](https://arxiv.org/abs/2602.16609) 
 - A Thorough Comparison of Cross-Encoders and LLMs for Reranking SPLADE, [Mar 2024](https://arxiv.org/abs/2403.10407)
 - Rankt5: Fine-tuning t5 for text ranking with ranking losses, 2023, [SIGIR 2023](https://dl.acm.org/doi/abs/10.1145/3539618.3592047)
 - ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction, 2022, [arxiv](https://arxiv.org/abs/2112.01488)
@@ -368,6 +369,7 @@ bert based ranking, hybrid encoder based ranking
 - Query2doc: Query Expansion with Large Language Models, Mar 2023, [arxiv](https://arxiv.org/abs/2303.07678)
 - Few-Shot Generative Conversational Query Rewriting, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401323)
 ## Embedding models
+- jina-embeddings-v5-text: Task-Targeted Embedding Distillation, Feb 2026 [arxiv](https://arxiv.org/abs/2602.15547v1), jina-embeddings-v5-text: New SOTA Small Multilingual Embeddings, [blog post feb 2026](https://jina.ai/news/jina-embeddings-v5-text-distilling-4b-quality-into-sub-1b-multilingual-embeddings/)
 - What Actually Makes Embedding Model Inference Fast?, Jan 2026, [blog post](https://filipmakraduli.substack.com/p/what-actually-makes-embedding-model)
 - Tarka Embedding V1, [blog post](https://tarka-air.gitbook.io/home/tarka-v1/tarka-embedding-v1)
 - EmbeddingGemma: Powerful and Lightweight Text Representations, Nov 2025, SOA open weight embedding model from Google, 300M paramers, [arxiv](https://arxiv.org/abs/2509.20354)
