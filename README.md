@@ -613,7 +613,11 @@ QA is used in many vertical domains, see Vertical section bellow
 - Natural Questions: A Benchmark for Question Answering Research, [Transactions ACL 2019](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00276/43518/Natural-Questions-A-Benchmark-for-Question) 
 ## Blog posts, whitepapers
 - Increase web search accuracy and efficiency with dynamic filtering, Feb 2026,  [Anthropic blog](https://claude.com/blog/improved-web-search-with-dynamic-filtering)
-- Pinterest Feb 2026 [Serving two tower models using GPU](https://lnkd.in/g4eyypSh) [Beyond 2 tower model for ranking](https://lnkd.in/g66xMwUB) [Re-designing ads serving systems](https://lnkd.in/gsU4yH6s) [Non-engagement signals](https://lnkd.in/gNYnjHQ3) [Offsite content understanding](https://lnkd.in/giWG4eV3)
+- Pinterest Feb 2026 [Serving two tower models using GPU](https://lnkd.in/g4eyypSh)
+-- [Beyond 2 tower model for ranking](https://lnkd.in/g66xMwUB)
+-- [Re-designing ads serving systems](https://lnkd.in/gsU4yH6s) 
+-- [Non-engagement signals](https://lnkd.in/gNYnjHQ3)
+-- [Offsite content understanding](https://lnkd.in/giWG4eV3)
 - Perplexity, firmly Build Merchant Network to Power GenAI Commerce, Mar 2025, [press release](https://www.pymnts.com/news/ecommerce/2025/exclusive-perplexity-firmly-build-merchant-network-to-power-genai-commerce/)
 - Adobe Analytics: Traffic to U.S. retail websites from Generative AI sources jumps 1,200 percent, Mar 2025, [adobe](https://blog.adobe.com/en/publish/2025/03/17/adobe-analytics-traffic-to-us-retail-websites-from-generative-ai-sources-jumps-1200-percent)
 - Foundation Model for Personalized Recommendation by Netflix, Mar 2025, [Netflix blog](https://netflixtechblog.medium.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39)
