@@ -215,6 +215,7 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - IntentRec: Predicting User Session Intent with Hierarchical Multi-Task Learning, Jul 2024 Netflix, [arxiv](https://arxiv.org/abs/2408.05353)
 - LLM-based Medical Assistant Personalization with Short- and Long-Term Memory Coordination, [NAACL 2024](https://aclanthology.org/2024.naacl-long.132/)
 ## Multi modal
+- Hybrid-Vector Retrieval for Visually Rich Documents: Combining Single-Vector Efficiency and Multi-Vector Accuracy, Oct 2025, [arxiv](https://arxiv.org/abs/2510.22215)
 - MMMORRF: Multimodal Multilingual Modularized Reciprocal Rank Fusion, May 2025, SIGIR 2025, [arxiv](https://arxiv.org/abs/2503.20698)
 - Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions, Jan 2025, [IEEE]()https://ieeexplore.ieee.org/abstract/document/10843094?casa_token=oXnLMUJ8EaoAAAAA:bLPPXHI2Sypz5wdjPLTZG965RDQ0jbp6lwbfKi2U3n70i3RWqwBUjHRmxriYp5H2InizkfA40sRs
 - RAMQA: A Unified Framework for Retrieval-Augmented Multi-Modal Question Answering, Jan 2025, [arxiv](https://arxiv.org/abs/2501.13297)
