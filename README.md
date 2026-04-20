@@ -28,6 +28,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
     - [Reranking](#reranking) 
     - [Classical bi-encoder and cross encoder ranking,](#classical-bi-encoder-and-cross-encoder-ranking)
   - [Query Understanding](#query-understanding)
+  - [Time Aware Search](#time-aware-search)
   - [Embedding models](#embedding-models)
     - [Embedding models Evaluation](#embedding-models-evaluation)
     - [Optimization of embedding models](#optimization-of-embedding-models)
@@ -373,6 +374,11 @@ bert based ranking, hybrid encoder based ranking
 - Query Rewriting in Retrieval-Augmented Large Language Models, [EMNLP 2023](https://aclanthology.org/2023.emnlp-main.322/)
 - Query2doc: Query Expansion with Large Language Models, Mar 2023, [arxiv](https://arxiv.org/abs/2303.07678)
 - Few-Shot Generative Conversational Query Rewriting, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401323)
+## Time Aware Search
+- Right Answer at the Right Time - Temporal Retrieval-Augmented Generation via Graph Summarization, Oct 2025, [arxiv](https://arxiv.org/abs/2510.16715)
+- It's High Time: A Survey of Temporal Question Answering, Aug 2025, [arxiv](https://arxiv.org/abs/2505.20243)
+- TimeR4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering, Nov 2024, [ACL EMNLP  2024](https://aclanthology.org/2024.emnlp-main.394/)
+- Time-Sensitve Retrieval-Augmented Generation for Question Answering, Ot 2024, [Semantic Scholar](https://www.semanticscholar.org/paper/Time-Sensitve-Retrieval-Augmented-Generation-for-Wu-Liu/095decd5488d0890c3860e6f8344dafe187d7eb6)
 ## Embedding models
 - Text Embeddings Inference, from Hugging Face inference layer for embeddings, Feb 2026 (hugging face)(https://github.com/huggingface/text-embeddings-inference)
 - jina-embeddings-v5-text: Task-Targeted Embedding Distillation, Feb 2026 [arxiv](https://arxiv.org/abs/2602.15547v1), jina-embeddings-v5-text: New SOTA Small Multilingual Embeddings, [blog post feb 2026](https://jina.ai/news/jina-embeddings-v5-text-distilling-4b-quality-into-sub-1b-multilingual-embeddings/)
