@@ -51,6 +51,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
     - [Evaluation Reasoning and RAG](#evaluation-reasoning-and-rag)
     - [Question Answering benchmarks](#qa-benchmarks)
   - [Blog posts, whitepapers](#blog-posts-whitepapers)
+  - [AI Scientists for Search](#ai-scientists-for-search)
   - [Verticals](#verticals)
     - [Product Search](#product-search)
     - [Location Aware (Maps, real estate, local. travel)](#location-aware-maps-real-estate-local-travel)
@@ -617,7 +618,9 @@ QA is used in many vertical domains, see Vertical section bellow
 - WinoGrande: An Adversarial Winograd Schema Challenge at Scale, 2017, [arxiv](https://arxiv.org/abs/1907.10641) [Winogrande dataset](https://www.tensorflow.org/datasets/catalog/winogrande)
 - TruthfulQA: Measuring How Models Mimic Human Falsehoods, Sep 2021, [arxiv](https://arxiv.org/abs/2109.07958)
 - TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages, 2020, [arxiv](https://arxiv.org/abs/2003.05002)  [data](https://github.com/google-research-datasets/tydiqa)
-- Natural Questions: A Benchmark for Question Answering Research, [Transactions ACL 2019](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00276/43518/Natural-Questions-A-Benchmark-for-Question) 
+- Natural Questions: A Benchmark for Question Answering Research, [Transactions ACL 2019](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00276/43518/Natural-Questions-A-Benchmark-for-Question)
+## AI Scientists for Search
+- AI Co-Scientist for Ranking: Discovering Novel Search Ranking Models alongside LLM-based AI Agents with Cloud Computing Access, Mar 2026, [arxiv](https://arxiv.org/abs/2603.22376)
 ## Blog posts, whitepapers
 - Increase web search accuracy and efficiency with dynamic filtering, Feb 2026,  [Anthropic blog](https://claude.com/blog/improved-web-search-with-dynamic-filtering)
 - Pinterest Feb 2026 [Serving two tower models using GPU](https://lnkd.in/g4eyypSh)
