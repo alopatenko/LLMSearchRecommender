@@ -122,6 +122,8 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## Agentic Search
 also see [Evaluation Agentic Search](#evaluation-agentic-search)
 - Rethinking Recommendation Paradigms: From Pipelines to Agentic Recommender Systems, Apr 2026, [arxiv](https://arxiv.org/abs/2603.26100)
+- Agentic Search in the Wild: Intents and Trajectory Dynamics from 14M+ Real Search Requests, Jan 2026, [arxiv](https://arxiv.org/abs/2601.17617)
+- LRAS: Advanced Legal Reasoning with Agentic Search, Jan 2026, [arxiv](https://arxiv.org/abs/2601.07296)
 - Agentic-R: Learning to Retrieve for Agentic Search, Jan 2026, Baidu, [arxiv](https://arxiv.org/abs/2601.11888)
 - Can Small Agent Collaboration Beat a Single Big LLM?, Jan 2026, [arxiv](https://arxiv.org/abs/2601.11327)
 - Instructed Retriever: Unlocking System-Level Reasoning in Search Agents, Databricks, Jan 2026. [databricks](https://www.databricks.com/blog/instructed-retriever-unlocking-system-level-reasoning-search-agents)
