@@ -121,6 +121,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [The smallest vector index in the world. RAG Everything with LEANN!](https://github.com/yichuan-w/LEANN)
 ## Agentic Search
 also see [Evaluation Agentic Search](#evaluation-agentic-search)
+- Rethinking Recommendation Paradigms: From Pipelines to Agentic Recommender Systems, Apr 2026, [arxiv](https://arxiv.org/abs/2603.26100)
 - Agentic-R: Learning to Retrieve for Agentic Search, Jan 2026, Baidu, [arxiv](https://arxiv.org/abs/2601.11888)
 - Can Small Agent Collaboration Beat a Single Big LLM?, Jan 2026, [arxiv](https://arxiv.org/abs/2601.11327)
 - Instructed Retriever: Unlocking System-Level Reasoning in Search Agents, Databricks, Jan 2026. [databricks](https://www.databricks.com/blog/instructed-retriever-unlocking-system-level-reasoning-search-agents)
@@ -470,6 +471,7 @@ Also see [Evaluation Deep Research](#evaluation-deep-research)
 - Hybrid Hierarchical Retrieval for Open-Domain Question Answering, Jul 2023, [ACL 2023](https://aclanthology.org/2023.findings-acl.679/)
 ## Recommender Engines
 TODO to classify
+- Rethinking Recommendation Paradigms: From Pipelines to Agentic Recommender Systems, Apr 2026, [arxiv](https://arxiv.org/abs/2603.26100)
 - Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning, Oct 2025, [arxiv](https://arxiv.org/abs/2510.20150)
 - Rethinking Group Recommender Systems in the Era of Generative AI: From One-Shot Recommendations to Agentic Group Decision Support, Jul 2025, [arxiv](https://arxiv.org/abs/2507.00535v1)
 - RecGPT: LLM-Driven Intent-Centric Recommender Systems at Industrial Scale, Technical Report,Jul 2025, Alibaba, [arxiv](https://www.arxiv.org/abs/2507.22879)
