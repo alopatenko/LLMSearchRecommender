@@ -81,6 +81,8 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - Retrieval-Augmented Generation for Large Language Models: A Survey, 2023, [simg](https://simg.baai.ac.cn/paperfile/25a43194-c74c-4cd3-b60f-0a1f27f8b8af.pdf)
 - Large Language Models for Information Retrieval: A Survey, Aug 2023, [arxiv](https://arxiv.org/abs/2308.07107)
 ## Recommender Engine Surveys
+- A comprehensive review of recommender systems: Transitioning from theory to practice, Feb 2026, [Computer Science Review Feb 2026](https://www.sciencedirect.com/science/article/pii/S157401372500125X)
+- A survey on sequential recommendation, Nov 2025, [Frontiers of Computer Science 2025](https://link.springer.com/article/10.1007/s11704-025-41329-w)
 - A Comprehensive Review on Harnessing Large Language Models to Overcome Recommender System Challenges, Jul 2025, [arxiv](https://arxiv.org/abs/2507.21117v1)
 - A Comprehensive Survey on Cross-Domain Recommendation: Taxonomy, Progress, and Prospects, Mar 2025. [arxiv](https://arxiv.org/abs/2503.14110)
 - A Survey on LLM-powered Agents for Recommender Systems, Feb 2025, [arxiv](https://arxiv.org/abs/2502.10050): RE: based on DeepSeek-R methods for training reasoning and interleaved LLMs calling search as a tool.
@@ -184,6 +186,7 @@ The section should be rewritten, there are a lot of changes from FreshLLM time
 - Open-Retrieval Conversational Question Answering, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401110)
 ## Search Assistance
 autocomplete/autosuggest and other search assistance tasks, search clarification, query recommendation and other techniques guiding users in search
+- OneSug: The Unified End-to-End Generative Framework for E-commerce Query Suggestion, AAAI 2026 [AAAI 2026](https://dl.acm.org/doi/abs/10.1145/3773966.3777963)
 - LLM-based Search Assistant with Holistically Guided MCTS for Intricate Information Seeking, 2025, [SIGIR 2025](https://dl.acm.org/doi/abs/10.1145/3726302.3730025)
 - Evaluating auto-complete ranking for diversity and relevance, [ECIR 2025](https://www.amazon.science/publications/evaluating-auto-complete-ranking-for-diversity-and-relevance)
 - Enhancing Discoverability in Enterprise Conversational Systems with Proactive Question Suggestions, Dec 2024, [arxiv](https://arxiv.org/abs/2412.10933)
@@ -473,6 +476,7 @@ Also see [Evaluation Deep Research](#evaluation-deep-research)
 - Hybrid Hierarchical Retrieval for Open-Domain Question Answering, Jul 2023, [ACL 2023](https://aclanthology.org/2023.findings-acl.679/)
 ## Recommender Engines
 TODO to classify
+- OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service, Feb 2026, [WSDM 2026](https://dl.acm.org/doi/abs/10.1145/3773966.3777963)
 - Rethinking Recommendation Paradigms: From Pipelines to Agentic Recommender Systems, Apr 2026, [arxiv](https://arxiv.org/abs/2603.26100)
 - Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning, Oct 2025, [arxiv](https://arxiv.org/abs/2510.20150)
 - Rethinking Group Recommender Systems in the Era of Generative AI: From One-Shot Recommendations to Agentic Group Decision Support, Jul 2025, [arxiv](https://arxiv.org/abs/2507.00535v1)
