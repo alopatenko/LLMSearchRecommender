@@ -444,6 +444,8 @@ bert based ranking, hybrid encoder based ranking
 ## Deep Research
 and Deep Search
 Also see [Evaluation Deep Research](#evaluation-deep-research)
+- Dont Stop Early: Scalable Enterprise Deep Research with Controlled Information Flow and Evidence-Aware Termination, Apr 2026, Salesfore AI, [arxiv](https://arxiv.org/abs/2604.24978)
+- W&D:Scaling Parallel Tool Calling for Efficient Deep Research Agents, Feb 2026, [arxiv](https://arxiv.org/abs/2602.07359)
 - Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models, Jan 2026, [arxiv](https://arxiv.org/abs/2601.22060v1)
 - SAGE: Steerable Agentic Data Generation for Deep Search with Execution Feedback, Jan 2026, [arxiv](https://arxiv.org/abs/2601.18202)
 - DeepEra: A Deep Evidence Reranking Agent for Scientific Retrieval-Augmented Generated Question Answering, Jan 2026, [arxiv](https://arxiv.org/abs/2601.16478)
