@@ -444,6 +444,7 @@ bert based ranking, hybrid encoder based ranking
 ## Deep Research
 and Deep Search
 Also see [Evaluation Deep Research](#evaluation-deep-research)
+- DRACULA: Hunting for the Actions Users Want Deep Research Agents to Execute, Apr 2026, AllenAI, University of Maryland, [arxiv](https://arxiv.org/abs/2604.23815)
 - Dont Stop Early: Scalable Enterprise Deep Research with Controlled Information Flow and Evidence-Aware Termination, Apr 2026, Salesfore AI, [arxiv](https://arxiv.org/abs/2604.24978)
 - Self-Optimizing Multi-Agent Systems for Deep Research. Apr 2026, [arxiv](https://arxiv.org/abs/2604.02988?)
 - MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification, Mar 2026, [arxiv](https://arxiv.org/abs/2603.15726)
