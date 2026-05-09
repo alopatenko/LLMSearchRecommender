@@ -123,6 +123,11 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [The smallest vector index in the world. RAG Everything with LEANN!](https://github.com/yichuan-w/LEANN)
 ## Agentic Search
 also see [Evaluation Agentic Search](#evaluation-agentic-search)
+- Inference-Time Budget Control for LLM Search Agents, May 2026, [arxiv](https://arxiv.org/abs/2605.05701)
+- Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction, May 2026, [arxiv](https://arxiv.org/abs/2605.05242)
+- LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents, May 2026, [arxiv](https://arxiv.org/abs/2605.05191)
+- LatentRAG: Latent Reasoning and Retrieval for Efficient Agentic RAG, May 2026, [arxiv](https://arxiv.org/abs/2605.06285)
+- Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval, May 2026, [arxiv](https://arxiv.org/abs/2605.06647)
 - Rethinking Recommendation Paradigms: From Pipelines to Agentic Recommender Systems, Apr 2026, [arxiv](https://arxiv.org/abs/2603.26100)
 - Agentic Search in the Wild: Intents and Trajectory Dynamics from 14M+ Real Search Requests, Jan 2026, [arxiv](https://arxiv.org/abs/2601.17617)
 - LRAS: Advanced Legal Reasoning with Agentic Search, Jan 2026, [arxiv](https://arxiv.org/abs/2601.07296)
@@ -444,6 +449,7 @@ bert based ranking, hybrid encoder based ranking
 ## Deep Research
 and Deep Search
 Also see [Evaluation Deep Research](#evaluation-deep-research)
+- BioMedArena: An Open-source Toolkit for Building and Evaluating Biomedical Deep Research Agents, May 2026, [arxiv](https://arxiv.org/abs/2605.06177)
 - DRACULA: Hunting for the Actions Users Want Deep Research Agents to Execute, Apr 2026, AllenAI, University of Maryland, [arxiv](https://arxiv.org/abs/2604.23815)
 - Dont Stop Early: Scalable Enterprise Deep Research with Controlled Information Flow and Evidence-Aware Termination, Apr 2026, Salesfore AI, [arxiv](https://arxiv.org/abs/2604.24978)
 - Self-Optimizing Multi-Agent Systems for Deep Research. Apr 2026, [arxiv](https://arxiv.org/abs/2604.02988?)
