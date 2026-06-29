@@ -123,6 +123,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [The smallest vector index in the world. RAG Everything with LEANN!](https://github.com/yichuan-w/LEANN)
 ## Agentic Search
 also see [Evaluation Agentic Search](#evaluation-agentic-search)
+- AgentX: Towards Agent-Driven Self-Iteration of Industrial Recommender Systems, Jun 2025, [arxiv](https://arxiv.org/abs/2606.26859)
 - Inference-Time Budget Control for LLM Search Agents, May 2026, [arxiv](https://arxiv.org/abs/2605.05701)
 - Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction, May 2026, [arxiv](https://arxiv.org/abs/2605.05242)
 - LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents, May 2026, [arxiv](https://arxiv.org/abs/2605.05191)
@@ -228,6 +229,7 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - IntentRec: Predicting User Session Intent with Hierarchical Multi-Task Learning, Jul 2024 Netflix, [arxiv](https://arxiv.org/abs/2408.05353)
 - LLM-based Medical Assistant Personalization with Short- and Long-Term Memory Coordination, [NAACL 2024](https://aclanthology.org/2024.naacl-long.132/)
 ## Multi modal
+- RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation, Mar 2026, [ACM](https://dl.acm.org/doi/10.1145/3818681)
 - Hybrid-Vector Retrieval for Visually Rich Documents: Combining Single-Vector Efficiency and Multi-Vector Accuracy, Oct 2025, [arxiv](https://arxiv.org/abs/2510.22215)
 - MMMORRF: Multimodal Multilingual Modularized Reciprocal Rank Fusion, May 2025, SIGIR 2025, [arxiv](https://arxiv.org/abs/2503.20698)
 - Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions, Jan 2025, [IEEE]()https://ieeexplore.ieee.org/abstract/document/10843094?casa_token=oXnLMUJ8EaoAAAAA:bLPPXHI2Sypz5wdjPLTZG965RDQ0jbp6lwbfKi2U3n70i3RWqwBUjHRmxriYp5H2InizkfA40sRs
@@ -282,6 +284,7 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - A Survey on Retrieval-Augmented Text Generation for Large Language Models, Apr 2024, [arxiv](https://arxiv.org/abs/2404.10981)
 - RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation, Mar 2024, [arxiv](https://arxiv.org/abs/2404.00610)
 ### Knowledge Graphs and RAG
+- Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization, Jun 2026, [arxiv](https://arxiv.org/abs/2606.25656)
 - Millions of GeAR-s: Extending GraphRAG to Millions of Documents, jul 2025, [arxiv](https://arxiv.org/abs/2507.17399)
 - When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation, Jun 2025, [arxiv(https://arxiv.org/abs/2506.05690)
 - GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning, Jul 2025, [arxiv](https://arxiv.org/abs/2507.23581)
@@ -315,6 +318,7 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - How to Make Cross Encoder a Good Teacher for Efficient Image-Text Retrieval?, July 2024, [arxiv](https://arxiv.org/abs/2407.07479v1)
 ## Ranking for Search
 and Recommendations
+- Adaptive Re-Ranking, Jun 2026, [arxiv](https://arxiv.org/abs/2606.25249)
 - Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design, Meta, Ranking architecture of Meta Ads, Feb 2026, [arxiv](https://arxiv.org/abs/2602.10016)
 - DeepMTL2R: A Library for Deep Multi-task Learning to Rank, Feb 2026, Amazon.  [arxiv](https://arxiv.org/abs/2602.14519v1)
 - Deep Learning to Rank in Industrial Search Engines, Recommender Systems and Online Advertising: An Overview and New Perspectives, ACM, Review, Jan 2026, [ACM](https://dl.acm.org/doi/pdf/10.1145/3797895)
@@ -392,6 +396,7 @@ bert based ranking, hybrid encoder based ranking
 - TimeR4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering, Nov 2024, [ACL EMNLP  2024](https://aclanthology.org/2024.emnlp-main.394/)
 - Time-Sensitve Retrieval-Augmented Generation for Question Answering, Ot 2024, [Semantic Scholar](https://www.semanticscholar.org/paper/Time-Sensitve-Retrieval-Augmented-Generation-for-Wu-Liu/095decd5488d0890c3860e6f8344dafe187d7eb6)
 ## Embedding models
+- BitNet Text Embeddings, Jun 2026, [arxiv](https://arxiv.org/abs/2606.25674)
 - Text Embeddings Inference, from Hugging Face inference layer for embeddings, Feb 2026 (hugging face)(https://github.com/huggingface/text-embeddings-inference)
 - jina-embeddings-v5-text: Task-Targeted Embedding Distillation, Feb 2026 [arxiv](https://arxiv.org/abs/2602.15547v1), jina-embeddings-v5-text: New SOTA Small Multilingual Embeddings, [blog post feb 2026](https://jina.ai/news/jina-embeddings-v5-text-distilling-4b-quality-into-sub-1b-multilingual-embeddings/)
 - What Actually Makes Embedding Model Inference Fast?, Jan 2026, [blog post](https://filipmakraduli.substack.com/p/what-actually-makes-embedding-model)
