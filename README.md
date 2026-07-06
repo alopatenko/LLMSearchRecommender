@@ -305,6 +305,7 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - walmart Retail Graph — Walmart’s Product Knowledge Graph, [walmart](https://medium.com/walmartglobaltech/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc)
 - Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations, [uber](https://www.uber.com/blog/uber-eats-graph-learning/)
 ## Retrieval
+- Can Language Models Actually Retrieve In-Context? Drowning in Documents at Million Token Scale, Jul 2026, [arxiv](https://arxiv.org/abs/2607.01538)
 - Scaling Laws for Embedding Dimension in Information Retrieval, Feb 2026, [arxiv](https://arxiv.org/abs/2602.05062)
 - Agentic-R: Learning to Retrieve for Agentic Search, Jan 2026, Baidu, [arxiv](https://arxiv.org/abs/2601.11888)
 - ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance, Nov 2025, [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.963.pdf)
