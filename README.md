@@ -319,6 +319,7 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 ## Ranking for Search
 and Recommendations
 - Adaptive Re-Ranking, Jun 2026, [arxiv](https://arxiv.org/abs/2606.25249)
+- Joint Optimization of Relevance and Engagement in Multi-Task Ranking for E-Commerce with Efficient LLM Supervision, May 2026, [arxiv](https://arxiv.org/abs/2605.27704)
 - Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design, Meta, Ranking architecture of Meta Ads, Feb 2026, [arxiv](https://arxiv.org/abs/2602.10016)
 - DeepMTL2R: A Library for Deep Multi-task Learning to Rank, Feb 2026, Amazon.  [arxiv](https://arxiv.org/abs/2602.14519v1)
 - Deep Learning to Rank in Industrial Search Engines, Recommender Systems and Online Advertising: An Overview and New Perspectives, ACM, Review, Jan 2026, [ACM](https://dl.acm.org/doi/pdf/10.1145/3797895)
