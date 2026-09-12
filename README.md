@@ -621,6 +621,8 @@ and knowledge assistants and information seeking LLM based systems
 - FieldWorkArena: Agentic AI Benchmark for Real Field Work Tasks, May 2025, [arxiv](https://arxiv.org/abs/2505.19662)
 - GAIA: a benchmark for General AI Assistants, Nov 2023, [arxiv](https://arxiv.org/abs/2311.12983)
 ### Evaluation Agentic Search
+- SearchAtlas: Analyzing Agentic Search Strategies via Evidential Query Graphs, Sep 2026, [arxivv](https://arxiv.org/abs/2609.10901)
+- CIVI: A Framework for Diagnosing Search Agent Failures in Civic Information, Sep 2026, [arxiv](https://arxiv.org/abs/2609.08094)
 - A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications, Oct 2025, [arxiv](https://arxiv.org/abs/2510.16724)
 - WideSearch: Benchmarking Agentic Broad Info-Seeking, Aug 2025, [arxiv](https://arxiv.org/abs/2508.07999)
 - BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent, Aug 2025, [arxiv](https://arxiv.org/abs/2508.06600)
