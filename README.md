@@ -10,7 +10,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Tutorials](#tutorials)
   - [Software, libraries, frameworks](#software-libraries-frameworks)
   - [Agentic Search](#agentic-search)
-    -[Heterogeneous and Enterprise Agentic Search](#heterogeneous-and-enterprise-agentic-search) 
+    - [Heterogeneous and Enterprise Agentic Search](#heterogeneous-and-enterprise-agentic-search) 
   - [FreshLLM and similar architectures (LLM and large scale  search)](#freshllm-and-similar-architectures-llm-and-large-scale--search)
   - [Conversational Search](#conversational-search)
   - [Search Assistance](#search-assistance)
