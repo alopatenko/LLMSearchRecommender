@@ -123,6 +123,13 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [The smallest vector index in the world. RAG Everything with LEANN!](https://github.com/yichuan-w/LEANN)
 ## Agentic Search
 also see [Evaluation Agentic Search](#evaluation-agentic-search)
+- Q2D-Web: A Large-Scale Benchmark for Retrieval in Agentic RAG Systems, Sep 2026, [arxiv](https://arxiv.org/abs/2609.08887)
+- Iris: Climbing to the Search Frontier, Sep 2026, [arxiv](https://arxiv.org/abs/2609.04304)
+- ITER: Interaction-Aware Retrieval for Agentic Search, Aug 2026, [arxiv](https://arxiv.org/abs/2608.27912)
+- Beyond Document Retrieval: Architectural Challenges When LLM Agents Query Structured Enterprise Data, Aug 2026, [arxiv](https://arxiv.org/abs/2608.19235)
+- Deep Agentic Search for Repository-Level Code Question Answering: An Empirical Study, Aug 2026, [arxiv](https://arxiv.org/abs/2608.01507)
+- S1-DeepResearch: Beyond Search, Toward Real-World Long-Horizon Research Agents, Jun 2026, [arxiv](https://arxiv.org/abs/2606.15367v1)
+- SoK: Agentic Retrieval-Augmented Generation (RAG): Taxonomy, Architectures, Evaluation, and Research Directions, Mar 2026,  [arxiv](https://arxiv.org/abs/2603.07379)
 - AgentX: Towards Agent-Driven Self-Iteration of Industrial Recommender Systems, Jun 2025, [arxiv](https://arxiv.org/abs/2606.26859)
 - Inference-Time Budget Control for LLM Search Agents, May 2026, [arxiv](https://arxiv.org/abs/2605.05701)
 - Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction, May 2026, [arxiv](https://arxiv.org/abs/2605.05242)
