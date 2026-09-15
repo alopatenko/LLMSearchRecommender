@@ -169,6 +169,7 @@ also see [Evaluation Agentic Search](#evaluation-agentic-search)
 - Agentic Information Retrieval, Oct 2024, [arxiv](https://arxiv.org/abs/2410.09713)
 - MindSearch: Mimicking Human Minds Elicits Deep AI Searcher, Jul 2024, [arxiv](https://arxiv.org/abs/2407.20183)
 ### Heterogeneous and Enterprise Agentic Search
+- Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration, Sep 2026, [arxiv](https://arxiv.org/abs/2609.12464)
 - SearchAtlas: Analyzing Agentic Search Strategies via Evidential Query Graphs, September 2026, [arxiv](https://arxiv.org/abs/2609.10901)
 - Agent-Enhanced Heterogeneous Graph RAG for Academic Question Answering, September 2026, [arxiv](https://arxiv.org/abs/2609.00761)
 - Benchmarking Hybrid Deep Research Across Database Querying and Web Search,  September 2026, [arxiv](https://arxiv.org/abs/2609.09410)
@@ -462,6 +463,7 @@ bert based ranking, hybrid encoder based ranking
 - Teaching Dense Retrieval Models to Specialize with Listwise Distillation and LLM Data Augmentation, Feb 2025, [arxiv](https://arxiv.org/abs/2502.19712)
 - REFINE on Scarce Data: Retrieval Enhancement through Fine-Tuning via Model Fusion of Embedding Models, Oct 2024, [arxiv](https://arxiv.org/abs/2410.12890)
 ## Document understanding
+- Query-aware index pruning for retrieval under budget constraints, Amazon, Should be document or text in the inddex, Sep 2026, [Amazon science](https://www.amazon.science/publications/query-aware-index-pruning-for-retrieval-under-budget-constraints)
 - LongDA: Benchmarking LLM Agents for Long-Document Data Analysis, Jan 2026, [arxiv](https://arxiv.org/abs/2601.02598)
 - Small Language Models for Phishing Website Detection: Cost, Performance, and Privacy Trade-Offs, Nov 2025, [arxiv](https://arxiv.org/abs/2511.15434)
 - SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion, Mar 2025, [arxiv](https://arxiv.org/abs/2503.11576)
@@ -519,6 +521,8 @@ Also see [Evaluation Deep Research](#evaluation-deep-research)
 - Hybrid Hierarchical Retrieval for Open-Domain Question Answering, Jul 2023, [ACL 2023](https://aclanthology.org/2023.findings-acl.679/)
 ## Recommender Engines
 TODO to classify
+- RecGPT: A User Intent-Centric Next-Generation LLM-Powered Recommender System in Industrial Practice, Aug 2026, [ACM Transactions on Information Systems](https://dl.acm.org/doi/10.1145/3846382)
+- Who Are We Recommending To? Recommender Systems in the Agentic Web, Jul 2026, [arxiv](https://arxiv.org/abs/2609.11945)
 - OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service, Feb 2026, [WSDM 2026](https://dl.acm.org/doi/abs/10.1145/3773966.3777963)
 - Rethinking Recommendation Paradigms: From Pipelines to Agentic Recommender Systems, Apr 2026, [arxiv](https://arxiv.org/abs/2603.26100)
 - Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning, Oct 2025, [arxiv](https://arxiv.org/abs/2510.20150)
