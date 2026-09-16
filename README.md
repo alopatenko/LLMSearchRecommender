@@ -124,6 +124,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [The smallest vector index in the world. RAG Everything with LEANN!](https://github.com/yichuan-w/LEANN)
 ## Agentic Search
 also see [Evaluation Agentic Search](#evaluation-agentic-search)
+- Question's Gambit: The First Move Matters in Agentic Deep Search, Sep 2026, [arxiv](https://arxiv.org/abs/2609.14412)
 - Q2D-Web: A Large-Scale Benchmark for Retrieval in Agentic RAG Systems, Sep 2026, [arxiv](https://arxiv.org/abs/2609.08887)
 - Iris: Climbing to the Search Frontier, Sep 2026, [arxiv](https://arxiv.org/abs/2609.04304)
 - ITER: Interaction-Aware Retrieval for Agentic Search, Aug 2026, [arxiv](https://arxiv.org/abs/2608.27912)
@@ -477,6 +478,7 @@ bert based ranking, hybrid encoder based ranking
 ## Deep Research
 and Deep Search
 Also see [Evaluation Deep Research](#evaluation-deep-research)
+- Question's Gambit: The First Move Matters in Agentic Deep Search, Sep 2026, [arxiv](https://arxiv.org/abs/2609.14412)
 - BioMedArena: An Open-source Toolkit for Building and Evaluating Biomedical Deep Research Agents, May 2026, [arxiv](https://arxiv.org/abs/2605.06177)
 - DRACULA: Hunting for the Actions Users Want Deep Research Agents to Execute, Apr 2026, AllenAI, University of Maryland, [arxiv](https://arxiv.org/abs/2604.23815)
 - Dont Stop Early: Scalable Enterprise Deep Research with Controlled Information Flow and Evidence-Aware Termination, Apr 2026, Salesfore AI, [arxiv](https://arxiv.org/abs/2604.24978)
