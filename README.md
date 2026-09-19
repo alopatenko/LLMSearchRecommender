@@ -124,6 +124,18 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - SIGIR 2024 [The First Workshop on Large Language Models (LLMs) for Evaluation in Information Retrieval](https://llm4eval.github.io/SIGIR2024/papers/)
 - SIGIR 2024 [The Second Workshop on Generative Information Retrieval](https://coda.io/@sigir/gen-ir-24)
 ### Industrial conferences
+- [Haystack US 2026](https://archive.haystackconf.com/)
+- [Haystack Europe 2026](https://www.haystackconf.com/)
+- [RecSys 2026](https://recsys.acm.org/recsys26/)
+- [Unified Search and Recommendation Workshop @ RecSys 2026](https://usrw-workshop.github.io/2026/)
+- [2026 SIGIR Workshop on eCommerce](https://sigir-ecom.github.io/)
+- [The Web Conference 2026](https://www2026.thewebconf.org/)
+- [Search & Discovery Summit 2026](https://www.searchdiscovery.com/)
+- [Search Solutions 2026](https://www.bcs.org/events-calendar/2026/search-solutions-2026/)
+- [Enterprise Search & Discovery Conference](https://www.enterprisesearchanddiscovery.com/)
+- [Lucene/Solr Revolution 2026](https://lucenerevolution.org/)
+- [OpenSearchCon 2026](https://opensearch.org/events/opensearchcon/)
+- [ElasticON 2026](https://www.elastic.co/events)
 - Haystack [Haystack](https://haystackconf.com/)
 - Activate [Activate](https://lucidworks.com/activate-conference/)
 ## Tutorials
