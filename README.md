@@ -38,6 +38,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
   - [Document understanding](#document-understanding)
   - [Response generation](#response-generation), presentation of the search results
   - [Deep Research](#deep-research)
+    - [Prevention of hallucinations in Deep Research](#prevention-of-hallucinations-in-deep-research) 
   - [Hybrid search vs vector search](#hybrid-search-vs-vector-search)
   - [Recommender Engines](#recommender-engines)
   - [Discovery](#discovery)
@@ -512,6 +513,14 @@ Also see [Evaluation Deep Research](#evaluation-deep-research)
 - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search, Apr 2025, [arxiv](https://arxiv.org/abs/2504.08066) @DeepResearch 
 - Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents, Mar 2025, [arxiv](https://arxiv.org/abs/2503.24047)
 - Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools, Feb 2025, [arxiv](https://arxiv.org/abs/2502.04644)
+### Prevention of hallucinations in Deep Research
+- DeepTRACE: Auditing Deep Research AI Systems for Tracking Reliability Across Citations and Evidence, ICLR 2026, [ICLR 2026](https://proceedings.iclr.cc/paper_files/paper/2026/hash/ad08767706825033b99122332293033d-Abstract-Conference.html)
+- DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality, ACL 2026, [ACL 2026](https://aclanthology.org/2026.acl-long.1586/)
+- Beyond Single-shot Writing: Deep Research Agents are Unreliable at Multi-turn Report Revision, ACL 2026, [ACL 2026](https://aclanthology.org/2026.acl-long.609/)
+- Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification, ACL 2026, [ACL 2026](https://aclanthology.org/2026.findings-acl.1243/)
+- Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards, ACL 2026, [ACL 2026](https://aclanthology.org/2026.acl-long.950/)
+- DRNOISE: Benchmarking Deep Research Agents in Misleading Evidence Environments, Jul 2026, [arxiv](https://arxiv.org/abs/2607.17291?)
+- Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents, Apr 2026, [arxiv](https://arxiv.org/abs/2604.03173?)
 ## Hybrid search vs vector search 
 - Modernizing Facebook Scoped Search: Keyword and Embedding Hybrid Retrieval with LLM Evaluation, Sep 2025, [arxiv](https://arxiv.org/abs/2509.13603)
 - Efficient Knowledge Graph Construction and Retrieval from Unstructured Text for Large-Scale RAG Systems, Jul 2025, SAP, [arxiv](https://arxiv.org/abs/2507.03226)
