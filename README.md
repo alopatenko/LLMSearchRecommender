@@ -350,6 +350,8 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - walmart Retail Graph — Walmart’s Product Knowledge Graph, [walmart](https://medium.com/walmartglobaltech/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc)
 - Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations, [uber](https://www.uber.com/blog/uber-eats-graph-learning/)
 ## Retrieval
+- Connected Content Retriever: Dense Graph Edge Features Powering Pre-Ranking at LinkedIn, Sep 2026, [arxiv](https://arxiv.org/abs/2609.22441)
+- Guiding the coarse levels of semantic IDs makes the fine levels learnable, Sep 2026, [arxiv](https://arxiv.org/abs/2609.22227)
 - Can Language Models Actually Retrieve In-Context? Drowning in Documents at Million Token Scale, Jul 2026, [arxiv](https://arxiv.org/abs/2607.01538)
 - Scaling Laws for Embedding Dimension in Information Retrieval, Feb 2026, [arxiv](https://arxiv.org/abs/2602.05062)
 - Agentic-R: Learning to Retrieve for Agentic Search, Jan 2026, Baidu, [arxiv](https://arxiv.org/abs/2601.11888)
@@ -560,6 +562,11 @@ Also see [Evaluation Deep Research](#evaluation-deep-research)
 - Hybrid Hierarchical Retrieval for Open-Domain Question Answering, Jul 2023, [ACL 2023](https://aclanthology.org/2023.findings-acl.679/)
 ## Recommender Engines
 TODO to classify
+- Beyond Raw Engagement: A Counterfactual Observability Framework for Recommender Systems at Netflix, Sep 2026, [arxiv](https://arxiv.org/abs/2609.22747)
+- Inherit4Rec: Parameter Inheritance for Efficient Scaling of Recommendation Models, Sep 2026, [arxiv](https://arxiv.org/abs/2609.23111)
+- MuSeR: Scalable Long-sequence Recommendation with Multi-interest Modeling, Sep 2026, [arxiv](https://arxiv.org/abs/2609.23677)
+- Explainable Recommendations at Scale: LLM Rationales for YouTube Music Artist Discovery, Sep 2026, [arxiv](https://arxiv.org/abs/2609.23877)
+- What Makes a Good Semantic ID for Generative Recommendation? A Reproducibility Study, Sep 2026, [arxiv](https://arxiv.org/abs/2609.24430)
 - RecGPT: A User Intent-Centric Next-Generation LLM-Powered Recommender System in Industrial Practice, Aug 2026, [ACM Transactions on Information Systems](https://dl.acm.org/doi/10.1145/3846382)
 - Who Are We Recommending To? Recommender Systems in the Agentic Web, Jul 2026, [arxiv](https://arxiv.org/abs/2609.11945)
 - OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service, Feb 2026, [WSDM 2026](https://dl.acm.org/doi/abs/10.1145/3773966.3777963)
