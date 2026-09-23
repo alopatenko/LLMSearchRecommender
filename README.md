@@ -248,6 +248,10 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 - Asking Clarification Questions to Handle Ambiguity in Open-Domain QA, May 2023, [arxiv](https://arxiv.org/abs/2305.13808)
 - Asking Clarifying Questions in Open-Domain Information-Seeking Conversations, [SIGIR 2019](https://dl.acm.org/doi/abs/10.1145/3331184.3331265)
 ## Multi Turn
+- Conversational Query Reformulation with the Guidance of Retrieved Documents, Jul 2026, [paper](https://www.techscience.com/cmc/v88n3/68080)
+- Improving Ad-hoc Search Effectiveness for Conversational Information Retrieval via Model Merging, SIGIR 2026, Jul 2026, [arxiv](https://arxiv.org/abs/2607.08540)
+- RECOR: Reasoning-focused Multi-turn Conversational Retrieval Benchmark, ACL 2026, Jul 2026, [ACL Anthology](https://aclanthology.org/2026.findings-acl.129/)
+- Agentic Conversational Search with Contextualized Reasoning via Reinforcement Learning, Jan 2026, [arxiv](https://arxiv.org/abs/2601.13115)
 - Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation, SIGIR 2025, [arxiv](https://arxiv.org/abs/2504.17427)
 - Proactive Guidance of Multi-Turn Conversation in Industrial Search, Baidu, May 2025, [arxiv](https://arxiv.org/abs/2505.24251)
 - LLMs Get Lost In Multi-Turn Conversation, May 2025, [arxiv](https://arxiv.org/abs/2505.06120)
