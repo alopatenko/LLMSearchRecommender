@@ -237,6 +237,14 @@ The section should be rewritten, there are a lot of changes from FreshLLM time
 - Open-Retrieval Conversational Question Answering, [SIGIR 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401110)
 ## Search Assistance
 autocomplete/autosuggest and other search assistance tasks, search clarification, query recommendation and other techniques guiding users in search
+- Conversational Query Reformulation with the Guidance of Retrieved Documents, 2026, [paper](https://www.techscience.com/cmc/v88n3/68080)
+- From “People Also Ask” to Clarifying Questions for Conversational Search Using Parameter-Efficient Fine-Tuning and Prompt Engineering, Jun 2026, [paper](https://link.springer.com/article/10.1007/s00799-026-00445-z)
+- Query Refinement in Dense Retrieval Using LLM-Driven Relevance Feedback, May 2026, [paper](https://proceedings.mlr.press/v318/karimi26a.html)
+- Generating Multi-Aspect Queries for Conversational Search, EACL 2026, [ACL Anthology](https://aclanthology.org/2026.eacl-long.383/)
+- Query-guided expansion and contraction of document sets, Feb 2026, [paper](https://doi.org/10.1016/j.ins.2025.122779)
+- Query Suggestion for Retrieval-Augmented Generation via Dynamic In-Context Learning, Jan 2026, [arxiv](https://arxiv.org/abs/2601.08105)
+- SmartSearch: Process Reward-Guided Query Refinement for Search Agents, Jan 2026, [arxiv](https://arxiv.org/abs/2601.04888)
+- In-Browser Agents for Search Assistance, CHIIR 2026, Mar 2026, [paper](https://doi.org/10.1145/3786304.3787913)
 - OneSug: The Unified End-to-End Generative Framework for E-commerce Query Suggestion, AAAI 2026 [AAAI 2026](https://dl.acm.org/doi/abs/10.1145/3773966.3777963)
 - LLM-based Search Assistant with Holistically Guided MCTS for Intricate Information Seeking, 2025, [SIGIR 2025](https://dl.acm.org/doi/abs/10.1145/3726302.3730025)
 - Evaluating auto-complete ranking for diversity and relevance, [ECIR 2025](https://www.amazon.science/publications/evaluating-auto-complete-ranking-for-diversity-and-relevance)
