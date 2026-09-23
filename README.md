@@ -422,7 +422,6 @@ bert based ranking, hybrid encoder based ranking
 - Understanding the Behaviors of BERT in Ranking, 2019, [arxiv](https://arxiv.org/abs/1904.07531)
 - Passage Re-ranking with BERT, 2019, [arxiv](https://arxiv.org/abs/1901.04085)
 ### Reranking
-- Listwise Cross-Encoder Fine-Tuning vs. Agentic Instruction Tuning for LLM Rerankers: A Systematic Study in Medical Procedure Reranking, Aug 2026, [arxiv](https://arxiv.org/abs/2608.09650)
 - Revisiting Text Ranking in Deep Research, SIGIR 2026, Jul 2026, [arxiv](https://arxiv.org/abs/2605.18838)
 - Very Efficient Listwise Multimodal Reranking for Long Documents, May 2026, [arxiv](https://arxiv.org/abs/2605.11864)
 - ResRank: Unifying Retrieval and Listwise Reranking via End-to-End Joint Training with Residual Passage Compression, Apr 2026, [arxiv](https://arxiv.org/abs/2604.22180)
