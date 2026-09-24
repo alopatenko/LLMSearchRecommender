@@ -439,6 +439,10 @@ bert based ranking, hybrid encoder based ranking
 - Rank-K: Test-Time Reasoning for Listwise Reranking, May 2025, [arxiv](https://arxiv.org/abs/2505.14432)
 - Rank1: Test-Time Compute for Reranking in Information Retrieval, Feb 2025, [arxiv](https://arxiv.org/abs/2502.18418)
 ## Query Understanding
+- Scaling Intent Understanding: A Framework for Classification with Clarification using Lightweight LLMs, Mar 2026, [EACL](https://aclanthology.org/2026.eacl-industry.14/)
+- What Makes a Good Query? Measuring the Impact of Human-Confusing Linguistic Features on LLM Performance, Mar 2026, [EACL](https://aclanthology.org/2026.findings-eacl.251/)
+- Generating Multi-Aspect Queries for Conversational Search, Mar 2026, [EACL](https://aclanthology.org/2026.eacl-long.383/)
+- QueStER: Query Specification for Generative Keyword-Based Retrieval, Mar 2026, [EACL](https://aclanthology.org/2026.findings-eacl.312/)
 - Beyond the limitation of a single query: Train your LLM for query expansion with Reinforcement Learning, NVidia Oct 2025, [arxiv](https://arxiv.org/abs/2510.10009)
 - ParallelSearch: Train your LLMs to Decompose Query and Search Sub-queries in Parallel with Reinforcement Learning, NVidia, Aug 2025, [arxiv](https://arxiv.org/abs/2508.09303)
 - Powering Job Search at Scale: LLM-Enhanced Query Understanding in Job Matching Systems, Aug 2025, Linkedin, [arxiv](https://arxiv.org/abs/2509.09690)
