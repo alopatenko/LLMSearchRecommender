@@ -9,84 +9,84 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 # 🔍 LLM, Search & Recommender Engines
 
 ## 📚 Foundations
-- [Search Surveys](#search-surveys)
-- [Recommender Engine Surveys](#recommender-engine-surveys)
-- [Conferences, Workshops](#conferences-workshops)
-  - [Industrial Conferences](#industrial-conferences)
-- [Tutorials](#tutorials)
-- [Software, Libraries, Frameworks](#software-libraries-frameworks)
-- [Blog Posts, Whitepapers](#blog-posts-whitepapers)
+- [Search Surveys](#search-surveys) — broad reviews of AI-driven search
+- [Recommender Engine Surveys](#recommender-engine-surveys) — reviews of LLM-powered recommendation methods
+- [Conferences, Workshops](#conferences-workshops) — SIGIR, RecSys, KDD, WWW and other venues, top conferences for search and recommendation
+  - [Industrial Conferences](#industrial-conferences) — Industrial events such as Haystack and Activate practitioner events
+- [Tutorials](#tutorials) — Tutorials
+- [Software, Libraries, Frameworks](#software-libraries-frameworks) — open-source deep research and AI search/recommender tools
+- [Blog Posts, Whitepapers](#blog-posts-whitepapers) — industry write-ups from Netflix, Pinterest, Anthropic and other industrial blogs
 
 ## 🤖 Agentic & Conversational Search
-- [Agentic Search](#agentic-search)
-  - [Heterogeneous & Enterprise Agentic Search](#heterogeneous-and-enterprise-agentic-search)
-- [FreshLLM & Similar Architectures](#freshllm-and-similar-architectures-llm-and-large-scale-search)
-- [Conversational Search](#conversational-search)
-- [Search Assistance](#search-assistance)
-- [Multi-Turn](#multi-turn)
-- [Search as Task Solving](#task-solving)
+- [Agentic Search](#agentic-search) — RL-trained agents and other agents for search
+- [Heterogeneous & Enterprise Agentic Search](#heterogeneous-and-enterprise-agentic-search) — agents retrieving across enterprise metadata sources
+- [FreshLLM & Similar Architectures](#freshllm-and-similar-architectures-llm-and-large-scale-search) — FreshLLM and similar approaches fresh LLM knowledge via search
+- [Conversational Search](#conversational-search) — multi-turn dense retrieval and rewriting
+- [Search Assistance](#search-assistance) — autocomplete, clarification, facets, and query suggestion
+- [Multi-Turn](#multi-turn) — context carried across dialogue turns
+- [Search as Task Solving](#task-solving) — agents completing goal-driven web tasks
 
 ## 🎯 Core Capabilities
-- [Personalization](#personalization)
-- [Multi-Modal](#multi-modal)
-- [Multi-Lingual](#multi-lingual)
-- [Question Answering](#question-answering)
-- [Querying Structured Information](#querying-structured-information)
-- [Time-Aware Search](#time-aware-search)
-- [Document Understanding](#document-understanding)
+- [Personalization](#personalization) — user embeddings tailoring retrieval and recommendations
+- [Multi-Modal](#multi-modal) — retrieval across images, video, documents
+- [Multi-Lingual](#multi-lingual) — cross-lingual retrieval and embedding alignment
+- [Question Answering](#question-answering) — domain QA in medicine, code, chemistry and other domains
+- [Querying Structured Information](#querying-structured-information) — text-to-SQL and table understanding
+- [Time-Aware Search](#time-aware-search) — retrieval sensitive to temporal context
+- [Document Understanding](#document-understanding) — vision-language parsing of documents
 
 ## 🧩 RAG & Retrieval
-- [RAG](#rag)
-  - [Knowledge Graphs & RAG, GraphRAG](#knowledge-graphs-and-rag-graphrag)
-    - [Industrial Blog Articles](#industrial-blog-articles)
-- [Retrieval](#retrieval)
-- [Hybrid Search vs Vector Search](#hybrid-search-vs-vector-search)
+- [RAG](#rag) — RAG
+- [Knowledge Graphs & RAG, GraphRAG](#knowledge-graphs-and-rag-graphrag) — combining graph structures with retrieval
+- [Industrial Blog Articles](#industrial-blog-articles) — Airbnb, Amazon, Pinterest knowledge-graph engineering
+- [Retrieval](#retrieval) — dense retrievers scaled with LLM guidance
+- [Hybrid Search vs Vector Search](#hybrid-search-vs-vector-search) — combining keyword / bm25 and embedding retrieval
 
 ## 📊 Ranking & Embeddings
-- [Ranking for Search](#ranking-for-search)
-  - [Reranking](#reranking)
-  - [Classical Bi-Encoder & Cross-Encoder Ranking](#classical-bi-encoder-and-cross-encoder-ranking)
-- [Query Understanding](#query-understanding)
-- [Embedding Models](#embedding-models)
-  - [Evaluation](#embedding-models-evaluation)
-  - [Optimization](#optimization-of-embedding-models)
-  - [Training](#embedding-training)
-  - [Fine-Tuning](#finetuning-embedding-models)
+- [Ranking for Search](#ranking-for-search) — multi-objective, learning-to-rank at scale
+- [Reranking](#reranking) — LLM-based listwise reranking of results
+- [Classical Bi-Encoder & Cross-Encoder Ranking](#classical-bi-encoder-and-cross-encoder-ranking) — BERT-era dense and interaction rankers
+- [Query Understanding](#query-understanding) — expanding and rewriting search queries
+- [Embedding Models](#embedding-models) — general-purpose text and multimodal embeddings
+- [Evaluation](#embedding-models-evaluation) — retrieval and ranking and search benchmarks
+- [Optimization](#optimization-of-embedding-models) — compressing embeddings for efficient retrieval
+- [Training](#embedding-training) — foundation-model approaches to embedding training
+- [Fine-Tuning](#finetuning-embedding-models) — adapting embeddings via distillation and contrastive learning
 
 ## 🧠 Generation & Research
-- [Response Generation & Presentation](#response-generation)
-- [Deep Research](#deep-research)
-  - [Prevention of Hallucinations in Deep Research](#prevention-of-hallucinations-in-deep-research)
-- [AI Scientists for Search](#ai-scientists-for-search)
+- [Response Generation & Presentation](#response-generation) — grounded, citation-aware answer generation
+- [Deep Research](#deep-research) — long-horizon autonomous multi-step research agents
+- [Prevention of Hallucinations in Deep Research](#prevention-of-hallucinations-in-deep-research) — verification-centric agent design against fabrication
+- [AI Scientists for Search](#ai-scientists-for-search) — LLM agents discovering new ranking models
 
 ## 🎬 Recommender Systems
-- [Recommender Engines](#recommender-engines)
-- [Discovery](#discovery)
-- [Recommender Rankers](#recommender-rankers)
-- [Sequential Recommendation](#sequential-recommendation)
-- [Industrial Approaches](#industrial-approaches)
-- [Unclassified](#unclassified)
+- [Recommender Engines](#recommender-engines) — LLM-driven, industrial-scale recommendation architectures
+- [Discovery](#discovery) — exploring novel user interests at scale
+- [Recommender Rankers](#recommender-rankers) — LLMs as zero-shot item rankers
+- [Sequential Recommendation](#sequential-recommendation) — modeling user action sequences over time
+- [Industrial Approaches](#industrial-approaches) — production search over complex documents
+- [Unclassified](#unclassified) — miscellaneous retrieval and routing methods
 
 ## ✅ Evaluation
-- [Evaluation of Search Engines](#evaluation-of-search-engines)
-  - [RAG & QA](#evaluation-of-rag)
-  - [Deep Research](#evaluation-deep-research)
-  - [Agentic Search](#evaluation-agentic-search)
-  - [Reasoning & RAG](#evaluation-reasoning-and-rag)
-  - [QA Benchmarks](#qa-benchmarks)
+- [Evaluation of Search Engines](#evaluation-of-search-engines) — LLM judges for search relevance
+- [RAG & QA](#evaluation-of-rag) — benchmarks for retrieval-augmented answer quality
+- [Deep Research](#evaluation-deep-research) — benchmarks for multi-step research agents
+- [Agentic Search](#evaluation-agentic-search) — benchmarks for autonomous browsing agents
+- [Reasoning & RAG](#evaluation-reasoning-and-rag) — reasoning-intensive retrieval benchmark datasets
+- [QA Benchmarks](#qa-benchmarks) — classic and modern question-answering datasets
 
 ## 🏢 Verticals
-- [Product Search](#product-search)
-- [Location Aware (Maps, Real Estate, Local, Travel)](#location-aware-maps-real-estate-local-travel)
-- [Ads / Advertisement](#ads--advertisement)
-- [Real Estate](#real-estate)
-- [Healthcare](#healthcare)
-- [Science](#science)
-- [Finance](#finance)
-- [Legal](#legal)
-- [Job](#job)
-- [Search Engine Optimization](#search-engine-optimization)
-- [MRO — Maintenance, Repair, Overhaul (Manufacturing)](#maintenance-repair-manufacturing)
+- [Product Search](#product-search) — e-commerce relevance and semantic retrieval
+- [Location Aware (Maps, Real Estate, Local, Travel)](#location-aware-maps-real-estate-local-travel) — Airbnb's location ranking and retrieval systems
+- [Ads / Advertisement](#ads--advertisement) — generative ad text and retrieval scaling
+- [Real Estate](#real-estate) — demand-balanced ranking for rental platforms
+- [Healthcare](#healthcare) — medical LLMs for clinical question answering
+- [Science](#science) — LLM agents for academic paper search
+- [Finance](#finance) — (section currently empty)
+- [Legal](#legal) — conversational versus traditional legal case retrieval
+- [Job](#job) — LLM-enhanced query understanding for job matching
+- [Search Engine Optimization](#search-engine-optimization) — adversarial manipulation of LLM search rankings
+- [MRO — Maintenance, Repair, Overhaul (Manufacturing)](#maintenance-repair-manufacturing) — knowledge graphs and RAG for industrial maintenance
 
 
 
