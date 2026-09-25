@@ -53,7 +53,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [Training](#embedding-training) — foundation-model approaches to embedding training
 - [Fine-Tuning](#finetuning-embedding-models) — adapting embeddings via distillation and contrastive learning
 
-## 🧠 Generation & Research
+## 🧠 Response Generation & Deep Research
 - [Response Generation & Presentation](#response-generation) — grounded, citation-aware answer generation
 - [Deep Research](#deep-research) — long-horizon autonomous multi-step research agents
 - [Prevention of Hallucinations in Deep Research](#prevention-of-hallucinations-in-deep-research) — verification-centric agent design against fabrication
@@ -67,7 +67,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 - [Industrial Approaches](#industrial-approaches) — production search over complex documents
 - [Unclassified](#unclassified) — miscellaneous retrieval and routing methods
 
-## ✅ Evaluation
+## ✅ Evaluation 
 - [Evaluation of Search Engines](#evaluation-of-search-engines) — LLM judges for search relevance
 - [RAG & QA](#evaluation-of-rag) — benchmarks for retrieval-augmented answer quality
 - [Deep Research](#evaluation-deep-research) — benchmarks for multi-step research agents
