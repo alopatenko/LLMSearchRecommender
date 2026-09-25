@@ -7,6 +7,7 @@ see also [LLM Evaluation methods](https://github.com/alopatenko/LLMEvaluation) [
 ## Table of Content
 
 # 🔍 LLM, Search & Recommender Engines
+![Chart of Search AI](search.png)
 
 ## 📚 Foundations
 - [Search Surveys](#search-surveys) — broad reviews of AI-driven search
