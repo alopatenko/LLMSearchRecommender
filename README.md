@@ -349,7 +349,6 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG, Aug 2026, [PMLR](https://proceedings.mlr.press/v306/ki26a.html)
 - Enhancing Multilingual RAG Systems with Debiased Language Preference-Guided Query Fusion, Jul 2026, [ACL Anthology](https://aclanthology.org/2026.findings-acl.1353/)
 - Language-Coupled Reinforcement Learning for Multilingual Retrieval-Augmented Generation, Jul 2026, [ACL Anthology](https://aclanthology.org/2026.findings-acl.700/)
-- Agentic-R: Learning to Retrieve for Agentic Search, Jul 2026, [ACL Anthology](https://aclanthology.org/2026.findings-acl.785/)
 - Breaking Language Preference in Multilingual RAG via Language-Controllable Retrieval and Language-Agnostic Reasoning, Jul 2026, [ACL Anthology](https://aclanthology.org/2026.findings-acl.374/)
 - Beyond Monolingual Deep Research: Evaluating Agents and Retrievers with Cross-Lingual BrowseComp-Plus, Jun 2026, [arXiv](https://arxiv.org/abs/2606.15345)
 - Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Question Answering Task, Mar 2026, [ACL Anthology](https://aclanthology.org/2026.findings-eacl.35/)
