@@ -345,6 +345,14 @@ autocomplete/autosuggest and other search assistance tasks, search clarification
 ## Multi Lingual
 Cross Language Information Retrieval (CLIR) and other technique to make search engines multi lingual
 Also, see several multi lingual benchmarks and multi lingual embedding models in the other parts of this survey
+- MAST: Multilingual Agentic Search Track, Sep 2026, [project website](https://mast-benchmark.github.io/)
+- Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG, Aug 2026, [PMLR](https://proceedings.mlr.press/v306/ki26a.html)
+- Enhancing Multilingual RAG Systems with Debiased Language Preference-Guided Query Fusion, Jul 2026, [ACL Anthology](https://aclanthology.org/2026.findings-acl.1353/)
+- Language-Coupled Reinforcement Learning for Multilingual Retrieval-Augmented Generation, Jul 2026, [ACL Anthology](https://aclanthology.org/2026.findings-acl.700/)
+- Agentic-R: Learning to Retrieve for Agentic Search, Jul 2026, [ACL Anthology](https://aclanthology.org/2026.findings-acl.785/)
+- Breaking Language Preference in Multilingual RAG via Language-Controllable Retrieval and Language-Agnostic Reasoning, Jul 2026, [ACL Anthology](https://aclanthology.org/2026.findings-acl.374/)
+- Beyond Monolingual Deep Research: Evaluating Agents and Retrievers with Cross-Lingual BrowseComp-Plus, Jun 2026, [arXiv](https://arxiv.org/abs/2606.15345)
+- Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Question Answering Task, Mar 2026, [ACL Anthology](https://aclanthology.org/2026.findings-eacl.35/)
 - Evaluating Large Language Models for Cross-Lingual Retrieval, Sep 2025, [arxiv](https://arxiv.org/abs/2509.14749)
 - A Comprehensive Evaluation of Embedding Models and LLMs for IR and QA Across English and Italian, May 2025, [ Advances in Natural Language Processing and Text Mining May 2025](https://www.mdpi.com/2504-2289/9/5/141)
 - The Cross-Lingual Cost: Retrieval Biases in RAG over Arabic-English Corpora, Jul 2025, [arxiv](https://arxiv.org/abs/2507.07543)
