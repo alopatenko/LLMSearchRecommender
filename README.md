@@ -570,6 +570,9 @@ bert based ranking, hybrid encoder based ranking
 - Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models, Jun 2025, [arxiv](https://arxiv.org/abs/2506.05176)
 - CSMF: Cascaded Selective Mask Fine-Tuning for Multi-Objective Embedding-Based Retrieval, Apr 2025, [arxiv](https://arxiv.org/abs/2504.12920)
 ### Finetuning embedding models
+- REIGN: Refurbished Embeddings with Integrated Guidance Networks for Efficient Context-Length Scaling, Aug 2026, [arXiv](https://arxiv.org/abs/2608.29899)
+- SlugRAG at SemEval-2026 Task 8: Domain-Specific Fine-Tuning and Model Scaling for Multi-Turn RAG Retrieval, Jul 2026, [ACL Anthology](https://aclanthology.org/2026.semeval-1.135/)
+- Situated Embedding Models for Context-Aware Dense Retrieval, Jul 2026, [ACL Anthology](https://aclanthology.org/2026.acl-short.5/)
 - Resource-Efficient Adaptation of Large Language Models for Text Embeddings via Prompt Engineering and Contrastive Fine-tuning, July 2025, [arxiv](https://arxiv.org/abs/2507.22729)
 - Conventional Contrastive Learning Often Falls Short: Improving Dense Retrieval with Cross-Encoder Listwise Distillation and Synthetic Data, May 2025, [arxiv](https://arxiv.org/abs/2505.19274)
 - Pre-training vs. Fine-tuning: A Reproducibility Study on Dense Retrieval Knowledge Acquisition, May 2025, [arxiv](https://arxiv.org/abs/2505.07166)
