@@ -371,6 +371,13 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - Listen, Think, and Understand, OpenAQA dataset, May 2023, [arxiv](https://arxiv.org/abs/2305.10790) 
 - Clotho-AQA: A Crowdsourced Dataset for Audio Question Answering, Apr 2022, [arxiv](https://arxiv.org/abs/2204.09634)
 ## Querying Structured Information
+- Rethinking Text-to-SQL: Dynamic Multi-turn SQL Interaction for Real-world Database Exploration, Jul 2026 [ACL Anthology](https://aclanthology.org/2026.findings-acl.1654/)
+- QBridge: Bridging Natural Language and SQL via Gold Query Rewriting with Agentic Refinement, Jul 2026 [ACL Anthology](https://aclanthology.org/2026.acl-long.402/)
+- PV-SQL: Synergizing Database Probing and Rule-based Verification for Text-to-SQL Agents, Jul 2026 [ACL Anthology](https://aclanthology.org/2026.findings-acl.1286/)
+- SQL-Trail: Multi-Turn Reinforcement Learning with Interleaved Feedback for Text-to-SQL, Jul 2026 [ACL Anthology](https://aclanthology.org/2026.acl-long.1677/)
+- AV-SQL: Decomposing Complex Text-to-SQL Queries with Agentic Views, Apr 8, 2026 [arXiv](https://arxiv.org/abs/2604.07041)
+- A Systematic Review of Natural Language Interfaces for Databases, Mar 7, 2026 [Frontiers of Computer Science](https://link.springer.com/article/10.1007/s11704-025-50592-w)
+- SQLAgent: Learning to Explore Before Generating as a Data Engineer, Feb 2026 [ACL Anthology](https://aclanthology.org/2026.findings-acl.1959/)
 - A Survey on Employing Large Language Models for Text-to-SQL Tasks, May 2025, [ACM Computing Surveys](https://dl.acm.org/doi/abs/10.1145/3737873)
 - Querying Databases with Function Calling, Jan 2025, [arxiv](https://arxiv.org/abs/2502.00032)
 - Large language model for table processing: a survey, Jan 2025, [ Frontiers of Computer Science ](https://link.springer.com/article/10.1007/s11704-024-40763-6)
