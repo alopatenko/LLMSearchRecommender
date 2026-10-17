@@ -905,6 +905,16 @@ QA is used in many vertical domains, see Vertical section bellow
 ### Real estate
 - Beyond Relevance: A Demand Balancer Model for Rental Platforms with Single-Unit Inventory, [WSDM 2025](https://dl.acm.org/doi/abs/10.1145/3701551.3706126)
 ### Healthcare
+- A PRISMA-Aligned Agentic Framework for Medical Systematic Reviews and Evidence Synthesis, Aug 3, 2026 [medRxiv](https://www.medrxiv.org/content/10.64898/2026.07.30.26359375v2)
+- DEEPMED Search: An Open-Source Agentic Platform for Medical Deep Research with Introspective Verification, Jun 29, 2026 [arXiv](https://arxiv.org/abs/2606.29746)
+- HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents, Jun 2026 [Microsoft Research](https://www.microsoft.com/en-us/research/publication/healthagentbench-a-unified-benchmark-suite-of-realistic-agentic-healthcare-environments-for-challenging-frontier-ai-agents/)
+- A Comprehensive Survey of AI Agents in Healthcare, Jul 2026 [Journal of Biomedical Informatics](https://www.sciencedirect.com/science/article/pii/S1532046426000699)
+- DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI, Apr 16, 2026 [arXiv](https://arxiv.org/abs/2604.15456)
+- The Role of Agentic Artificial Intelligence in Healthcare: A Scoping Review, Mar 14, 2026 [npj Digital Medicine](https://www.nature.com/articles/s41746-026-02517-5)
+- Benchmarking Large Language Model-Based Agent Systems for Clinical Decision Tasks, Feb 18, 2026 [npj Digital Medicine](https://www.nature.com/articles/s41746-026-02443-6)
+- SAGE: Benchmarking and Improving Retrieval for Deep Research Agents, Feb 5, 2026 [arXiv](https://arxiv.org/abs/2602.05975)
+- Causal-Enhanced AI Agents for Medical Research Screening, Jan 6, 2026 [arXiv](https://arxiv.org/abs/2601.02814)
+- Performance of Large Language Models in Automated Medical Literature Screening: A Systematic Review and Meta-Analysis, Jul 25, 2026 [Journal of Evidence-Based Medicine](https://doi.org/10.1111/jebm.70166)
 - MedExpQA: Multilingual benchmarking of Large Language Models for Medical Question Answering, Sep 2024, [AI in Medicine](https://www.sciencedirect.com/science/article/pii/S0933365724001805)
 - Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries, [WWW 2024](https://dl.acm.org/doi/abs/10.1145/3589334.3645643)
 - JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional Question Answering Capability, Jun 2024, [arxiv](https://arxiv.org/abs/2402.17887)
