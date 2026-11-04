@@ -397,8 +397,10 @@ Also, see several multi lingual benchmarks and multi lingual embedding models in
 - A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going?, Aug 2024, [arxiv](https://arxiv.org/abs/2408.05109)
 - Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL, Jun 2024, [arxiv](https://arxiv.org/abs/2406.08426)
 ## RAG
+- SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation, Jun 2026, [arxiv](https://arxiv.org/abs/2606.27786)
 - Predict the Retrieval! Test time adaptation for Retrieval Augmented Generation, Jan 2026, [arxiv](https://arxiv.org/abs/2601.11443)
 - How We Built a Semantic Highlight Model To Save Token Cost for RAG, Jan 2026, [HuggingFace](https://huggingface.co/blog/zilliz/zilliz-semantic-highlight-model)
+- ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation, Dec 2025, [NeurIPS 2025](https://openreview.net/forum?id=CyUq9D99vE)
 - InfoGain-RAG: Boosting Retrieval-Augmented Generation through Document Information Gain-based Reranking and Filtering, Nov 2025, [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.365.pdf)
 - Each to Their Own: Exploring the Optimal Embedding in RAG, Jul 2025, [arxiv](https://arxiv.org/abs/2507.17442)
 - Synergizing RAG and Reasoning: A Systematic Review, Apr 2025, [arxiv](https://arxiv.org/abs/2504.15909)
